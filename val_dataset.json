@@ -1,0 +1,908 @@
+{
+    "queries": {
+        "d61ae5cf-c632-4bee-9b55-489bfc4d5c1d": "Hvad er betingelserne for at opn\u00e5 ret til dagpenge som en ledig gr\u00e6nsearbejder, der har v\u00e6ret medlem af en dansk a-kasse under drift af selvst\u00e6ndig virksomhed i Danmark?",
+        "3d726de4-9a35-4f9c-a537-47333a94d967": "Hvilke muligheder har en ledig gr\u00e6nsearbejder, der har v\u00e6ret medlem af en dansk a-kasse under drift af selvst\u00e6ndig virksomhed i Danmark, hvis bop\u00e6lslandet ikke har en arbejdsl\u00f8shedsforsikring for selvst\u00e6ndige?",
+        "5c9730a0-60ef-42ad-aa05-a29b9aeb1c8a": "Hvad er betingelserne for at opn\u00e5 ret til dansk efterl\u00f8n?",
+        "fb4e4d5f-09a2-4096-a771-898ff88c019a": "Hvordan er efterl\u00f8n og fleksydelse klassificeret i forhold til social sikring if\u00f8lge grundforordningen?",
+        "28e572c3-8e24-4f40-85a8-c47bdc9b7d94": "Hvorn\u00e5r forventes det, at elektronisk udveksling af SED\u2019ere kan finde sted?",
+        "099884ef-cef4-421a-8cdd-8f314341bc08": "Hvor kan man finde Master Directory, som indeholder oplysninger om de enkelte landes socialsikringsinstitutioner?",
+        "36ed39a3-c395-4f93-915c-85f7e7f714c2": "Hvordan bliver SED'er sendt til andre lande, og hvilke oplysninger bliver krypteret?",
+        "4784fd33-a7dd-4f9f-be25-3344ba94aca0": "Hvad er forskellen mellem SED'er og personb\u00e5rne dokumenter, og hvordan bliver de sendt mellem institutionerne i overgangsperioden?",
+        "79bafe8c-7870-4167-b4b2-db70129c3b4f": "Hvilke lande har en obligatorisk arbejdsl\u00f8shedsforsikring for selvst\u00e6ndige erhvervsdrivende?",
+        "df4bdf19-a3a2-4946-87b0-00e79fd287ef": "Hvad er Ryderg\u00e5rd-dommen, og hvordan p\u00e5virker den arbejdsl\u00f8shedsforsikringen for selvst\u00e6ndige erhvervsdrivende?",
+        "333d8ba5-e46a-4af2-95b4-f3a0cbf8b412": "Hvad er form\u00e5let med At-vejledningen om ensidigt, belastende arbejde?",
+        "a1dc3a85-1602-4403-b90f-87f59086f96d": "Hvor forekommer ensidigt, belastende arbejde, og hvilke brancher og jobkategorier kan det findes inden for?",
+        "785f7312-b806-45d1-b896-5b08b35366fd": "Hvad er nogle eksempler p\u00e5 erhverv, hvor ensidigt og belastende arbejde kan forekomme?",
+        "5a5e052d-92d2-4fd2-9196-9fbf1dd6f00e": "Hvad er nogle af de helbredsrisici, der kan opst\u00e5 som f\u00f8lge af ensidigt og belastende arbejde?",
+        "ac87a8ea-5b3b-4612-b34a-02616c25bfee": "Hvad er \u00e5rsagen til skader som f\u00f8lge af ensidigt, belastende arbejde?",
+        "7706c346-0f15-421f-8e6c-3f3438a64dc8": "Hvilke faktorer bestemmer, om ensidigt, belastende arbejde udg\u00f8r en risikobelastning?",
+        "015d4a2c-eb11-4239-bced-4ddd6c95cf9a": "Hvad er nogle af de forskellige former for ensidigt, belastende arbejde, der kan f\u00f8re til nedslidning og helbredsproblemer p\u00e5 lang sigt?",
+        "a46ed53c-055d-40e6-bc9d-6941cc043ada": "Hvad er nogle af de typiske lidelser, der kan opst\u00e5 som f\u00f8lge af mange timers intensivt ensidigt, belastende arbejde, is\u00e6r hvis arbejdet samtidig er uvant?",
+        "604e48e7-5606-450a-801d-526bc0e45756": "Hvad er form\u00e5let med at anl\u00e6gge et helhedssyn, n\u00e5r virksomheden vurderer og forebygger ensidigt, belastende arbejde?",
+        "1ebf2050-ad05-4f9a-b04a-1cb21aed90a0": "Hvilke krav stilles if\u00f8lge bekendtg\u00f8relsen om arbejdets udf\u00f8relse til planl\u00e6gningen af ensidigt, belastende arbejde?",
+        "2ea2a310-5666-42ba-9908-25b2e9a50eb2": "Hvad er virksomhedens ansvar i forhold til at sikre de ansattes sikkerhed og sundhed i arbejdsmilj\u00f8et?",
+        "e20d599c-aa42-49ed-be26-c1684cf8c0b3": "Hvad skal der tages hensyn til, n\u00e5r man udformer arbejdspladsen og v\u00e6lger arbejdsudstyr samt arbejds- og produktionsmetoder?",
+        "e60be730-2a61-4393-bb1f-22db589dd900": "Hvad er form\u00e5let med reglerne om at udf\u00f8re EBA (arbejde)?",
+        "83b72cba-5dd1-455b-b56c-d682276306e8": "Hvad skal der tilstr\u00e6bes for at undg\u00e5 fysisk eller psykisk helbredsforringelse ved udf\u00f8relse af arbejdet?",
+        "38cf65d9-d07e-4ac0-badc-ed1ac3828d90": "Hvad er arbejdsgiverens ansvar i forhold til at sikre, at de ansatte udf\u00f8rer arbejdet p\u00e5 en sikker m\u00e5de?",
+        "c2937e78-62e5-42ed-827b-5b5dd399e052": "Hvorn\u00e5r betragtes arbejdet som ensidigt, gentaget arbejde, og hvilke konsekvenser kan det have for arbejdstiden og pauserne?",
+        "7d923ba5-39e6-42a0-bd13-f796dd637700": "Hvad er de typiske gener og helbredsskader, der kan opst\u00e5 som f\u00f8lge af ensidigt, gentaget arbejde?",
+        "54243065-35cb-4e9c-9695-cfd359dca0d2": "Hvad er nogle af de faktorer, der kan \u00f8ge risikoen for helbredsskader som f\u00f8lge af ensidigt, gentaget arbejde?",
+        "3ec6868a-35f2-47b2-b0b0-ed9b59ad94ac": "Hvordan kan man vurdere risikoen ved ensartede gentagne bev\u00e6gelser p\u00e5 arbejdspladsen?",
+        "50dcac7b-f09e-4747-b6fb-29f57dd3e963": "Hvad er forskellen mellem cyklustid og observationstid i forbindelse med vurdering af ensidigt, gentaget arbejde?",
+        "6a9b7bb7-2a9e-44a9-a627-135c3830dc4a": "Hvad er form\u00e5let med at opg\u00f8re arbejdet ved hj\u00e6lp af cyklustid eller observationstid?",
+        "f238fed2-5d81-49bf-84b0-dd4da79834c6": "Hvordan klassificeres arbejdet som h\u00f8j- eller lavrepetitivt, og hvilke faktorer bruges til denne klassificering?",
+        "03a0e91f-01b4-4c2a-8055-c0f8ed8695de": "Hvordan kan virksomheden kortl\u00e6gge og vurdere EGA (ensartede bev\u00e6gelser) i arbejdsfunktionerne?",
+        "3df4a9db-26a7-4de8-99e3-82b7d8045c51": "Hvordan kan tidspres p\u00e5virke belastningen af muskler, sener og led i forbindelse med EGA?",
+        "d2ef88e6-3f1d-4fcb-8057-02ff05ebfaa0": "Hvordan vurderes belastningen, n\u00e5r der rokeres mellem arbejdsfunktioner, og varigheden af funktionerne l\u00e6gges sammen?",
+        "e3a7ce2d-5e5e-42ca-b40b-f8c49511d27e": "Hvordan kan belastningen gradueres i forhold til kraftanvendelse i arbejdsfunktionerne?",
+        "734faa37-a739-433e-8e20-b848487ded8e": "Hvad er nogle af de faktorer, der kan bidrage til belastende arbejdsstillinger og -bev\u00e6gelser?",
+        "d0688401-441c-49fc-9e5b-7c6b78143af4": "Hvilke konsekvenser kan det have for helbredet, n\u00e5r arbejdet udf\u00f8res med l\u00f8ftede arme eller med b\u00f8jning eller vridning af ryggen eller nakken?",
+        "ccf3ce70-c75c-49b3-ab9b-259c69f17ce0": "Hvad vurderer Arbejdstilsynet som s\u00e6rligt belastende ved h\u00f8jrepetitivt ensidigt, gentaget arbejde?",
+        "2b26e49f-33f5-45ba-ab8e-2c909093df73": "Hvilke faktorer kan forv\u00e6rre belastningen ved h\u00f8jrepetitivt arbejde if\u00f8lge teksten?",
+        "576d5998-ebdf-4ab9-b96c-95fa56499607": "Hvad er risikoen for helbredsskader som f\u00f8lge af ensidigt, gentaget arbejde, og hvad kan \u00f8ge denne risiko?",
+        "1c8f2dec-9b5d-4f31-973d-e18c35c75d32": "Hvad betyder krav om opm\u00e6rksomhed og/eller koncentration, og hvorn\u00e5r vil det altid v\u00e6re tilf\u00e6ldet?",
+        "ae8094ca-94b1-49d9-bce3-dd361c5ac74c": "Hvordan kan ensidigt, gentaget arbejde p\u00e5virke en medarbejders helbred?",
+        "62bd527f-17da-4a4b-8808-822d043ff791": "Hvilke faktorer kan \u00f8ge risikoen for helbredsskader som f\u00f8lge af ensidigt, gentaget arbejde?",
+        "642b78ae-af0d-4de2-bba9-ba19d383f61d": "Hvordan vurderes risikoen for helbredsskader ved ensidigt, gentaget arbejde i virksomheden?",
+        "e2800253-c795-4e05-ab0b-deca900aeaca": "Hvilke faktorer skal virksomheden vurdere som forv\u00e6rrende faktorer i forhold til risikoen for helbredsskader ved ensidigt, gentaget arbejde?",
+        "e53246dd-0c65-42a3-94b5-cd007e1d00d5": "Hvad er nogle af de faktorer, der kan \u00f8ge risikoen for helbredsskader ved gentagende arbejde?",
+        "b7ea3bc9-6503-4860-ba37-b76e84d37ece": "Hvordan kan forskellige forv\u00e6rrende faktorer i arbejdsmilj\u00f8et \u00f8ge risikoen for helbredsskader, n\u00e5r de forekommer samtidigt?",
+        "efba7b7a-5b08-4466-a8e4-5e77074893cc": "Hvilke foranstaltninger skal virksomheden tr\u00e6ffe, hvis der forekommer gentaget arbejde, der indeb\u00e6rer en risiko for helbredsskader?",
+        "86eecac9-07dc-4eb9-8c51-556e27fbee53": "Hvad betyder det, n\u00e5r det n\u00e6vnes, at det sj\u00e6ldent er tilstr\u00e6kkeligt at s\u00e6tte ind over for en enkelt faktor, og hvordan skal foranstaltningerne planl\u00e6gges og gennemf\u00f8res for at undg\u00e5 ergonomif\u00e6lden?",
+        "beb5400f-5337-4513-ac54-1e3941e4c4e1": "Hvordan kan arbejdspladsen indrettes for at reducere f\u00f8lgerne af ensidigt, gentaget arbejde?",
+        "287dbaba-f3c4-4f21-9896-5ea536f0d4e9": "Hvordan kan teknologiske eller tekniske foranstaltninger bidrage til at modvirke eller reducere f\u00f8lgerne af ensidigt, gentaget arbejde?",
+        "41fb9d69-699c-4fa2-bb3a-3990eceda313": "Hvordan kan arbejdspladsen tage hensyn til syns- og h\u00f8rekrav under arbejdet?",
+        "28d7bd3d-72cb-4d95-b045-5bfff1581911": "Hvordan kan arbejdsopgaverne tilf\u00f8res planl\u00e6gnings- og kontrolopgaver for at give den ansatte mere selvst\u00e6ndighed?",
+        "ae021820-df34-4874-b992-e090027cb536": "Hvordan kan arbejdsgiveren sikre, at de ansatte har indflydelse p\u00e5 deres arbejde og arbejdsforhold?",
+        "038f1389-0fbe-4c06-9736-c8f43fd9f1b6": "Hvordan kan arbejdsgiveren sikre, at de ansatte har mulighed for social kontakt og st\u00f8tte under arbejdet?",
+        "21f47234-56af-4306-ba87-8f3f6494c371": "Hvad er nogle eksempler p\u00e5 andre former for ensidigt, belastende arbejde?",
+        "4b9e2209-1a30-4ecc-a70b-355e5ea77f0f": "Hvad kan statisk holde- og b\u00e6rearbejde f\u00f8re til, hvis det udf\u00f8res i l\u00e6ngere tid?",
+        "159a4184-dfda-4888-85e6-5f19b2bcd2bc": "Hvad er nogle eksempler p\u00e5 arbejdsstillinger, der kan \u00f8ge risikoen for muskelbesv\u00e6r og hjerte- og kredsl\u00f8bsproblemer?",
+        "ac1b8b08-2715-47c5-aa98-5c0f168a44af": "Hvilke faktorer kan bidrage til at \u00f8ge risikoen, n\u00e5r det kommer til arbejde i fastl\u00e5ste arbejdsstillinger?",
+        "77f08526-a0b5-46d2-9409-41c927434cea": "Hvad er nogle af de risici, der er forbundet med monotont overv\u00e5gningsarbejde?",
+        "7faa146e-affb-4d5b-acaf-bfc60c55ae47": "Hvad kan opm\u00e6rksomheds-, koncentrations-, syns- og h\u00f8rekr\u00e6vende arbejde f\u00f8re til p\u00e5 l\u00e6ngere sigt?",
+        "bf48dd46-a00e-41a0-a3dd-1224f5d2bac4": "Hvad er de faktorer, der skal tages i betragtning ved vurderingen af risikoen for helbredsskader ved ensidigt, belastende arbejde?",
+        "4facffa6-c191-48fa-844c-a0c4e4258b99": "Hvorn\u00e5r er der tale om s\u00e6rlig helbredsfare ved statisk kraftbetonet arbejde med armene l\u00f8ftet til ca. skulderh\u00f8jde eller derover?",
+        "c2185695-d70f-4939-91b5-b5925a340dbe": "Hvad er nogle af de foranstaltninger, virksomheden kan tage for at im\u00f8deg\u00e5 risikoen ved ensidigt, belastende arbejde?",
+        "b4c10411-748d-4b7b-8b1d-51eb7c7f4c6c": "Hvorfor er det vigtigt at have passende pauser i ensidigt, belastende arbejde, og hvordan b\u00f8r pauserne tilrettel\u00e6gges?",
+        "93c12aec-95e9-4472-b10f-28d9b9e420a9": "Hvilke faktorer kan bidrage til at undg\u00e5 arbejdsperioder uden pauser af meget kort varighed?",
+        "f7abfae4-d0a0-42c9-9642-79b9133d665b": "Hvordan kan arbejdspladsen indrettes for at give den ansatte mulighed for at variere sin arbejdsstilling i l\u00f8bet af dagen?",
+        "bfec3199-e68a-43e7-ae53-9ba7d7488e77": "Hvordan kan arbejdsgiveren sikre, at redskaber og udstyr er ergonomisk hensigtsm\u00e6ssige for medarbejderne?",
+        "e55dabb6-c047-4080-a697-b9e5888193c5": "Hvordan kan arbejdsgiveren sikre et godt psykosocialt arbejdsmilj\u00f8 for medarbejderne?",
+        "532204f5-f8b8-436b-a43f-6c40d3474877": "Hvad er form\u00e5let med bekendtg\u00f8relsen om standardvedt\u00e6gter for anerkendte a-kasser?",
+        "cd473897-1206-4028-86e4-87cb794d710d": "Hvorfor er der ikke nogen m\u00f8nsterbestemmelser for vedt\u00e6gtens afsnit om a-kassernes administrative struktur i standardvedt\u00e6gten?",
+        "e61cbb00-149e-4838-bd9e-61eff4e1b3d2": "Hvordan sikrer a-kassen, at der ikke er tvivl om fordelingen af opgaver mellem organerne?",
+        "1cadcff7-8201-4d1c-80e0-11c4c8def190": "Hvad skal fremg\u00e5 af vedt\u00e6gten ang\u00e5ende valg af delegerede eller repr\u00e6sentanter?",
+        "2d06c90a-679a-43b8-a821-012b34aefb9a": "Hvordan sikrer valgreglerne, at alle medlemmer har mulighed for at blive valgt til a-kassens ledelse og revision?",
+        "1a6f3efd-7384-461b-b34c-f7a61c63fb12": "Hvordan kan man finde ud af, hvem der har ret til at indkalde til ekstraordin\u00e6re delegeretm\u00f8der eller generalforsamlinger samt urafstemning, og under hvilke betingelser kan indkaldelse finde sted?",
+        "c9de9486-bc1f-4108-b787-2df307afd59b": "Hvordan kan en a-kasse udvide sit faglige omr\u00e5de if\u00f8lge bekendtg\u00f8relsens \u00a7 5?",
+        "632a4343-77be-4c10-bac4-393bd2ddeb16": "Hvilke medlemsgrupper kan a-kassen fasts\u00e6tte s\u00e6rlige bidrag for if\u00f8lge teksten?",
+        "6e539ad8-9c26-4297-b2fc-43c1facb04ae": "Hvordan kan en arbejdsl\u00f8shedskasse \u00e6ndre sit faglige omr\u00e5de, og hvem skal godkende denne \u00e6ndring?",
+        "ad7c9a88-45c6-41c6-be40-bb66c2f3d942": "Hvilke muligheder har en arbejdsl\u00f8shedskasse i forhold til at v\u00e6lge bestemmelser i standardvedt\u00e6gten, og hvilke regler skal a-kassen selv beslutte?",
+        "7e223967-9f27-446d-8a04-871639aeab31": "Hvad er form\u00e5let med bestemmelsen om, at en a-kasse ikke m\u00e5 drive erhvervsvirksomhed eller administrere forsikringsordninger?",
+        "3469d908-c8e2-4ea5-b072-916e26a11584": "Hvad er forskellen mellem en fagligt afgr\u00e6nset a-kasse og en tv\u00e6rfaglig a-kasse?",
+        "d1ea4277-478f-43a9-88db-4bbcc0e6ade3": "Hvad betyder det, n\u00e5r en a-kasse er tv\u00e6rfaglig?",
+        "26cf11cc-563a-442b-9159-a360ee975f24": "Hvad sker der med a-kassens mellemv\u00e6rende med staten, hvis a-kassens anerkendelse bortfalder?",
+        "7cacdc2a-4839-466b-bdf9-44057a4c3d6d": "Hvad er kravet for at en a-kasse kan tr\u00e6ffe afg\u00f8relse om anvendelse af den resterende formue?",
+        "998cedc6-8742-4d86-893e-4ede88804c19": "Kan en a-kasse kr\u00e6ve, at medlemmet ogs\u00e5 er medlem af den tilknyttede faglige organisation?",
+        "eecf2142-d92e-4af3-80c9-658e4cc32128": "Hvad er betingelserne for at \u00e6ndringer i bilaget til vedt\u00e6gten bliver gyldige?",
+        "5fbb3ab7-4b78-49ac-8535-e3270a2dc1c1": "Hvordan kan afgr\u00e6nsningen af a-kassens faglige omr\u00e5de beskrives, hvis det ikke kan baseres p\u00e5 faggrupper?",
+        "df1c3b97-d674-4bda-a9bd-676ddbf0d838": "Hvad er forskellen mellem en fagligt afgr\u00e6nset a-kasse og en tv\u00e6rfaglig a-kasse?",
+        "f9683814-2ec9-486f-b88d-ae807e99c3b7": "Hvad er betingelserne for at blive optaget som medlem i en tv\u00e6rfaglig a-kasse for selvst\u00e6ndige erhvervsdrivende?",
+        "6afb36ba-3c4f-4dae-94bb-93f199f1c277": "Kan en administrerende direkt\u00f8r eller leder, der ikke er omfattet af funktion\u00e6rloven, blive medlem af en a-kasse for selvst\u00e6ndige?",
+        "1bddf02b-a3f6-480a-9584-655ffa8411ba": "Hvordan fasts\u00e6tter a-kassen kriterierne for tilknytningen til det faglige omr\u00e5de, udover besk\u00e6ftigelse inden for a-kassens faglige omr\u00e5de?",
+        "27cffecb-0a91-482f-a874-7fcda00185a7": "Hvordan kan en a-kasse \u00e6ndre sine vedt\u00e6gter, og hvem skal godkende disse \u00e6ndringer?",
+        "cc0fe841-c01d-488a-8591-09eeffceb827": "Hvad er betingelserne for at kunne melde sig ud af en a-kasse, og hvilken vejledning skal a-kassen give i forbindelse med en udmeldelse?",
+        "d6453dae-511b-4a3a-a048-cac0b536f1be": "Hvad er hovedbestyrelsens rolle i forhold til medlemmernes rettigheder i forbindelse med valg af delegerede, ledelse og revision?",
+        "603455a3-13bf-47d5-8f8a-b5e8127cb5f4": "Hvilke krav skal vedt\u00e6gtsbestemmelserne som minimum omfatte if\u00f8lge bekendtg\u00f8relsens \u00a7 3?",
+        "572d2ddb-4fdc-4076-9f77-b0d0bf805362": "Hvad sker der, hvis en a-kasses vedt\u00e6gter er i strid med standardvedt\u00e6gten?",
+        "dc5594b2-b82d-40b5-bbdf-cc8c43ac3db9": "Hvilken ret og pligt har hovedbestyrelsen i forhold til \u00e6ndringer af a-kassens vedt\u00e6gt?",
+        "78ef0133-85cc-4714-9e78-e732f083450d": "Hvad er form\u00e5let med de nye regler, der begr\u00e6nser arbejdsgivers ret til at f\u00e5 adgang til helbredsm\u00e6ssige og l\u00e6gelige oplysninger om en l\u00f8nmodtager?",
+        "09f790bd-2684-4d2f-918a-c1d84332f54b": "Hvilke typer af sager er omfattet af undtagelsen til forvaltningslovens regler om partsindsigt, hvor arbejdsgiveren normalt ikke har ret til at f\u00e5 adgang til helbredsm\u00e6ssige eller l\u00e6gelige oplysninger om en l\u00f8nmodtager?",
+        "36655037-36b4-4a7a-8a5a-5b6004e699c4": "Hvorn\u00e5r har arbejdsgiveren ret til at f\u00e5 kendskab til helbredsm\u00e6ssige og l\u00e6gelige oplysninger om en sygemeldt medarbejder?",
+        "d35f3cbc-70c3-4476-b383-5383ad277507": "Hvilke oplysninger kan arbejdsgiveren f\u00e5 indsigt i, n\u00e5r det drejer sig om sager om refusion af sygedagpenge eller ressourceforl\u00f8bsydelse under jobafklaring?",
+        "f830892e-f46d-4691-9c22-412c9aa75b42": "Hvad er form\u00e5let med at beskrive de almindelige forvaltningsretlige regler om partsindsigt i vejledningens afsnit 2?",
+        "5912f973-35e7-4154-a94a-21a319493d17": "Hvilke faktorer bliver taget i betragtning for at afg\u00f8re, om arbejdsgiveren har ret til at f\u00e5 adgang til helbredsm\u00e6ssige eller l\u00e6gelige oplysninger i en sag om refusion?",
+        "943ee0f6-7b64-4659-976f-a9d292ab967b": "Hvad betyder det, at en arbejdsgiver har partsstatus i refusionssagen om sygedagpenge?",
+        "7431f3e9-b1c2-46eb-9e92-f1ddd052b3dc": "G\u00e6lder arbejdsgivers ret til indsigt efter forvaltningsloven b\u00e5de for offentlige og private arbejdsgivere?",
+        "1ab0461c-7eb7-4fb5-996b-d9e99799fac7": "Hvem har ret til refusion i forbindelse med jobafklaringsforl\u00f8b, hvis l\u00f8nmodtageren bliver sygemeldt under ans\u00e6ttelsen hos en ny arbejdsgiver?",
+        "2a006f78-74ce-4880-8587-91246da1c9a3": "Hvad indeb\u00e6rer partsaktindsigt if\u00f8lge forvaltningslovens \u00a7 9?",
+        "8e39405a-e7d3-40eb-bbae-451c346ccc3a": "Hvad er form\u00e5let med partsh\u00f8ring i henhold til forvaltningslovens \u00a7 19?",
+        "4fe4867e-6e87-415a-854e-ee084b231a6a": "Hvilke oplysninger skal en afg\u00f8relse if\u00f8lge forvaltningslovens \u00a7 24 indeholde udover henvisning til retsreglerne?",
+        "b2cddcb2-cf64-4db6-afc6-a417ace61fba": "Hvad er form\u00e5let med at inkludere en kort redeg\u00f8relse for sagens faktiske omst\u00e6ndigheder i begrundelsen for en afg\u00f8relse?",
+        "fce91fdc-b2d0-4cbd-9eae-e282c9d8c072": "Hvad er betingelserne for at begr\u00e6nse arbejdsgiverens ret til aktindsigt i henhold til forvaltningslovens \u00a7 15 b, nr. 5?",
+        "6a9d69ed-cd65-4ea1-9928-56cd4fbd3b4e": "Hvad betyder det, at en arbejdsgiver ikke har ret til at f\u00e5 adgang til helbredsm\u00e6ssige og l\u00e6gelige oplysninger om en medarbejder i forbindelse med en sag om refusion af sygedagpenge eller ressourceforl\u00f8bsydelse?",
+        "dedecc4d-8579-4303-8740-49213e4762be": "Hvorn\u00e5r tr\u00e5dte de nye regler i kraft, der begr\u00e6nser arbejdsgiverens ret til at f\u00e5 adgang til helbredsm\u00e6ssige og l\u00e6gelige oplysninger om en medarbejder?",
+        "94cc4ee2-3af4-4a02-8c27-07033aac91a3": "Hvad er betydningen af bestemmelserne for b\u00e5de kommunen og Ankestyrelsen i forbindelse med refusion til en arbejdsgiver?",
+        "a5c5ec9d-ad32-4518-a83c-3e2492c19859": "Hvilke oplysninger har arbejdsgiveren normalt ikke ret til at f\u00e5 kendskab til i forbindelse med en sag om refusion af sygedagpenge eller ressourceforl\u00f8bsydelse, og hvilke oplysninger kan arbejdsgiveren stadig f\u00e5 indsigt i?",
+        "b15a91b8-f5ac-4b9b-a64e-a41994ce6e78": "Hvad er definitionen p\u00e5 helbredsm\u00e6ssige oplysninger i forhold til personoplysninger?",
+        "ce66f090-486e-4ee5-9fc2-f3296d5476b5": "Hvad er arbejdsgiverens rettigheder i forhold til helbredsm\u00e6ssige og l\u00e6gelige oplysninger if\u00f8lge lovgivningen?",
+        "1e279b14-9810-4422-ba6e-4c14cb030c76": "Hvad er omfattet af begrebet \"helbredsm\u00e6ssige oplysninger\" if\u00f8lge teksten?",
+        "3f003b6b-eb91-4c0a-a549-bbd03c9d5c5a": "Hvilke helbredsm\u00e6ssige oplysninger er undtaget fra arbejdsgiverens ret til at f\u00e5 kendskab til, selvom de er afgivet til andre, s\u00e5som kommunen?",
+        "1227e6f7-6f42-46e8-bfd7-d97e1c142b77": "Hvad er definitionen p\u00e5 \"l\u00e6gelige oplysninger\" i denne sammenh\u00e6ng?",
+        "716e0913-1830-4cf4-a8cf-d7809554ad5a": "Hvilke typer oplysninger kan en l\u00e6ge eller andet sundhedspersonale indsamle i forbindelse med et sygdomsforl\u00f8b?",
+        "a41525c4-70d8-4fcb-a432-ab6d85dd0bdd": "Hvad er form\u00e5let med at oplysninger om en sygemeldt l\u00f8nmodtager skal v\u00e6re fortrolige mellem l\u00e6ge, psykolog eller sundhedsperson og patient?",
+        "f8f370e9-0c39-4bad-bfa9-62dcb8e166c3": "Hvordan kan en oplysning om en l\u00f8nmodtagers trivsel p\u00e5 arbejdet blive delt med arbejdsgiveren i en refusionssag?",
+        "06793c0e-9c25-4e66-904a-6dadfdcde3c2": "Hvad er forskellen mellem arbejdsgiverens ret til at f\u00e5 indsigt i oplysninger om l\u00f8nmodtagerens private forhold og helbredsm\u00e6ssige oplysninger i forbindelse med en refusionssag?",
+        "b6aec577-5e5c-4a96-bfe8-9f83843e77c0": "Hvad indeb\u00e6rer notatpligten for en myndighed i forbindelse med en sag om refusion?",
+        "62c1ebc2-fa36-40f5-a9b6-7cb9997c18fd": "Hvad er betingelserne for, at en arbejdsgiver har ret til at f\u00e5 kendskab til helbredsm\u00e6ssige oplysninger om en sygemeldt medarbejder?",
+        "32ee2a6b-6d96-42ae-a5f9-af8e4060fc72": "Hvilke typer af helbredsm\u00e6ssige oplysninger har en arbejdsgiver som udgangspunkt ikke ret til at f\u00e5 indsigt i?",
+        "03f3601c-37f8-464a-a3c9-b474472573c3": "Hvorn\u00e5r har en arbejdsgiver ret til at f\u00e5 adgang til helbredsm\u00e6ssige og l\u00e6gelige oplysninger om en l\u00f8nmodtager?",
+        "88d17d5f-50c2-4018-abff-b1b924d410f3": "Hvilke betingelser skal v\u00e6re opfyldt for, at en arbejdsgiver skal g\u00f8res bekendt med s\u00e5danne oplysninger i forbindelse med en sag om refusion af sygedagpenge eller ressourceforl\u00f8bsydelse?",
+        "a89734ad-5116-4ed1-8998-9e375fdf0ad0": "Hvordan kan arbejdsgiveren sikre sig refusion, hvis en l\u00f8nmodtager ikke kan f\u00e5 forl\u00e6nget sin ret til sygedagpenge og overg\u00e5r til ressourceforl\u00f8bsydelse under jobafklaring?",
+        "1bcc349e-c3b8-4e79-ab56-78864a95da07": "Hvorfor er det vigtigt for arbejdsgiveren at f\u00e5 kendskab til oplysninger om en l\u00f8nmodtagers sygemelding og \u00e5rsagen til denne, is\u00e6r hvis det sker efter en fyring?",
+        "348f4ab3-2c62-488f-a995-c6cc1f7b3d9b": "Hvorfor skal kommunen partsh\u00f8re arbejdsgiveren, f\u00f8r de tr\u00e6ffer afg\u00f8relse om at stoppe for udbetaling af sygedagpengerefusionen?",
+        "0b354bf5-32f8-46fc-a3b4-ca59598eac91": "Hvilke oplysninger kan kommunen videregive til arbejdsgiveren i forbindelse med partsh\u00f8ringen, og hvilke oplysninger vil ikke blive videregivet?",
+        "d4c5e478-74e9-4ed7-b2eb-7cd818834758": "Hvad er forskellen mellem arbejdsgiverens ret til at f\u00e5 kendskab til helbredsm\u00e6ssige oplysninger og retten til at f\u00e5 adgang til l\u00e6geerkl\u00e6ringer og journaler?",
+        "effa2095-877c-4df9-9686-b4e9236ba6ed": "Hvordan skal kommunen eller Ankestyrelsen videregive de helbredsm\u00e6ssige eller l\u00e6gelige oplysninger til arbejdsgiveren, hvis de ikke kan videregives direkte i form af l\u00e6geerkl\u00e6ringer og journalnotater?",
+        "002e79d0-e126-4a35-b6a4-f312539c9c25": "Hvad er konsekvensen for arbejdsgiveren, n\u00e5r en l\u00f8nmodtager overg\u00e5r til ressourceforl\u00f8bsydelse under jobafklaring?",
+        "e039682c-6ca7-4eb1-ac8b-7ae1832c2747": "Hvilke helbredsm\u00e6ssige oplysninger skal kommunen videregive til arbejdsgiveren i forbindelse med afg\u00f8relsen om at stoppe udbetalingen af sygedagpenge?",
+        "e0152631-d7f3-40ff-8013-d8461e6e991d": "Hvorn\u00e5r kan en arbejdsgiver f\u00e5 adgang til helbredsm\u00e6ssige eller l\u00e6gelige oplysninger om en medarbejder i forbindelse med en partsh\u00f8ring?",
+        "a2865a61-3d56-4445-a3d2-44db54a2b8e6": "Hvilke betingelser skal v\u00e6re opfyldt for, at helbredsm\u00e6ssige eller l\u00e6gelige oplysninger om en medarbejder ikke skal tilg\u00e5 arbejdsgiveren i forbindelse med en partsh\u00f8ring?",
+        "fa131eb6-6ab8-4fc7-bdaa-316ad4ceaf60": "Hvilke oplysninger har en arbejdsgiver ret til at f\u00e5 kendskab til i forbindelse med en partsh\u00f8ring?",
+        "59140028-6123-4a23-90ec-718072b3f2f9": "Er der nogen begr\u00e6nsninger for arbejdsgiverens adgang til andre oplysninger og sagsdokumenter i en refusionssag?",
+        "b38dcb7c-5edb-4763-8e36-2e05698e3436": "Hvorn\u00e5r kan en arbejdsgiver f\u00e5 aktindsigt i helbredsm\u00e6ssige og l\u00e6gelige oplysninger om en sygemeldt medarbejder?",
+        "428f4807-71e4-4c5e-b546-58b0b8de709f": "Hvilke oplysninger kan en arbejdsgiver f\u00e5 aktindsigt i, udover helbredsm\u00e6ssige og l\u00e6gelige oplysninger, i forbindelse med en sag om refusion?",
+        "f947187e-cd35-496d-be0a-ff45214ce384": "Hvorfor kan en arbejdsgivers anmodning om aktindsigt i helbredsm\u00e6ssige eller l\u00e6gelige oplysninger ikke im\u00f8dekommes, hvis arbejdsgiverens adgang til refusion ikke er ber\u00f8rt?",
+        "1d87beb7-f2a0-46e9-aa5b-31ce61a7f04f": "Hvilke oplysninger skal indg\u00e5 som en del af begrundelsen for en afg\u00f8relse om helt eller delvist afslag p\u00e5 refusion, og hvorfor er det vigtigt for arbejdsgiveren at f\u00e5 adgang til disse oplysninger?",
+        "80577bd9-a8be-4016-99b7-c22e217abab8": "Hvilke oplysninger har arbejdsgiveren ret til at f\u00e5 kendskab til i forbindelse med en sygemelding?",
+        "04cef516-17ec-4407-8764-fa5811a50baa": "Hvilke betingelser skal v\u00e6re opfyldt for at forl\u00e6nge sygedagpengeudbetalingen efter \u00a7 27, stk.?",
+        "6c5307ff-cd8e-4a2e-b7bc-5f41ff7db63a": "Hvad er betingelserne for, at kommunen skal partsh\u00f8re arbejdsgiveren i forbindelse med en afg\u00f8relse om jobafklaringsforl\u00f8b?",
+        "4521895b-1d53-4768-98ba-ef1a69384cd0": "Hvilke omst\u00e6ndigheder kan medf\u00f8re, at kommunen ikke skal videregive oplysninger om en l\u00f8nmodtagers tidligere alkoholmisbrug?",
+        "94c5741f-6bb6-472c-9740-223e31069bc4": "Hvordan bliver afvejningen mellem l\u00f8nmodtagerens interesse i hemmeligholdelse og arbejdsgiverens interesse i at f\u00e5 adgang til helbredsm\u00e6ssige oplysninger foretaget?",
+        "1695902d-3517-4b8e-81a7-efb782dc9351": "Hvilke hensyn spiller en afg\u00f8rende rolle for l\u00f8nmodtagerens interesse i at hemmeligholde oplysningerne, og hvilken lov er relevant i denne sammenh\u00e6ng?",
+        "e6fc066c-cb98-47c2-af16-5c1e68bcfd86": "Hvilke grunde skal der v\u00e6re til stede for, at arbejdsgiveren kan n\u00e6gtes partsaktindsigt if\u00f8lge forvaltningsloven?",
+        "135a32ad-42cb-4f96-9221-0553dad5b334": "Hvad betyder \"afg\u00f8rende hensyn\" til l\u00f8nmodtagerens interesse i hemmeligholdelse, n\u00e5r det kommer til arbejdsgiverens ret til at f\u00e5 adgang til helbredsm\u00e6ssige og l\u00e6gelige oplysninger om l\u00f8nmodtageren?",
+        "ec0cc3f5-8af6-4035-8067-26357879a005": "Hvordan foretages afvejningen af, om en oplysning skal undtages fra partens adgang til aktindsigt?",
+        "84804ff4-73a4-4fff-8ac5-aca12a970bcd": "Kan arbejdsgiveren f\u00e5 indsigt i oplysningerne, hvis afvejningen viser, at hensynet til l\u00f8nmodtagerens interesse i hemmeligholdelse vejer tungest?",
+        "17a7fb7a-2ae4-4010-be4e-cf90971146f2": "Hvorfor var det vigtigt for arbejdsgiveren at f\u00e5 oplysninger om l\u00f8nmodtagerens sk\u00e5nehensyn og helbredssituation?",
+        "26c131a4-1f61-4e7b-8b8e-52347cf338a3": "Hvordan vurderede Ankestyrelsen kommunens beslutning om at give arbejdsgiveren aktindsigt i oplysninger om l\u00f8nmodtagerens helbredsm\u00e6ssige og sociale forhold?",
+        "f9658b8d-7dec-441f-9acc-54e0ff73734d": "Hvilke konsekvenser kan det have for l\u00f8nmodtageren, hvis vedkommende ikke besvarer eller giver en n\u00e6rmere beskrivelse af de eventuelle skadevirkninger ved at udlevere helbredsm\u00e6ssige og l\u00e6gelige oplysninger til arbejdsgiveren?",
+        "0d3b8dc0-9137-459a-a17d-5883ea608708": "Hvilke oplysninger vil blive udleveret til arbejdsgiveren, hvis de er af v\u00e6sentlig betydning for, at arbejdsgiveren kan varetage sine \u00f8konomiske interesser i en sag om helt eller delvis afslag p\u00e5 refusion?",
+        "d4ac22a4-9b2d-4160-b7ec-5c63641712cd": "Hvad er betingelsen for at f\u00e5 ret til sygedagpenge if\u00f8lge sygedagpengeloven?",
+        "405f39cc-bfab-4462-aa70-3b6faf1d6de6": "Hvordan skal vurderingen af en persons uarbejdsdygtighed foretages efter 3 m\u00e5neders sygefrav\u00e6r if\u00f8lge sygedagpengeloven?",
+        "76706f90-ba3d-4518-bd0f-7125ed8ace8c": "Hvad sker der, hvis en medarbejder er uarbejdsdygtig i forhold til sin konkrete besk\u00e6ftigelse i mere end 3 m\u00e5neder?",
+        "def0ec92-6645-49c0-8a76-a8f5be6aa879": "Hvad siger l\u00e6geattesten om medarbejderens mulighed for at genoptage arbejdet som butiksmedarbejder?",
+        "ff3a577e-f1ff-4ef8-b8c0-82a1b2d32b24": "Hvad betyder det, n\u00e5r kommunen vurderer, at den sygemeldte ikke l\u00e6ngere opfylder betingelsen om at v\u00e6re uarbejdsdygtig?",
+        "3aa0ee5a-d8d6-4267-871d-823f94e7f882": "Hvorfor skal kommunen partsh\u00f8re arbejdsgiveren, f\u00f8r de tr\u00e6ffer afg\u00f8relsen om at stoppe udbetalingen af sygedagpenge?",
+        "c59bcba8-5aed-4f32-9989-697c4230578a": "Hvilken interesse har arbejdsgiveren i sagen om forl\u00e6ngelse af sygedagpengene?",
+        "3755fcdf-a8f9-430a-b482-7e48a5b89501": "Hvilke oplysninger kan arbejdsgiveren f\u00e5 adgang til, hvis kommunen har truffet afg\u00f8relse om, at ingen af forl\u00e6ngelsesreglerne finder anvendelse?",
+        "b70d55c8-9b30-4916-aace-0d981892c4af": "Hvad er \u00e5rsagen til, at kommunen overvejer at stoppe udbetalingen af sygedagpenge til l\u00f8nmodtageren?",
+        "ef7cbf50-31c5-479b-8211-d4175698350b": "Hvilke helbredsm\u00e6ssige og sociale problemer har l\u00f8nmodtageren if\u00f8lge de foreliggende oplysninger, som p\u00e5virker vedkommendes arbejdsm\u00e6ssige fremtid?",
+        "72fddb1b-ab29-4456-b1ea-867068ecbada": "Hvad er \u00e5rsagen til, at det ikke kan vurderes, om der kan iv\u00e6rks\u00e6ttes en revalidering for at vende tilbage til det ordin\u00e6re arbejdsmarked?",
+        "06927691-b08b-425e-8f73-1607c721f01c": "Hvorfor kan det ikke vurderes, om der er behov for at gennemf\u00f8re afklarende foranstaltninger for at klarl\u00e6gge den sygemeldtes arbejdsevne?",
+        "d47adbb4-5729-45a7-ad85-8732ec361987": "Hvordan p\u00e5virker l\u00f8nmodtagerens alkoholmisbrug og personlighedsm\u00e6ssige og sociale problemer vurderingen af vedkommendes mulighed for at genoptage erhvervsm\u00e6ssig besk\u00e6ftigelse?",
+        "18921f36-2b78-4a85-8590-8a2cc4fc019c": "Hvilke oplysninger indg\u00e5r i helhedsvurderingen af sagens oplysninger, n\u00e5r der skal vurderes, om den sygemeldte kan genoptage arbejdet p\u00e5 samme niveau som f\u00f8r sygemeldingen?",
+        "e0fba12f-0262-48d2-b944-6fe6ffc84cac": "Hvad er betingelserne for at kommunen kan stoppe udbetalingen af sygedagpenge til en l\u00f8nmodtager?",
+        "2c94366e-f575-490f-8639-2d491ec1117e": "Hvilke konsekvenser kan det have for arbejdsgiveren, hvis den sygemeldte ikke deltager i kommunens opf\u00f8lgning, herunder udebliver fra en opf\u00f8lgningssamtale?",
+        "81b60dbe-3176-4ec4-a8cb-9adfe98f7f56": "Hvad sker der, hvis en sygemeldt person ikke \u00f8nsker at samarbejde med kommunens opf\u00f8lgningsindsats eller ikke fremskaffer dokumentation?",
+        "cb508690-030c-436b-85e4-ce1d84c1ee1f": "Kan en psykisk lidelse v\u00e6re en gyldig grund til at udeblive fra en opf\u00f8lgningssamtale?",
+        "6b54b789-070a-4be3-8ff8-cd75446d8791": "Hvorfor kan kommunen stoppe udbetalingen af sygedagpenge, selvom den sygemeldte har en lidelse?",
+        "2c2afa06-bb42-4a93-ae8c-242f731874b4": "Hvorfor har arbejdsgiveren brug for at vide \u00e5rsagen til, at sygedagpengerefusionen bortfalder, hvis den sygemeldte afviser at deltage i genoptr\u00e6ning?",
+        "e1d1a089-e02e-4bcd-a95e-8feb1cac7e21": "Hvilke oplysninger skal arbejdsgiveren have adgang til i forbindelse med refusionssagen?",
+        "6e9233c7-9de3-47e4-9b9a-e5cb46b18a16": "Hvorn\u00e5r kan kommunen undlade at videregive oplysningerne om l\u00f8nmodtageren?",
+        "d5526356-dbfe-43d7-afcb-487a5b5e9a1c": "Hvorn\u00e5r tr\u00e5dte overenskomsten om social sikring mellem Danmark og Indien i kraft?",
+        "191d1412-4d09-442b-8521-3eca55fbba1b": "Hvad er definitionen p\u00e5 \"dansk omr\u00e5de\" if\u00f8lge overenskomsten?",
+        "ac1fa98a-2da0-4380-b071-4964fc772f7f": "Hvad er definitionen af \"indisk omr\u00e5de\" i denne tekst?",
+        "7a8f45d6-1db3-4066-8cde-848dfe298fb5": "Hvilke omr\u00e5der d\u00e6kker overenskomsten for Danmark, og hvilke omr\u00e5der d\u00e6kker den for Indien?",
+        "4a1420f8-d254-4e01-a11b-803809b709e4": "Hvem er omfattet af overenskomsten, og hvilke betingelser skal de opfylde for at v\u00e6re berettiget til pension?",
+        "680a4832-82a9-4d65-968f-9325d7a1fab2": "Hvordan p\u00e5virker overenskomsten retten til dansk social pension for personer fra tredjelande, der ikke er danske eller indiske statsborgere?",
+        "c6504a44-7ec6-43cb-a59a-1c87188c32d1": "Hvad er princippet om ligebehandling af personer, der har bop\u00e6l i Danmark eller Indien, if\u00f8lge overenskomsten?",
+        "04159dc1-5491-473a-9b6c-cb54b72b887b": "Hvordan skal en person, der er statsborger i et andet EU-land og har optjent ret til dansk social pension, behandles i forhold til en dansk statsborger if\u00f8lge de bilaterale overenskomster om social sikring?",
+        "5e9d792f-0c9b-47f8-80b1-82aa317259cf": "Hvordan p\u00e5virker overenskomsten mellem Danmark og Indien retten til dansk social pension for statsborgere i andre EU-lande og deres familiemedlemmer?",
+        "4afcca0c-0d08-4e32-88da-2250d678212a": "Hvad er betingelserne for at f\u00e5 dansk pension i tredjelande for indiske statsborgere og danske statsborgere?",
+        "5ded1e5d-81a3-40bd-93be-bea1efb6cf0f": "Hvordan afg\u00f8res sp\u00f8rgsm\u00e5let om rettigheder efter den \u00f8vrige sociale lovgivning i de to lande?",
+        "7e41c6d7-38a9-464e-b432-b8512bd77b98": "Hvordan fasts\u00e6ttes hovedreglerne for lovvalget i forhold til personer, der bor og arbejder i forskellige lande?",
+        "f3b655d3-5314-4edd-b085-bb98135ce04a": "Hvordan p\u00e5virker det, at en arbejdstager har bop\u00e6l i Danmark, deres lovgivningsm\u00e6ssige status, n\u00e5r de midlertidigt udf\u00f8rer besk\u00e6ftigelse i Indien?",
+        "c9e1ae6b-dc38-4100-ba8b-7d56fba7ea25": "Hvordan p\u00e5virker det, at en arbejdstager har bop\u00e6l i Indien, deres lovgivningsm\u00e6ssige status, n\u00e5r de udsendes til Danmark af deres indiske arbejdsgiver?",
+        "9595133a-e10d-49d5-879e-60d5d399c028": "Hvem er omfattet af lovgivningen i udsenderlandet if\u00f8lge punkt 11 i teksten?",
+        "4e4acfeb-b576-45ef-ba34-2513cf43a15f": "Hvem er omfattet af lovgivningen i det land, hvis myndighed besk\u00e6ftiger dem if\u00f8lge punkt 12 i teksten?",
+        "4cbca387-424a-4a52-a4b5-ea6bc076701c": "Hvordan kan indiske statsborgere, der arbejder kortvarigt i Danmark, undg\u00e5 at betale bidrag til ATP?",
+        "57d40521-9192-4797-a4c1-00e8a5010b00": "Hvorn\u00e5r udstedes blanketten om anvendelse af lovgivning, og hvorn\u00e5r er der et konkret behov for at udstede den?"
+    },
+    "corpus": {
+        "03c49ab1-609f-4fe8-bdd3-62ab0c4182fc": "146) Hvis en ledig gr\u00e6nsearbejder har v\u00e6ret medlem af en dansk a-kasse under drift af selvst\u00e6ndig virksomhed i Danmark, og bop\u00e6lslandet ikke har en arbejdsl\u00f8shedsforsikring for selvst\u00e6ndige, kan den ledige v\u00e6lge at tilmelde sig det danske jobcenter og stille sig til r\u00e5dighed efter danske regler. Den ledige kan forblive medlem af a-kassen, og kan opn\u00e5 ret til dagpenge, n\u00e5r betingelserne herfor er opfyldt, herunder betingelserne i bekendtg\u00f8relse om r\u00e5dighed. Den ledige kan som et supplerende skridt v\u00e6lge at stille sig til r\u00e5dighed for arbejdsformidlingen i bop\u00e6lslandet.\n147) Hvis den ledige ikke \u00f8nsker at st\u00e5 til r\u00e5dighed for arbejdsformidlingen i det land, hvor p\u00e5g\u00e6ldende senest har ud\u00f8vet sin selvst\u00e6ndige virksomhed, kan den ledige tage arbejdsl\u00f8shedsydelser med fra seneste arbejdsland, inden for rammerne i artikel 64.\n148) Hvis en ledig gr\u00e6nsearbejder har v\u00e6ret medlem af en dansk a-kasse under drift af selvst\u00e6ndig virksomhed i Danmark, og bop\u00e6lslandet ikke har en arbejdsl\u00f8shedsforsikring for selvst\u00e6ndige, kan den ledige v\u00e6lge at s\u00f8ge a-kassen om ret til E\u00d8S-dagpenge under arbejdss\u00f8gning i bop\u00e6lslandet.",
+        "4d905db2-bfed-4f81-a700-61fb69a35241": "Medlemmet skal dog ikke opfylde kravet om 4 ugers ledighed f\u00f8r afrejsen. Der henvises til pkt. 28-35 og pkt. 61-119.\n8.GRUNDFORORDNINGENS KAPITEL 7, EFTERL\u00d8N\nEfterl\u00f8n (Artikel 66)\n149) Hvis ret til dansk efterl\u00f8n er betinget af tilbagelagte perioder med forsikring, udf\u00f8rt l\u00f8narbejde eller drift af selvst\u00e6ndig virksomhed, g\u00e6lder kravet om ligestilling af perioder i grundforordningens artikel 6 ikke.\n150) Efterl\u00f8n \u2013 og fleksydelse \u2013 er omfattet som en social sikringsydelse efter reglerne i grundforordningen. Grundforordningens udvidelse til at g\u00e6lde for retten til efterl\u00f8n er allerede reguleret i de danske regler for opfyldelse af betingelserne for ret til efterl\u00f8n og mulighederne for at tage sin efterl\u00f8nsydelse med til andet E\u00d8S-land. Der henvises til bekendtg\u00f8relse om ret til efterl\u00f8n for medlemmer, der har haft forsikrings- og besk\u00e6ftigelsesperioder i udlandet, i Gr\u00f8nland eller p\u00e5 F\u00e6r\u00f8erne, og bekendtg\u00f8relse om udbetaling af efterl\u00f8n til personer, der bor eller arbejder i et andet E\u00d8S-land, i Gr\u00f8nland, p\u00e5 F\u00e6r\u00f8erne eller i Schweiz.",
+        "5d1f1c84-b843-49d6-81c4-93b25d75cf47": "9.PROCESBESKRIVELSER\nEESSI \u2013 Elektronisk udveksling af informationer inden for social sikring\nEfter grundforordningen og gennemf\u00f8relsesforordningen skal dataudveksling mellem de ber\u00f8rte institutioner ske elektronisk.\nDataudvekslingen sker i systemet EESSI, som b\u00e5de omfatter \u00bbkataloger\u00ab, dvs. lister over institutioner i medlemslandene og SED\u2019ere (Strukturerede Elektroniske Dokumenter) og beskrivelser af, hvordan SED\u2019ere udveksles, valideres og lagres mm.\nAlle SED\u2019ere sendes og modtages elektronisk via nationale kontaktpunkter, som sender dem videre til den relevante institution.\nElektronisk udveksling af SED\u2019ere forventes at kunne ske i primo 2019. Indtil da benyttes papirversioner af SED\u2019ere via de myndigheder der st\u00e5r opf\u00f8rt i EESSI\u2019s fortegnelse over de enkelte landes socialsikringsinstitutioner (Master Directory).\nMaster Directory kan findes p\u00e5 denne adresse: http://ec.europa.eu/employment_social/social-security-directory/welcome.seam? langId=da.\nSED\u2019er - Strukturerede Elektroniske Dokumenter\nSED\u2019erne er bygget op p\u00e5 samme m\u00e5de for alle sektorer med henblik p\u00e5 elektronisk udveksling.\nElektronisk udveksling af SED\u2019er\nI Danmark skal alle SED\u2019ere fra danske institutioner, dvs.",
+        "3aacf457-2737-41bc-a770-29b0bad72720": "kommuner, regioner, styrelser, a-kasser, Udbetaling Danmark m.v. sendes til andre lande via et nationalt kontaktpunkt.\nAlle SED\u2019ere sendes krypteret, bortset fra \u00bbkonvolut-oplysninger\u00ab, dvs. oplysninger om afsender og modtager m.v., der skal benyttes for at identificere, til hvilken kommune etc. et SED skal sendes.\nDe \u00f8vrige oplysninger i SED\u2019erne, som vedr\u00f8rer en konkret borger, krypteres.\nSED\u2019erne er udarbejdet til hver enkelt udveksling af data, dvs. et SED, der rekvirerer oplysninger, besvares ved et andet SED. Et elektronisk system kan opbygges, s\u00e5 det genbruger data fra det f\u00f8rste SED i det, der indeholder svaret.\nPapir-SED\u2019ere\nI overgangstiden den 1. maj 2010 \u2013 ultimo 2018, dvs. fra de nye regler finder anvendelse, til EESSI er indf\u00f8rt fuldt ud i alle medlemslande, skal papir-SED\u2019ere benyttes og sendes med almindelig post mellem institutionerne.\nPersonb\u00e5rne dokumenter (PD)\nP\u00e5 arbejdsl\u00f8shedsforsikringens omr\u00e5de anvendes \u00bbportable documents\u00ab PD U1, PD U2 og PD U3.",
+        "15434499-2223-4905-867d-d13d712faa39": "Styrelsen for Arbejdsmarked og Rekruttering, den 4. december 2015\nKirsten Brix Pedersen\n/ Marie Louise Outzen\nBilag 1\nOversigt over hvilke lande der har en obligatorisk eller frivillig arbejdsl\u00f8shedsforsikring for selvst\u00e6ndige erhvervsdrivende\n\n1)Se Ryderg\u00e5rd-dommen af 21. februar 2002, C-215/00.\n2)Praksis som er beskrevet i Arbejdsdirektoratets rundskrivelse nr. 11/06 af 17. februar 2006.\n3)Ankestyrelsens Besk\u00e6ftigelsesudvalgs afg\u00f8relse af 18. juni 2015, sagsnr. 2015-4321-11885.\n4)Aftale mellem Nordisk Kontaktgruppe den 20.-21. januar 1994.\n5)Se De Laat-dommen, C-444/98.\n6)Jf. cirkul\u00e6reskrivelse nr. 9569 af 22. november 2012.",
+        "94b9fa70-2da2-4f2b-b41b-dcf1ad9353d8": "Ensidigt, belastende arbejde og ensidigt, gentaget arbejde - At-vejledning D.3.2 - August 2002 - Erstatter At-meddelelse nr 4.10.1 af januar 1985, nr. 4.10.4 af april 1988 og nr 4.10.5 af januar 1996\nDenne At-vejledning:\n\n\u2013Oplyser om arbejdsmilj\u00f8reglerne for ensidigt, belastende arbejde (EBA).\n\u2013Giver retningslinjer for, hvordan risikoen ved ensidigt, gentaget arbejde(EGA) og andre former for ensidigt, belastende arbejde kan vurderes.\n\u2013Vejleder om, hvordan man kan undg\u00e5 eller im\u00f8deg\u00e5 risikoen for helbreds-forringelse som f\u00f8lge af EGA og andre former for ensidigt, belastende arbejde.\n\nVed EBA forst\u00e5s arbejde med ensartede ergonomiske, fysiske, sansem\u00e6ssige, og/eller psykosociale p\u00e5virkninger i l\u00e6ngere tid. EGA udg\u00f8r en delm\u00e6ngde af\nEBA.\n1.Hvor forekommer ensidigt, belastende arbejde?\nEnsidigt, belastende arbejde (EBA) forekommer inden for alle brancher og i mange jobkategorier.",
+        "89a74290-f47d-4623-860c-6f1164681ae8": "Det er is\u00e6r udbredt i fremstillingsfag, fx i n\u00e6rings- og nydelsesmiddelindustrien og i forbindelse med fremstilling af varer.\nEBA forekommer ogs\u00e5 i h\u00e5ndv\u00e6rksfag, inden for kontor og administration, i transportsektoren, fx ved chauff\u00f8r- og transportarbejde, og i en r\u00e6kke servicefunktioner som reng\u00f8rings-, fris\u00f8r- og tandl\u00e6gearbejde.\n1.2.Hvorn\u00e5r er EBA et problem?\nLavintensive p\u00e5virkninger udg\u00f8r normalt ingen risiko, hvis de kun forekommer i kort tid. Men hvis disse p\u00e5virkninger forekommer lang tid i forbindelse med det daglige arbejde, kan EBA udg\u00f8re en helbredsrisiko.\nJo mere intensive belastningerne er, desto kortere skal varigheden v\u00e6re, f\u00f8r der er tale om en helbredsrisiko.\n2.Helbredsrisici og risikobelastning\n2.1.Helbredsrisici\nVed ensidigt, belastende arbejde kan der p\u00e5 kortere eller l\u00e6ngere sigt opst\u00e5 tr\u00e6thed, \u00f8mhed, smerter, h\u00e6velse og stivhed i muskler, sener og led, ofte med nedsat funktionsevne, nedsat opm\u00e6rksomhed samt \u00f8get risiko for ulykker.",
+        "189c5e70-12fc-4054-8f9f-197bafd087bf": "\u00c5rsagen til, at man kan f\u00e5 skader som f\u00f8lge af ensidigt, belastende arbejde, menes at h\u00e6nge sammen med en relativt langvarig sp\u00e6nding af musklerne, tryk p\u00e5 eller str\u00e6kning af v\u00e6vet, p\u00e5virkning af blodforsyning eller nerver. Skaderne forekommer is\u00e6r i bev\u00e6geapparatet - det vil sige kroppens muskler, sener, led og tilh\u00f8rende kar og nervev\u00e6v. Skaderne ses hyppigst i nakke, skuldre, arme og h\u00e6nder, men kan opst\u00e5 i alle omr\u00e5der af kroppen. Ensidigt, belastende arbejde kan ogs\u00e5 v\u00e6re \u00e5rsag til psykiske symptomer, fx stress, monotonitilstand, psykisk tr\u00e6thed og nedsat vitalitet.\n2.2.Risikobelastning\nF\u00f8lgende forhold bestemmer, om ensidigt, belastende arbejde er en risikobelastning:\n\n\u2013Arbejdets varighed pr. dag, uge eller \u00e5r\n\u2013Intensiteten af belastningen, fx hvor hyppigt belastningen gentages, graden af fastl\u00e5sning eller kravet til opm\u00e6rksomhed\n\u2013Andre faktorer, fx kraftkrav og arbejdsstilling.",
+        "e3180bff-4a7f-4510-bcca-da03dcbcf804": "Det er sj\u00e6ldent, at der sker skader som f\u00f8lge af ensidigt, belastende arbejde p\u00e5 kort sigt. Ofte ses f\u00f8lgerne af EBA som langtidseffekt i form af nedslidning, nedsat arbejdsevne og d\u00e5rligt selvvurderet helbred. Senelidelser, fx tennisalbue og seneskedehindebet\u00e6ndelse samt muskel\u00f8mhed optr\u00e6der ofte efter mange timers intensivt ensidigt, belastende arbejde, is\u00e6r hvis arbejdet samtidig er uvant. Lidelserne er ofte af forbig\u00e5ende karakter, hvis belastningen oph\u00f8rer, men risikoen for, at de kommer igen ved belastning, er \u00f8get.\n2.3.Forskellige former for EBA\nEnsidigt, belastende arbejde omfatter bl.a.:\n\n\u2013Ensidigt, gentaget arbejde\n\u2013Statisk holde- og b\u00e6rearbejde\n\u2013Arbejde i fastl\u00e5ste arbejdsstillinger\n\u2013Monotont overv\u00e5gningsarbejde\n\u2013Opm\u00e6rksomheds-, koncentrations-, syns- og h\u00f8rekr\u00e6vende arbejde.",
+        "c9112a99-5aca-43fd-9350-e8f2a6c85023": "De forskellige former for ensidigt, belastende arbejde kan forekomme enkeltvis, men forekommer ofte i kombination og tit sammen med andre fysiske, ergonomiske og psykosociale forhold. N\u00e5r virksomheden vurderer og forebygger ensidigt, belastende arbejde, skal den derfor altid anl\u00e6gge et helhedssyn, som omfatter teknologi, organisering af arbejdet samt fysiske, ergonomiske og psykosociale arbejdsforhold.\n3.Regler om ensidigt, belastende arbejde\nReglerne om ensidigt, belastende arbejde (EBA) kan findes i bekendtg\u00f8relsen om arbejdets udf\u00f8relse. If\u00f8lge bekendtg\u00f8relsen skal arbejdet planl\u00e6gges og tilrettel\u00e6gges, s\u00e5 det kan udf\u00f8res sikkerheds- og sundhedsm\u00e6ssigt fuldt forsvarligt.\n3.1.Regler om at planl\u00e6gge EBA\nN\u00e5r virksomheden planl\u00e6gger arbejde, der kan v\u00e6re ensidigt, belastende, skal man bl.a. sikre, at der ikke udarbejdes produktionsplaner eller peges p\u00e5 detaill\u00f8sninger og arbejdsmetoder, der kan forringe sikkerheden eller sundheden, n\u00e5r arbejdet udf\u00f8res.",
+        "a7fd88ad-2e38-43de-a96e-81bf6542cb26": "Man skal sikre, at de samlede p\u00e5virkninger i arbejdsmilj\u00f8et hverken p\u00e5 kort eller langt sigt forringer de ansattes sikkerhed eller sundhed. N\u00e5r arbejdet planl\u00e6gges og tilrettel\u00e6gges, skal det alts\u00e5 tilpasses til menneskets foruds\u00e6tninger. Tilpasningen til mennesket tager udgangspunkt i at begr\u00e6nse ensidigt, belastende og monotont arbejde og at begr\u00e6nse de skadelige virkninger. Det er is\u00e6r vigtigt at tage hensyn til mennesket, n\u00e5r man udformer arbejdspladsen, v\u00e6lger arbejdsudstyr samt arbejds- og produktionsmetoder.\nVirksomheden skal planl\u00e6gge forebyggelsen, s\u00e5 den udg\u00f8r en sammenh\u00e6ngende helhed, der omfatter teknologi, tilrettel\u00e6ggelse af arbejdet, arbejdsforhold, sociale relationer og p\u00e5virkninger fra andre faktorer i arbejdsmilj\u00f8et.",
+        "2b02f79f-3328-416f-ba5a-31c2561f530c": "3.2.Regler om at udf\u00f8re EBA\nIf\u00f8lge bekendtg\u00f8relsen om arbejdets udf\u00f8relse skal arbejdet i alle led udf\u00f8res sikkerheds- og sundhedsm\u00e6ssigt fuldt forsvarligt ud fra b\u00e5de en enkeltvis og en samlet vurdering af de fysiske, ergonomiske og psykosociale forhold i arbejdsmilj\u00f8et, som p\u00e5 kort eller lang sigt kan p\u00e5virke den fysiske eller psykiske sundhed. Det skal tilstr\u00e6bes, at ensidigt, belastende arbejde, som medf\u00f8rer fare for fysisk eller psykisk helbredsforringelse p\u00e5 kort eller langt sigt, undg\u00e5s eller begr\u00e6nses, n\u00e5r man udf\u00f8rer arbejdet. Det skal ogs\u00e5 tilstr\u00e6bes, at arbejdstempoet ikke medf\u00f8rer fare for fysisk eller psykisk forringelse af helbredet p\u00e5 kort eller langt sigt.\nUn\u00f8dige fysiske belastninger samt uhensigtsm\u00e6ssige arbejdsstillinger og -bev\u00e6gelser skal undg\u00e5s. Belastningen skal v\u00e6re s\u00e5 lille, som det er rimeligt under hensyntagen til den tekniske udvikling, og fastsatte gr\u00e6nser skal overholdes.",
+        "e903228e-bdbb-4f3d-9010-a97e2d68fdcf": "Arbejdstilsynet kan ved ensidigt, belastende arbejde, der medf\u00f8rer s\u00e6rlig fare for sikkerhed og sundhed, og hvor denne fare ikke kan im\u00f8deg\u00e5s p\u00e5 anden m\u00e5de, stille krav om pauser og begr\u00e6nset arbejdstid for arbejdet.\n3.3.Regler om at opl\u00e6re, instruere og informere de ansatte\nArbejdsgiveren skal s\u00f8rge for, at hver enkelt ansat f\u00e5r tilstr\u00e6kkelig og hensigtsm\u00e6ssig opl\u00e6ring og instruktion i at udf\u00f8re arbejdet p\u00e5 farefri m\u00e5de. De ansatte skal oplyses om eventuelle helbredsrisici i forbindelse med arbejdet. Opl\u00e6ring og instruktion skal tilpasses udviklingen og gentages, fx n\u00e5r arbejdsudstyr og arbejdsopgaver \u00e6ndres, eller n\u00e5r ny teknologi indf\u00f8res.\n4.Vurdering af ensidigt, gentaget arbejde\n4.1.Definition af EGA\nDer er tale om ensidigt, gentaget arbejde (EGA), n\u00e5r ensartede arbejdsbev\u00e6gelser gentages med stor hyppighed en v\u00e6sentlig del af arbejdsdagen som led i det daglige arbejde.",
+        "3f4fbb9c-cc49-429c-9d06-40982463bff1": "Arbejdet vurderes ikke som ensidigt, gentaget, hvis de ensartede bev\u00e6gelser udf\u00f8res mindre end ca. ti pct. sammenlagt af den tid, det p\u00e5g\u00e6ldende arbejde udf\u00f8res. Derimod kan arbejdet godt v\u00e6re ensidigt, belastende, som det er tilf\u00e6ldet ved fx overv\u00e5gningsarbejde og langturschauff\u00f8rarbejde.\n4.2.Helbredsrisici ved EGA\nGener og helbredsskader efter ensidigt, gentaget arbejde er is\u00e6r knyttet til nakke, skuldre og arme. Der kan ogs\u00e5 opst\u00e5 psykiske gener, der typisk ses i sammenh\u00e6ng med h\u00f8je krav til opm\u00e6rksomhed, lavt jobindhold, h\u00f8jt tempo, tidspres samt mangel p\u00e5 indflydelse, social kontakt, st\u00f8tte og udviklingsmuligheder.\nRisikoen for gener og helbredsskader som f\u00f8lge af ensidigt, gentaget arbejde stiger med antallet af gentagelser pr. tidsenhed, h\u00f8jt tempo samt med varigheden af arbejdet. Forekomsten af forv\u00e6rrende faktorer vil ogs\u00e5 v\u00e6re afg\u00f8rende for risikoen for helbredsskader.",
+        "0eb3a7ea-0267-4350-9f28-086b2c896363": "4.3 Vurdering af EGA\nArbejdet b\u00f8r kortl\u00e6gges og risikoen ved EGA vurderes i forbindelse med arbejdspladsvurdering (APV), n\u00e5r der p\u00e5 en virksomhed foreg\u00e5r arbejde, hvor ensartede bev\u00e6gelser gentages med stor hyppighed, eller der arbejdes med kortvarige arbejdscykluser. Hovedelementerne i vurderingen af ensidigt, gentaget arbejde er:\n\n\u2013Varigheden af de enkelte arbejdscykluser eller procentdelen af cyklustiden/observationstiden med gentagne bev\u00e6gelser\n\u2013Varigheden af arbejdet pr. dag/pr. uge\n\u2013Tilstedev\u00e6relsen af forv\u00e6rrende faktorer.\n\n4.3.1.Cyklustid/observationstid\nVed cyklustiden for arbejdet forst\u00e5s tiden, fra en operation udf\u00f8res p\u00e5 et emne, indtil samme operation gentages p\u00e5 n\u00e6ste emne.\nVed observationstid forst\u00e5s en periode af fx 5-10 minutters varighed, hvor man observerer en arbejdsoperation, som er typisk for den p\u00e5g\u00e6ldende arbejdsfunktion.",
+        "0fad076d-b278-42e8-a989-2e5d3d2b0d4b": "Opg\u00f8relse ved hj\u00e6lp af cyklustid bruges is\u00e6r inden for fremstillingsindustrien, mens opg\u00f8relse ved hj\u00e6lp af observationstid kan bruges inden for service og administrativt arbejde, hvor der ikke forekommer cyklustider.\n4.3.2.Repetitivitet\nArbejdet klassificeres som h\u00f8j- eller lavrepetitivt ud fra enten cyklustiden eller procentandel af cyklustid/observationstid med ensartede bev\u00e6gelser.\n4.3.3.Varighed\nVarigheden opg\u00f8res som den samlede tid pr. dag eller pr. uge med EGA. I opg\u00f8relsen medtages, om der roteres mellem forskellige EGA-arbejdsfunktioner, og om disse er ensartede eller forskellige. Tidsperioderne for arbejdsfunktionerne l\u00e6gges sammen, hvis der ikke er variation i bev\u00e6gelserne.\n4.3.4.Forv\u00e6rrende faktorer\nMan kortl\u00e6gger forekomsten af forv\u00e6rrende faktorer i de enkelte arbejdsfunktioner.",
+        "e3320e89-1cbf-4b9f-ac21-c9ee9b71bfc4": "4.4.Model til at kortl\u00e6gge og vurdere EGA\nPrim\u00e6re faktorer\n\nForv\u00e6rrende faktorer\n\n4.4.1.Vejledning i brug af modellen\nKortl\u00e6gning af EGA er typisk en opgave for virksomhedens sikkerhedsorganisation, eventuelt med hj\u00e6lp fra Bedriftssundhedstjenesten (BST) eller anden r\u00e5dgiver. Virksomheden kortl\u00e6gger ved hver arbejdsfunktion cyklustiden og/eller procentandel af cyklustid/observationsperioden med ensartede bev\u00e6gelser. Man indhenter herefter oplysning om varigheden af den enkelte arbejdsfunktion pr. dag eller pr. uge for den enkelte ansatte. Man observerer desuden, om der arbejdes under tidspres. Tidspres kan fx observeres ved hastigheden i bev\u00e6gelserne, mangel p\u00e5 mikropauser eller ansp\u00e6ndt kropsholdning. Oplysning om korte deadlines og \u00f8gede produktionsnormer kan ogs\u00e5 v\u00e6re tegn p\u00e5 tidspres. Tidspres \u00f8ger stressniveauet og kan betyde \u00f8get hastighed og acceleration i bev\u00e6gelserne, der \u00f8ger belastningen af muskler, sener og led.",
+        "36191ba3-a435-46f2-ac92-552b29104548": "Virksomheden sammenligner de forskellige arbejdsfunktioner, hvis der rokeres mellem dem, og varigheden af funktionerne l\u00e6gges sammen i den endelige vurdering, hvis der er tale om ensartede bev\u00e6gelser uden reel variation i belastningen.\n4.5.Forv\u00e6rrende faktorer ved EGA\nMan kortl\u00e6gger herefter, hvilke forv\u00e6rrende faktorer der forekommer for hver arbejdsfunktion, og eventuelt i hvor h\u00f8j grad de forv\u00e6rrer belastningen. For nogle faktorer kan belastningen gradueres, fx for arbejdsstilling og kraft ved emneh\u00e5ndtering, mens det i andre tilf\u00e6lde vil v\u00e6re et ja/nej-sp\u00f8rgsm\u00e5l, om faktoren forekommer og skal medregnes som forv\u00e6rrende faktor, fx krav til opm\u00e6rksomhed, koncentration, syn og h\u00f8relse samt mangel p\u00e5 handlemuligheder.\n4.5.1.Kraftanvendelse\nKraftanvendelse kan forekomme i forbindelse med brug af h\u00e5ndv\u00e6rkt\u00f8j, betjeningsh\u00e5ndtag, h\u00e5ndtering og bearbejdning af arbejdsemner, materialer mv.",
+        "731b58c9-2b8c-48b2-8104-0e8be748d386": "Belastningen af kroppen afh\u00e6nger dels af den ydre krafts st\u00f8rrelse, retning og afstand fra de belastede led, dels af forholdet mellem belastningens st\u00f8rrelse og de belastede musklers og leds kapacitet.\nRisikoen for helbredsskader p\u00e5 grund af ensidigt, gentaget arbejde er s\u00e6rlig stor, n\u00e5r arbejdet indeholder arbejdsbev\u00e6gelser, hvor der bruges kraft.\n4.5.2.Arbejdsstillinger og -bev\u00e6gelser\nBelastende arbejdsstillinger og -bev\u00e6gelser h\u00e6nger sammen med:\n\n\u2013Arbejdsstedets indretning og inventar\n\u2013De brugte maskiners og tekniske hj\u00e6lpemidlers udformning/betjeningskrav\n\u2013Emnernes form samt placering f\u00f8r, under og efter h\u00e5ndteringen\n\u2013Valg af arbejdsmetode.\n\nP\u00e5 baggrund af den foreliggende dokumentation betragtes det som en forv\u00e6rrende faktor, der medf\u00f8rer \u00f8get risiko for helbredsskader, n\u00e5r arbejdet foreg\u00e5r med armene l\u00f8ftede eller p\u00e5 en m\u00e5de, s\u00e5 ryggen eller nakken b\u00f8jes eller vrides.",
+        "c58695fa-5aef-4b86-af0b-9f954f4b68fc": "Det er ogs\u00e5 en forv\u00e6rrende faktor, hvis bev\u00e6gelserne sker, s\u00e5 h\u00e5nd, arm, albue eller skuldre hyppigt kommer i belastende stillinger.\nArbejdstilsynet vurderer h\u00f8jrepetitivt ensidigt, gentaget arbejde som helbredsskadende, hvis det ikke foreg\u00e5r inden for armenes optimale r\u00e6kkeomr\u00e5de. Arbejdstilsynet vurderer h\u00f8jrepetitivt ensidigt, gentaget arbejde som s\u00e6rligt belastende, n\u00e5r man arbejder med armene i eller over skulderh\u00f8jde eller ud over maksimalt r\u00e6kkeomr\u00e5de. Arbejdstilsynet vurderer ogs\u00e5 kraftige accelerationer og opbremsninger i bev\u00e6gelserne ved h\u00f8jrepetitivt arbejde som s\u00e6rligt belastende.\nDet er ogs\u00e5 forv\u00e6rrende faktorer, n\u00e5r kroppen, skuldrene eller nakken fastl\u00e5ses i samme stilling, fx for at danne en stabil udgangsposition for pr\u00e6cisionsarbejde med armene eller ved synskr\u00e6vende arbejde. Det kan ogs\u00e5 v\u00e6re en forv\u00e6rrende faktor, n\u00e5r benene holdes fastl\u00e5st i samme stilling, fx ved pedalbetjening eller trange pladsforhold.",
+        "24c7080c-e093-4efe-ab5b-ed951f70e2af": "Risikoen for helbredsskader som f\u00f8lge af ensidigt, gentaget arbejde er for\u00f8get, hvis arbejdet udf\u00f8res tilstr\u00e6kkeligt l\u00e6nge i en belastende og/eller fastl\u00e5st arbejdsstilling.\n4.5.3.Krav om opm\u00e6rksomhed og/eller koncentration samt syns- og h\u00f8rekrav\nKrav om opm\u00e6rksomhed og/eller koncentration betyder, at arbejdsbev\u00e6gelserne ikke kan udf\u00f8res automatiseret, det vil sige udf\u00f8res uden vedvarende afkobling af opm\u00e6rksomhed og koncentration. Det vil altid v\u00e6re tilf\u00e6ldet, n\u00e5r emner eller synsindtryk uafbrudt skal vurderes, mens man udf\u00f8rer arbejdsopgaven, fx ved sorteringsopgaver.\nVedvarende krav til opm\u00e6rksomhed og/eller koncentration kombineret med lavt jobindhold betegnes ogs\u00e5 som monotont arbejde.\nSyns- og h\u00f8rekrav stiller yderligere krav til opm\u00e6rksomhed og koncentration samt \u00f8ger sp\u00e6ndingen i bl.a. nakkemusklerne.",
+        "1ae3b5a2-a2da-40e9-9e92-a2c5a3db85a5": "nakkemusklerne.\nRisikoen for fysiske og psykosociale gener som f\u00f8lge af ensidigt, gentaget arbejde er derfor for\u00f8get, n\u00e5r arbejdet kr\u00e6ver vedvarende opm\u00e6rksomhed og/eller koncentration samt stiller syns- og h\u00f8rekrav.\n4.5.4.Handlemuligheder\nMed handlemuligheder menes de ansattes muligheder for i en eller anden grad at p\u00e5virke bl.a. f\u00f8lgende forhold i jobbet:\n\n\u2013Tidsplanen for eget arbejde\n\u2013Arbejdstempoet, fx er arbejde i maskinstyret tempo en kraftig stressfaktor\n\u2013Indholdet i arbejdet\n\u2013Muligheden for at kunne forlade jobbet, uden at en afl\u00f8ser skal tr\u00e6de til.\n\nDet er ogs\u00e5 af betydning, om den ansatte har indflydelse p\u00e5 bl.a.:\n\n\u2013Valg af arbejdsmateriale\n\u2013Arbejdsv\u00e6rkt\u00f8j\n\u2013Arbejdsmetode.\n\nRisikoen for helbredsskader som f\u00f8lge af ensidigt, gentaget arbejde \u00f8ges med manglende handlemuligheder.",
+        "5cf0e29f-5201-4b10-ac61-edf4740d9ff1": "4.5.5.Samlet vurdering\nVirksomheden skal i en samlet vurdering af risikoen for helbredsskader ved ensidigt, gentaget arbejde s\u00e6tte f\u00f8lgende faktorer i relation til hinanden og vurdere dem i sammenh\u00e6ng:\n\n\u2013Cyklustiden\n\u2013Procentandelen af cyklustiden/observationstiden med ensartede bev\u00e6gelser\n\u2013Varigheden af ensidigt, gentaget arbejde samt eventuelt tidspres.\n\nVirksomheden skal desuden vurdere forv\u00e6rrende faktorer som:\n\n\u2013Kraftanvendelse\n\u2013Arbejdsstilling\n\u2013Krav til opm\u00e6rksomhed/koncentration samt syn og h\u00f8relse\n\u2013Handlemuligheder\n\u2013Eventuelt andre faktorer af betydning for belastningen, fx klima, natarbejde, psykosociale eller fysiske risikofaktorer.\n\nP\u00e5 baggrund af den foreliggende dokumentation anses h\u00f8jrepetitivt arbejde for at indeb\u00e6re risiko for helbredsskade alene ud fra den hyppighed, hvormed arbejdscykluser/bev\u00e6gelserne gentages, hvis arbejdet udf\u00f8res mere end halvdelen af arbejdstiden eller ca. tre til fire timer dagligt.",
+        "c0294fc7-7a94-451e-9f13-795d2e72f76b": "tre til fire timer dagligt. Risikoen kan \u00f8ges til s\u00e6rlig fare ved h\u00f8j gentagelseshyppighed, tidspres, h\u00f8jt tempo, lang varighed af arbejdet samt ved forekomst af forv\u00e6rrende faktorer.\nMan anser kun lavrepetitivt arbejde som helbredsskadeligt ved forekomst af forv\u00e6rrende faktorer. Ved vurdering af lavrepetitivt arbejde vil det ofte v\u00e6re relevant at bruge en anden vurderingsmodel, fx om manuel h\u00e5ndtering eller arbejdsstillinger.\nDet skal indg\u00e5 i helhedsvurderingen, om de enkelte forv\u00e6rrende faktorer gensidigt forst\u00e6rker hinanden og dermed v\u00e6sentligt \u00f8ger risikoen for helbredsskader, n\u00e5r de forekommer samtidigt. Det g\u00e6lder fx for kraftbetonet arbejde med armene l\u00f8ftet til skulderh\u00f8jde eller derover, belastende arbejdsstillinger og h\u00f8jt tempo. Andre faktorer, som sv\u00e6kker kroppen, fx kulde, tr\u00e6k, varme og natarbejde, kan ogs\u00e5 indg\u00e5 i en helhedsvurdering.",
+        "1ceb482c-b3bf-4cb3-9ad4-657f81bd2ad7": "4.6.Foranstaltninger over for EGA\nVirksomheden skal udarbejde en handlingsplan, hvis der forekommer ensidigt, gentaget arbejde, der indeb\u00e6rer en risiko for helbredsskader. Handlingsplanen skal indeholde foranstaltninger, der gennemf\u00f8res inden for en kort tidsramme.\nVirksomheden skal - ved forekomst af s\u00e6rlig fare - umiddelbart tr\u00e6ffe foranstaltninger, fx i form af jobrotation til andet arbejde, pauser eller reduktion af de belastende faktorer. Det vil sj\u00e6ldent v\u00e6re tilstr\u00e6kkeligt at s\u00e6tte ind over for en enkelt faktor, fx kan forbedringer af arbejdspladsens indretning betyde, at arbejdet efterf\u00f8lgende udf\u00f8res i h\u00f8jere tempo, s\u00e5 helbredsrisikoen ikke reduceres.\nDette betegnes popul\u00e6rt som ergonomif\u00e6lden. Man skal derfor altid planl\u00e6gge og gennemf\u00f8re foranstaltningerne ud fra en helhedsvurdering, der omfatter teknologi, arbejdsorganisatoriske l\u00f8sninger, arbejdsstedets indretning samt andre fysiske, ergonomiske og psykosociale forhold.",
+        "a009ed0a-f566-4838-95bf-37416447924e": "Det skal ogs\u00e5 afd\u00e6kkes, om der er behov for uddannelse, dels i konkrete f\u00e6rdigheder, dels i forbindelse med omstillingsprocessen.\nF\u00f8lgerne af ensidigt, gentaget arbejde kan modvirkes eller reduceres p\u00e5 f\u00f8lgende m\u00e5der:\nTeknologiske eller tekniske foranstaltninger\n\n\u2013Ved at anskaffe egnede fuldautomatiske produktionsanl\u00e6g, maskiner, robotter, tekniske hj\u00e6lpemidler, redskaber og v\u00e6rkt\u00f8j til produktionen.\n\u2013Ved at udforme maskiner og tekniske hj\u00e6lpemidler i overensstemmelse med ergonomiske designprincipper, s\u00e5 de kan tilpasses brugeren og opgaven.\n\u2013Ved at give de ansatte mulighed for selv at kontrollere tempoet, fx ved bufferlagre.\n\u2013Ved at oph\u00e6nge h\u00e5ndholdt v\u00e6rkt\u00f8j og maskiner, s\u00e5 kraftkravet reduceres.\n\nArbejdspladsens indretning\n\n\u2013Ved at indrette arbejdspladsen, s\u00e5 den passer til brugeren og arbejdsopgaven, fx arbejdsh\u00f8jde, r\u00e6kkeafstand, placering af arbejdsemner, udformning og placering af betjeningsorganer samt pladskrav.",
+        "f7f6787f-0d43-4247-8527-6642e48d52cc": "\u2013Ved at indrette arbejdspladsen, s\u00e5 der tages hensyn til syns- og h\u00f8rekrav under arbejdet.\n\u2013Ved at s\u00f8rge for passende termiske forhold med hensyn til kulde, varme, tr\u00e6k.\n\nOrganisering af arbejdet\n\n\u2013Ved at lade de ansatte rotere mellem forskellige arbejdsfunktioner, der hver for sig stiller forskellige krav til de ansattes arbejdsstillinger og -bev\u00e6gelser, sanser, f\u00e6rdigheder, viden og kunnen.\n\u2013Ved at tilf\u00f8re nye arbejdsopgaver til det enkelte job, fx tilrettel\u00e6ggelse af arbejdet, vedligeholdelse af maskiner, udskiftning af v\u00e6rkt\u00f8j samt reng\u00f8ring o.l. Herved bliver jobbet mere omfattende og meningsfyldt, det vil sige, at den ansatte f\u00e5r mere variation i og mere overblik over arbejdet.\n\u2013Ved at tilf\u00f8re planl\u00e6gnings- og kontrolopgaver til det enkelte job. Derved f\u00e5r den ansatte flere muligheder for selvst\u00e6ndigt at tilrettel\u00e6gge fx arbejdsmetode og operationsr\u00e6kkef\u00f8lge.",
+        "767a249d-d1d2-478c-8ef4-1aa4f9b471f6": "\u2013Ved at overdrage afgr\u00e6nsede og sammenh\u00e6ngende opgaver til en gruppe ansatte, der hermed f\u00e5r tildelt en vis grad af frihed til og ansvar for at organisere eget arbejde med at l\u00f8se opgaverne.\n\u2013Ved at tidsbegr\u00e6nse EGA-arbejdsfunktionen, fx ved anden aktivitet eller hensigtsm\u00e6ssige pauser.\n\u2013Ved at tidsbegr\u00e6nse EGA-arbejde, der foruds\u00e6tter brug af personlige v\u00e6rnemidler, der \u00f8ger belastningen.\n\nPsykosociale foranstaltninger\n\n\u2013Ved at give de ansatte indflydelse p\u00e5 planl\u00e6gning og tilrettel\u00e6ggelse af arbejdet samt p\u00e5 at v\u00e6lge arbejdsmetoder, indhold, tempo og placering af pauser.\n\u2013Ved at give de ansatte udviklingsmuligheder samt mulighed for at bruge f\u00e6rdigheder og kompetencer i arbejdet.\n\u2013Ved at give de ansatte muligheder for social kontakt og st\u00f8tte under arbejdet.",
+        "7b30faab-ccaa-4e18-87b9-e302755bb6c2": "5.Vurdering af andre former for ensidigt, belastende arbejde\n5.1.Andre former for EBA\nEksempler p\u00e5 andre former for ensidigt, belastende arbejde er:\n\n\u2013Statisk holde- og b\u00e6rearbejde\n\u2013Arbejde i fastl\u00e5ste arbejdsstillinger\n\u2013Monotont overv\u00e5gningsarbejde\n\u2013Opm\u00e6rksomheds-, koncentrations-, syns- og h\u00f8rekr\u00e6vende arbejde.\n\nFaktorerne optr\u00e6der som regel i kombination med andre faktorer og skal indg\u00e5 i helhedsvurderingen.\n5.1.1.Statisk holde- og b\u00e6rearbejde\nStatisk holde- og b\u00e6rearbejde forekommer fx ved arbejde med v\u00e6rkt\u00f8j, redskaber, h\u00e5ndholdte maskiner og transportmateriel. Det vil typisk v\u00e6re nderarmsmusklerne, der arbejder statisk i forbindelse med grebet, mens arm- og skuldermusklerne arbejder statisk for at stabilisere skulder- og albueled. Statisk holde- og b\u00e6rearbejde gennem l\u00e6ngere tid kan f\u00f8re til tr\u00e6thed, smerter og \u00f8mhedstilstande i muskler og sener. Tryk p\u00e5 v\u00e6vet kan desuden f\u00f8re til nervegener, fx i h\u00e5ndleddet.",
+        "357cd28a-b58b-4c4f-8e70-ebfd35a63a93": "Risikoen \u00f8ges, n\u00e5r kraftkrav, uhensigtsm\u00e6ssige arbejdsstillinger og/eller vibrationer, fx fra h\u00e5ndholdte maskiner, optr\u00e6der p\u00e5 samme tid.\n5.1.2.Fastl\u00e5ste arbejdsstillinger\nArbejde i fastl\u00e5ste arbejdsstillinger forekommer fx i forbindelse med maskinbetjening, b\u00e5de ved station\u00e6re og mobile maskiner samt selvk\u00f8rende transportmateriel.Synskrav og/eller pr\u00e6cisionskrav vil ogs\u00e5 ofte betyde, at arbejdet udf\u00f8res i fastl\u00e5ste arbejdsstillinger som ved mikroskoparbejde, sk\u00e6rmarbejde som fx CAD-CAM-arbejde, tandl\u00e6gearbejde samt nogle former for overv\u00e5gningsarbejde. Ogs\u00e5 arbejde p\u00e5 stiger og under trange pladsforhold vil ofte ske i fastl\u00e5ste arbejdsstillinger.\nOfte arbejder musklerne statisk for at opretholde stillingen, og der er stor risiko for muskelbesv\u00e6r, hvis man samtidig arbejder med en uhensigtsm\u00e6ssig, belastende arbejdsstilling. Der kan ogs\u00e5 opst\u00e5 hjerte- og kredsl\u00f8bsproblemer.",
+        "4b424777-ae07-4c2b-860d-a6ea57019b80": "5.1.3.Monotont overv\u00e5gningsarbejde\nMonotont overv\u00e5gningsarbejde forekommer fx i forbindelse med kontrol af samleb\u00e5ndsarbejde og overv\u00e5gning af maskin- og procesanl\u00e6g, men forekommer ogs\u00e5 ved landevejs- og togk\u00f8rsel. Arbejdet kan f\u00f8re til nedsat opm\u00e6rksomhed og dermed \u00f8get risiko for ulykker. Risikoen \u00f8ges ved mangel p\u00e5 stimuli, vedvarende ensformige sansep\u00e5virkninger som fx st\u00f8j, h\u00f8j temperatur, d\u00e5rlig belysning og social isolation.\n5.1.4.Opm\u00e6rksomheds-, koncentrations-, syns- og h\u00f8rekr\u00e6vende arbejde\nOpm\u00e6rksomheds-, koncentrations-, syns- og h\u00f8rekr\u00e6vende arbejde forekommer fx i forbindelse med kvalitets- eller pr\u00e6cisionskrav ved bearbejdning af emner, chauff\u00f8rarbejde, sk\u00e6rmarbejde og overv\u00e5gning. Arbejde af denne art kr\u00e6ver statisk muskelarbejde i nakke og andre muskler, ligesom en samtidig stresstilstand vil \u00f8ge muskelsp\u00e6ndingen. Det kan p\u00e5 l\u00e6ngere sigt f\u00f8re til besv\u00e6r i muskler, sener, led og kredsl\u00f8b.",
+        "560545c6-62ff-420c-a09a-ae75e179d831": "5.2.Vurdering af risikoen for helbredsskader\nVed vurderingen af risikoen for helbredsskader ved ensidigt, belastende arbejde sammenholdes varigheden og belastningsintensiteten med den kombination af belastningsfaktorer, der forekommer. Afsnittet om forv\u00e6rrende faktorer ved EGA kan fx bruges ved denne vurdering. Der er - ved statisk kraftbetonet arbejde med armene l\u00f8ftet til ca. skulderh\u00f8jde eller derover - tale om s\u00e6rlig helbredsfare. Her vil en samlet daglig varighed p\u00e5 en til to timer v\u00e6re kritisk, mens der for mindre intensive typer af ensidigt, belastende arbejde f\u00f8rst vil v\u00e6re helbredsfare, n\u00e5r arbejdet udf\u00f8res hovedparten af arbejdsdagen. Virksomheden skal tr\u00e6ffe foranstaltninger, hvis man vurderer, at arbejdet indeb\u00e6rer risiko for helbredsskade.\nMan skal ogs\u00e5 v\u00e6re opm\u00e6rksom p\u00e5, at fysisk og psykisk tr\u00e6thed, som ofte optr\u00e6der i forbindelse med ensidigt, belastende arbejde, har indflydelse p\u00e5 den ansattes mulighed for at reagere hurtigt og passende i forhold til en pludselig uventet situation.",
+        "2d523772-ae4d-43ad-a51f-1c63c6585693": "5.3.Foranstaltninger ved EBA\nVirksomheden skal anl\u00e6gge en helhedvurdering, n\u00e5r man tager stilling til foranstaltninger over for ensidigt, belastende arbejde. Helhedsvurderingen omfatter teknologi, arbejdsorganisatoriske l\u00f8sninger, arbejdsstedets indretning samt andre fysiske, ergonomiske og psykosociale forhold.\nRisikoen ved ensidigt, belastende arbejde kan im\u00f8deg\u00e5s ved f\u00f8lgende foranstaltninger:\nArbejdets organisering\n\n\u2013Ved at tilrettel\u00e6gge arbejdet, s\u00e5 der er mulighed for at veksle mellem forskellige arbejdsopgaver, der belaster kroppen p\u00e5 en varieret m\u00e5de.\n\u2013Ved at der i ensidigt, belastende arbejde er indlagt passende pauser. Pauser anses for passende, n\u00e5r de er placeret hensigtsm\u00e6ssigt i forhold til arbejdets intensitet og varighed. Arbejdsperioder uden pauser b\u00f8r ikke overstige \u00e9n til halvanden time. Pauserne skal have en varighed, der giver mulighed for afsp\u00e6nding af musklerne. Pauserne er mest effektive, hvis de kan holdes efter behov.",
+        "81b84de0-0ffe-4b5c-b8c1-da690166fc6a": "Ophold i arbejdet, hvor man bevarer muskelsp\u00e6ndingen, fx for at v\u00e6re parat til aktion, regnes ikke som pauser.\n\u2013Ved at statisk holdearbejde, der er kraftbetonet eller foreg\u00e5r i/over skulderh\u00f8jde, undg\u00e5s, eller at arbejdsperioder uden pauser er af meget kort varighed.\n\u2013Ved at fastl\u00e5ste arbejdsstillinger undg\u00e5s, og at der er mulighed for at skifte mellem forskellige arbejdsstillinger og arbejdsbev\u00e6gelser i l\u00f8bet af dagen.\n\u2013Ved at statisk holdearbejde, arbejde med at b\u00e6re byrder og ensidigt, belastende skub- og tr\u00e6karbejde begr\u00e6nses mest muligt (1).\n\nIndretning af arbejdspladsen, udstyr, tekniske hj\u00e6lpemidler mv.\n\n\u2013Ved at arbejdspladsen indrettes, s\u00e5 den passer til brugeren og opgaven samt giver den ansatte mulighed for at variere sin arbejdsstilling i l\u00f8bet af dagen.\n\u2013Ved at der findes egnede og effektive tekniske hj\u00e6lpemidler i tilstr\u00e6kkeligt omfang.",
+        "8f3d5a4f-9fa8-4bd8-ad67-6e44c9225add": "\u2013Ved at redskaber, maskiner og v\u00e6rkt\u00f8j er udformet ergonomisk hensigtsm\u00e6ssigt og oph\u00e6ngt, n\u00e5r det er hensigtsm\u00e6ssigt.\n\u2013Ved at b\u00e6rbart udstyr og personlige v\u00e6rnemidler er s\u00e5 lette som muligt og udformet ergonomisk hensigtsm\u00e6ssigt.\n\nPsykosociale foranstaltninger\n\n\u2013Ved at den enkelte har indflydelse p\u00e5 at tilrettel\u00e6gge arbejdet og har handlemuligheder i det daglige arbejde.\n\u2013Ved at der er mulighed for at bruge forskellige strategier for at h\u00e5ndtere stress.\n\u2013Ved at der er social kontakt og st\u00f8tte, et godt psykosocialt arbejdsklima og udviklingsmuligheder.\n\nJens Jensen\nL\u00e6s ogs\u00e5 Arbejdstilsynets vejledning om:\n(1) L\u00f8ft, tr\u00e6k og skub\nL\u00e6s ogs\u00e5 branchearbejdsmilj\u00f8r\u00e5denes vejledninger mv.\nBranchearbejdsmilj\u00f8r\u00e5denes vejledninger kan findes p\u00e5 www.bar-web.dk\nBesk\u00e6ftigelsesministeriet, den 1. august 2002\nInger St\u00f8jberg",
+        "df32977e-f320-4c81-a8df-fa48f223b319": "Vejledning til bekendtg\u00f8relse  om standardvedt\u00e6gter for anerkendte a-kasser\nI bekendtg\u00f8relse nr. xxx af xx 2020 er der fastsat regler om krav til a-kassernes vedt\u00e6gter. Nogle af disse er i denne vejledning uddybet med n\u00e6rmere retningslinjer.\nBilag 1 til denne vejledning indeholder et paradigme til en standardvedt\u00e6gt.\nN\u00e5r bekendtg\u00f8relsen mv. n\u00e6vner a-kassens \u00f8verste myndighed, menes der delegeretm\u00f8det, generalforsamlingen, repr\u00e6sentantskabet e.l.\nDenne vejledning erstatter vejledning nr. 9542 af 12. juni 2017 til bekendtg\u00f8relse om standardvedt\u00e6gt for anerkendte a-kasser.\nTil bekendtg\u00f8relsens \u00a7 1\nBekendtg\u00f8relsen er udformet s\u00e5ledes, at et paradigme til en standardvedt\u00e6gt er bilag til bekendtg\u00f8relsens \u00a7 1 (bilag 1).\nTil bekendtg\u00f8relsens \u00a7 2\nA-kassernes vedt\u00e6gt skal som minimum omfatte de forhold, der er n\u00e6vnt i \u00a7 2.\nI standardvedt\u00e6gten er der ikke nogen m\u00f8nsterbestemmelser for vedt\u00e6gtens afsnit om a-kassernes administrative struktur. Det skyldes, at formuleringen af afsnittet er helt afh\u00e6ngig af forholdene i hver enkelt a-kasse.",
+        "b34e0583-00d9-4e4d-b030-15aa3d5a2565": "A-kassen skal sikre, at vedt\u00e6gten s\u00e5 n\u00f8jagtigt og udf\u00f8rligt som muligt beskriver a-kassens opbygning og administrative struktur, ledelse og de enkelte organers opgaver og kompetence.\nAfsnittet skal v\u00e6re bygget op p\u00e5 en s\u00e5dan m\u00e5de, at det udt\u00f8mmende angives, hvilken kompetence hvert enkelt organ har. Der m\u00e5 s\u00e5ledes ikke v\u00e6re tvivl om, hvordan opgaverne er fordelt. Evt. afdelingers struktur, ledelse og opgaver skal ogs\u00e5 fasts\u00e6ttes i selve vedt\u00e6gten. Hvis der er en m\u00f8nstervedt\u00e6gt for afdelingerne, henvises til bekendtg\u00f8relsens \u00a7 4.\nDet skal fremg\u00e5, hvem der kan indkalde de kompetente organer til m\u00f8der, fx delegeretm\u00f8der, generalforsamlinger e.l., m\u00f8der i bestyrelse/hovedbestyrelse og forretningsudvalg mv. Det skal ogs\u00e5 fremg\u00e5, hvilke varsler der g\u00e6lder ved indkaldelse, hvilke regler der g\u00e6lder om beslutningsdygtighed, samt hvor stort et flertal der kr\u00e6ves for at tr\u00e6ffe beslutninger.\nDet skal fremg\u00e5 af vedt\u00e6gten, i hvilket forum der v\u00e6lges delegerede eller repr\u00e6sentanter, og hvor lang valgperioden er for disse. Det skal ogs\u00e5 fremg\u00e5, hvilke regler der g\u00e6lder for supplering.",
+        "a11c0277-a959-42a3-9ddc-0bbec3c9f0bf": "Valgreglerne skal sikre, at alle medlemmer f\u00e5r mulighed for at lade sig v\u00e6lge til a-kassens ledelse og revision. Reglerne b\u00f8r i detaljer angive, hvordan opstilling og valghandlinger skal gennemf\u00f8res.\nHvis der skal v\u00e6lges suppleanter, b\u00f8r det ogs\u00e5 fremg\u00e5, om disse er personlige, eller om de indtr\u00e6der efter stemmetal.\nDet skal fremg\u00e5, hvem der er tegningsberettigede i a-kassen. Det vil sige, hvem der er legitimeret til at forpligte a-kassen i forhold til omverdenen, fx ved k\u00f8b og salg af fast ejendom.\nDet skal endvidere fremg\u00e5 af reglerne om ekstraordin\u00e6re delegeretm\u00f8der eller generalforsamlinger samt urafstemning, hvem der har ret til at indkalde hertil. Det skal ogs\u00e5 fremg\u00e5 under hvilke betingelser, indkaldelse kan finde sted.\nTil bekendtg\u00f8relsens \u00a7 3\nHvis a-kassen beslutter at fasts\u00e6tte st\u00f8rrelsen af administrationsbidraget forskelligt, skal det ske under iagttagelse af reglerne i bekendtg\u00f8relse om betaling af medlems- og efterl\u00f8nsbidrag til en a-kasse.\nFor at \u00f8ge gennemsigtigheden for medlemmerne i a-kassens bidragsfasts\u00e6ttelse, skal det i vedt\u00e6gtens afsnit 7 beskrives, hvordan a-kassen n\u00e6rmere vil fasts\u00e6tte forskellige administrationsbidrag.",
+        "15b520a5-725b-4881-b166-d8df2293d3de": "Dette kan ske ved at a-kassen beskriver for hvem, der fasts\u00e6ttes s\u00e6rlige bidrag, fx medlemmer, der efter reglerne herom har f\u00e5et fritagelse for betaling af bidrag til arbejdsl\u00f8shedsforsikringen, seniormedlemmer, for medlemmer, der opholder sig i udlandet og for medlemmer, der alene \u00f8nsker at modtage lovpligtige tilbud e.l.\nTil bekendtg\u00f8relsens \u00a7 4\nA-kasser, der er organiseret i afdelinger, afg\u00f8r selv, om de n\u00e6rmere regler for afdelingernes struktur, ledelse, valgregler og opgaver skal fasts\u00e6ttes i en s\u00e6rlig m\u00f8nstervedt\u00e6gt for afdelingerne.\nEn m\u00f8nstervedt\u00e6gt for afdelingerne skal udsendes som bilag (bilag 2) til vedt\u00e6gten.\nTil bekendtg\u00f8relsens \u00a7 5\nBestemmelsen omhandler de situationer, hvor en fagligt afgr\u00e6nset a-kasse \u00f8nsker at udvide sit faglige omr\u00e5de med nye medlemsgrupper eller \u00f8nsker at \u00e6ndre bestemmelsen om, hvad der forst\u00e5s med tilknytning til det faglige omr\u00e5de.\nEn \u00e6ndring kan best\u00e5 i, at a-kassen \u00f8nsker at udvide sit faglige omr\u00e5de med en faggruppe eller en organisation. En \u00e6ndring kan ogs\u00e5 best\u00e5 i, at a-kassen \u00f8nsker at udvide sit faglige omr\u00e5de med en ny uddannelse.",
+        "f0b9d1c0-c985-41ff-99ed-6920b831d457": "\u00c6ndring af en arbejdsl\u00f8shedskasses faglige omr\u00e5de skal ske ved en \u00e6ndring af a-kassens vedt\u00e6gt, som skal godkendes af Styrelsen for Arbejdsmarked og Rekruttering.\nStyrelsen for Arbejdsmarked og Rekruttering kan, jf. lovens \u00a7 31, stk. 2, n\u00e6gte at godkende en fagligt afgr\u00e6nset arbejdsl\u00f8shedskasses ans\u00f8gning om udvidelse af a-kassens faglige omr\u00e5de, hvis det \u00f8nskede nye fagomr\u00e5de allerede h\u00f8rer under en anden anerkendt fagligt afgr\u00e6nset a-kasses faglige omr\u00e5de.\nTil bekendtg\u00f8relsens \u00a7 6\nDenne vejledning erstatter pr. 1 juli 2020 vejledning nr. 9542 af 12. juni 2017.\nBilag 1 \u2013 Vejledning til paradigme for standardvedt\u00e6gt for anerkendte a-kasser (Standardvedt\u00e6gten)\nI visse tilf\u00e6lde indeholder standardvedt\u00e6gten alternative bestemmelser, hvor a-kassen m\u00e5 v\u00e6lge den bestemmelse, der stemmer med forholdene i a-kassen. Dette g\u00e6lder vedt\u00e6gtens \u00a7 2, stk. 2, og \u00a7 4, stk. 2.\nI andre tilf\u00e6lde fremg\u00e5r det af standardvedt\u00e6gten, at a-kassen selv skal beslutte reglernes n\u00e6rmere indhold, jf. fx \u00a7 4.\nTil \u00a7 1\nStandardvedt\u00e6gtens \u00a7 1 angiver udt\u00f8mmende rammerne for a-kassens virksomhed.",
+        "fb3544b1-e418-46ea-b0f4-83c2166afb27": "Det vil sige, at aktiviteter med form\u00e5l, der ikke er omfattet af bestemmelsen, ikke er tilladt. Det f\u00f8lger heraf, at en a-kasse fx ikke kan drive erhvervsvirksomhed, administrere till\u00e6gs- eller livsforsikringsordninger eller anvende midler til kursusaktiviteter, bortset fra kortvarige jobs\u00f8gningskurser, medmindre der er s\u00e6rlig lovhjemmel hertil.\nA-kassen skal i henhold til lov om en aktiv besk\u00e6ftigelsesindsats ogs\u00e5 varetage andre opgaver, som at medvirke til at ledige medlemmer af a-kassen kommer i besk\u00e6ftigelse.\nTil \u00a7 2, stk. 2\nDet skal fremg\u00e5 af vedt\u00e6gten, hvilket overordnet fagligt omr\u00e5de a-kassen har. Det vil sige, om a-kassen er:\n1)Fagligt afgr\u00e6nset for l\u00f8nmodtagere, jf. \u00a7 32, stk. 1, nr. 1, litra a, i loven.\n2)Fagligt afgr\u00e6nset for l\u00f8nmodtagere og selvst\u00e6ndige erhvervsdrivende, jf. \u00a7 32, stk. 1, nr. 1, litra b, i loven.\n3)Tv\u00e6rfaglig for l\u00f8nmodtagere, jf. \u00a7 32, stk. 1, nr. 1, litra c, i loven.\n4)Tv\u00e6rfaglig for selvst\u00e6ndige erhvervsdrivende, jf. \u00a7 32, stk. 1, nr. 1, litra c, i loven.",
+        "c3e3aaf0-77c5-47ec-92c2-9d987a5c62b7": "1, nr. 1, litra c, i loven.\n5)Tv\u00e6rfaglig for l\u00f8nmodtagere og selvst\u00e6ndige erhvervsdrivende, jf. \u00a7 32, stk. 1, nr. 1, litra d, i loven.\nDer henvises til definitionerne af henholdsvis l\u00f8nmodtagere og selvst\u00e6ndige erhvervsdrivende i bekendtg\u00f8relsen om selvst\u00e6ndig virksomhed i dagpengesystemet.\nEn fagligt afgr\u00e6nset a-kasse kan altid g\u00f8re sig tv\u00e6rfaglig, enten ved at a-kassen beslutter at optage alle l\u00f8nmodtagere uanset fagomr\u00e5de eller at optage alle l\u00f8nmodtagere uanset fagomr\u00e5de og alle selvst\u00e6ndige erhvervsdrivende. For s\u00e5 vidt ang\u00e5r kompetencen til at tr\u00e6ffe en s\u00e5dan beslutning henvises til vedt\u00e6gtens \u00a7 4, stk. 4.\nI en tv\u00e6rfaglig a-kasse er der ikke nogen faglig afgr\u00e6nsning af a-kassens faglige omr\u00e5de. Det faglige omr\u00e5de i en s\u00e5dan a-kasse er alene defineret ved, om a-kassen er tv\u00e6rfaglig for enten l\u00f8nmodtagere eller selvst\u00e6ndige erhvervsdrivende eller for begge grupper.\nTil \u00a7 3, stk. 2\nHvis a-kassens anerkendelse bortfalder, skal a-kassens mellemv\u00e6rende med staten vedr\u00f8rende forskud og refusion af udgifter til dagpenge mv.",
+        "af86ee9f-9254-4b23-a223-1696f33078ae": "g\u00f8res op, og en eventuel saldo skal udlignes.\nA-kassen skal tr\u00e6ffe afg\u00f8relse om anvendelse af den herefter resterende formue. Afg\u00f8relsen er f\u00f8rst gyldig, n\u00e5r den er godkendt af Styrelsen for Arbejdsmarked og Rekruttering.\nTil \u00a7 4, stk. 1\nA-kassen kan ikke g\u00f8re optagelsen betinget af, at medlemmet ogs\u00e5 er eller bliver medlem af den tilknyttede faglige organisation.\nTil \u00a7 4, stk. 2 og 3\nFor en fagligt afgr\u00e6nset a-kasse skal det faglige omr\u00e5de beskrives s\u00e5 pr\u00e6cist som muligt i vedt\u00e6gtens \u00a7 4, stk. 2 og 3, med evt. tilh\u00f8rende bilag, s\u00e5 det fremg\u00e5r af vedt\u00e6gten hvilken besk\u00e6ftigelse, uddannelsesretning eller \u00f8vrig tilknytning, der kr\u00e6ves som betingelse for optagelse som medlem af a-kassen.\nHvis a-kassens faglige omr\u00e5de er afgr\u00e6nset af uddannelser, beskrives overordnet inden for hvilke omr\u00e5der, uddannelserne h\u00f8rer. Hvis det sk\u00f8nnes n\u00f8dvendigt, kan de enkelte uddannelser ogs\u00e5 angives i bilag 1 til vedt\u00e6gten.\nHvis et omr\u00e5de er reguleret ved gr\u00e6nseaftaler, kan der henvises til disse i bilaget eller evt. i et underbilag.",
+        "4dfcb00b-9d73-4153-9389-b20dff850896": "i et underbilag.\nBilaget er en del af vedt\u00e6gten, og \u00e6ndringer heri er derfor f\u00f8rst gyldige, n\u00e5r Styrelsen for Arbejdsmarked og Rekruttering har godkendt dem.\nTil \u00a7 4, stk. 2, litra (a) og (b) og stk. 3\nBeskrivelsen i \u00a7 4, stk. 2, kan enten tage udgangspunkt i faggrupper, alternativ (a), eller, hvis det faglige omr\u00e5de ikke kan afgr\u00e6nses p\u00e5 baggrund af faggrupper, ved anvendelse af formuleringen i alternativ (b).\nAlternativ (a):\nHvis afgr\u00e6nsningen af a-kassens faglige omr\u00e5de sker p\u00e5 baggrund af faggrupper, anf\u00f8res det i bilaget, i hvilke faglige organisationer de p\u00e5g\u00e6ldende faggrupper kan optages.\nAlle faggrupperne skal anf\u00f8res i bilaget.\nHvis det faglige omr\u00e5de ikke overordnet kan afgr\u00e6nses p\u00e5 baggrund af faggrupper, skal formuleringen tilpasses efter, om der er tale om ret til medlemskab af enkeltorganisation(er) eller organisationer tilsluttet en hovedorganisation. Hvis der er tale om en hovedorganisation, opregnes de tilsluttede organisationer i bilaget.\nI bilaget angives endvidere - for hver organisation - en fortegnelse over de faggrupper, der kan optages i organisationen.\nHvis en organisation ikke er baseret p\u00e5 faggrupper, fx hvis organisationen er en personaleforening, anf\u00f8res alene organisationens navn.",
+        "81badc9b-ebb4-48d1-a493-04734c73a4ed": "En fagligt afgr\u00e6nset a-kasse for b\u00e5de l\u00f8nmodtagere og selvst\u00e6ndige erhvervsdrivende skal ogs\u00e5 v\u00e6lge mellem alternativ (a) eller (b) ved beskrivelsen af det faglige omr\u00e5de for l\u00f8nmodtagerne. Der henvises til vejledningen til \u00a7 4, stk. 2, litra (a) og (b).\nHerudover skal definitionen af tilknytningen til a-kassens faglige omr\u00e5de ogs\u00e5 omfatte selvst\u00e6ndige erhvervsdrivende, som udf\u00f8rer personligt arbejde i virksomheden, som ville berettige til optagelse i a-kassen, hvis der havde v\u00e6ret tale om l\u00f8narbejde.\nTil \u00a7 4, stk. 2, litra (d)\nEn tv\u00e6rfaglig a-kasse for l\u00f8nmodtagere skal optage medlemmer blandt alle l\u00f8nmodtagere. Der henvises til definitionen af l\u00f8nmodtagere i bekendtg\u00f8relsens \u00a7 2, stk. 1.\nA-kassen skal v\u00e6lge mellem, om den kun \u00f8nsker at optage medlemmer som fuldtidsforsikrede, eller om den \u00f8nsker at optage b\u00e5de fuldtids- og deltidsforsikrede medlemmer.\nTil \u00a7 4, stk. 2, litra (e)\nEn tv\u00e6rfaglig a-kasse for selvst\u00e6ndige erhvervsdrivende skal optage alle selvst\u00e6ndige erhvervsdrivende.",
+        "12caa612-2ead-4321-b5d3-a50831b1db26": "Administrerende direkt\u00f8rer og ledere, der ikke er omfattet af funktion\u00e6rloven, kan p\u00e5 trods af deres status som l\u00f8nmodtagere dog ogs\u00e5 optages i en a-kasse for selvst\u00e6ndige.\nTil \u00a7 4, stk. 2, litra (f)\nDer henvises til vejledningen til \u00a7 4, stk. 2, litra (d) og (e).\nTil \u00a7 4, stk. 3\nA-kassen fasts\u00e6tter selv hvilke kriterier, der skal indg\u00e5 i definitionen af tilknytningen til det faglige omr\u00e5de.\nTilknytningen kan ud over besk\u00e6ftigelse inden for a-kassens faglige omr\u00e5de f.eks. best\u00e5 i, at personen\n\u2013Har indg\u00e5et aftale om at overtage arbejde inden for a-kassens faglige omr\u00e5de.\n\u2013Tidligere har v\u00e6ret besk\u00e6ftiget inden for a-kassens faglige omr\u00e5de (evt. i et n\u00e6rmere angivet tidsrum).\n\u2013Tidligere har v\u00e6ret medlem af a-kassen.\n\u2013Tidligere har v\u00e6ret medlem af en faglig organisation, anf\u00f8rt i bilag 1 (evt. i et n\u00e6rmere angivet tidsrum).\n\u2013Tidligere har gennemf\u00f8rt en uddannelse af den i lovens \u00a7 54 n\u00e6vnte art inden for a-kassens faglige omr\u00e5de.\n\u2013\u2026\nTil \u00a7 4, stk. 4\nEn a-kasses overordnede faglige omr\u00e5de er fastsat i \u00a7 2, stk. 2, i vedt\u00e6gten.",
+        "853a197c-e154-4b04-98e8-b160b4003699": "2, i vedt\u00e6gten.\n\u00d8nsker en a-kasse at \u00e6ndre herved, skal dette godkendes af a-kassens \u00f8verste myndighed.\nAndre \u00e6ndringer, det vil sige \u00e6ndringer, der betyder, at faggrupper eller organisationer skal optages i eller udg\u00e5 af bilaget til a-kassens vedt\u00e6gt, kan besluttes af hovedbestyrelsen. Det samme g\u00e6lder \u00e6ndringer efter \u00a7 4, stk. 3.\nTil \u00a7 6\nUdmeldelse kan som hovedregel kun ske til udgangen af en m\u00e5ned.\nA-kassen skal vejlede om konsekvenserne af en udmeldelse, jf. bekendtg\u00f8relse om en a-kasses pligt til at vejlede mv.\nTil \u00a7 9\nDet f\u00f8lger af bestemmelsen, at a-kassen ikke i vedt\u00e6gten (afsnit 7) kan fasts\u00e6tte regler om begr\u00e6nsning af medlemmernes valgbarhed, fx ved at indf\u00f8re aldersgr\u00e6nser eller ved at undtage efterl\u00f8nsmodtagere eller medlemmer, der ikke er medlem af den tilh\u00f8rende faglige organisation.\nTil \u00a7 14\nBestemmelsen skal kun medtages i vedt\u00e6gten for a-kasser med decentral administration eller decentrale valghandlinger.\nEt medlem kan mods\u00e6tte sig hovedbestyrelsens beslutning om overf\u00f8rsel til administration direkte under hovedbestyrelsen.",
+        "fdf5eeee-56c0-4777-806f-2eb14ee73e18": "Et medlem har dog ikke krav p\u00e5 at blive overf\u00f8rt, hvis hovedbestyrelsen ikke \u00f8nsker at tr\u00e6ffe beslutning herom.\nHovedbestyrelsen skal sikre, at ogs\u00e5 medlemmer, der ikke er fagligt organiserede, kan ud\u00f8ve deres rettigheder i forbindelse med valg af delegerede, ledelse og revision, jf. \u00a7 9. Hvis medlemmerne er overf\u00f8rt til administration direkte under hovedbestyrelsen, skal der derfor tr\u00e6ffes afg\u00f8relse om, p\u00e5 hvilken m\u00e5de de p\u00e5g\u00e6ldende medlemmer kan deltage i valghandlingerne mv. Dette kan enten ske ved, at medlemmerne fortsat deltager i m\u00f8der og valghandlinger i afdelingerne, eller ved etablering af en s\u00e6rskilt afdeling under hovedkontoret.\nTil \u00a7\u00a7 16-25\nStandardvedt\u00e6gten indeholder ingen m\u00f8nsterbestemmelser for vedt\u00e6gternes administrative afsnit, idet formuleringen heraf er helt afh\u00e6ngig af de faktiske forhold i hver enkelt a-kasse.\nVedt\u00e6gtsbestemmelserne skal som minimum omfatte de forhold, der er angivet i bekendtg\u00f8relsens \u00a7 3, jf. vejledningen til denne bestemmelse.\nTil \u00a7 26, stk. 3\nAlle medlemmer af hovedbestyrelsen skal g\u00f8res bekendt med \u00e5rsregnskabet, men det er tilstr\u00e6kkeligt, at regnskabet underskrives af et flertal af hovedbestyrelsens medlemmer og de valgte revisorer.",
+        "953890dd-b3a9-4bf6-a9db-7c3b41ce5e1d": "Det er derimod ikke tilstr\u00e6kkeligt, at regnskabet underskrives af forretningsudvalget.\nTil \u00a7 28, stk. 5\nHvis standardvedt\u00e6gten \u00e6ndres, har \u00e6ndringerne umiddelbar virkning for a-kassens vedt\u00e6gt.\nVedt\u00e6gtsbestemmelser i strid med standardvedt\u00e6gten er derfor ikke gyldige, og nye standardregler kan p\u00e5ber\u00e5bes, selvom a-kassens vedt\u00e6gt (endnu) ikke er ajourf\u00f8rt.\nDa mange a-kasser kun har delegeretm\u00f8der, generalforsamlinger e.l. med flere \u00e5rs mellemrum, er der tillagt hovedbestyrelsen ret og pligt til at foretage de \u00e6ndringer af a-kassens vedt\u00e6gt, som er n\u00f8dvendige for at bringe den ajour med standardvedt\u00e6gten. Denne bestemmelse er g\u00e6ldende, selv om det eventuelt i vedt\u00e6gtens afsnit 7 er fastsat, at vedt\u00e6gten kun kan \u00e6ndres af delegeretm\u00f8det eller generalforsamlingen.\n\nStyrelsen for Arbejdsmarked og Rekruttering, den 19. juni 2020\nS\u00f8ren Tingskov",
+        "a0481927-cc50-405e-9c05-4bf129f3ebf9": "Vejledning om arbejdsgivers ret til at blive gjort bekendt med helbredsm\u00e6ssige og l\u00e6gelige oplysninger om l\u00f8nmodtageren\n\n1.Indledning\nVejledningen beskriver de nye regler, der fra 1. januar 2019 begr\u00e6nser arbejdsgivers ret til at blive gjort bekendt med helbredsm\u00e6ssige og l\u00e6gelige oplysninger om l\u00f8nmodtageren, selvom arbejdsgiver er part i sagen. Reglerne findes i \u00a7 68 a i lov om sygedagpenge og \u00a7 69 v i lov om aktiv socialpolitik.\nSom en undtagelse til forvaltningslovens regler om partsindsigt, har arbejdsgiveren efter de nye regler som udgangspunkt ikke ret til at blive gjort bekendt med helbredsm\u00e6ssige eller l\u00e6gelige oplysninger om l\u00f8nmodtageren, der indg\u00e5r i en sag i kommunen eller i Ankestyrelsen om refusion af sygedagpenge efter \u00a7 54 i lov om sygedagpenge eller refusion af ressourceforl\u00f8bsydelse under jobafklaringsforl\u00f8b efter \u00a7 69 t i lov om aktiv socialpolitik.",
+        "041dbad1-de47-4d9b-8777-9b5b3443e43e": "Da arbejdsgiveren har en \u00f8konomisk interesse i form af ret til refusion, n\u00e5r arbejdsgiveren udbetaler l\u00f8n under l\u00f8nmodtagerens sygdom, har arbejdsgiveren alligevel ret til at blive gjort bekendt med helbredsm\u00e6ssige og l\u00e6gelige oplysninger, hvis de p\u00e5g\u00e6ldende oplysninger er af v\u00e6sentlig betydning for, at arbejdsgiveren kan varetage sine \u00f8konomiske interesser i en sag om helt eller delvis afslag p\u00e5 refusion af sygedagpenge efter \u00a7 54 i lov om sygedagpenge eller refusion af ressourceforl\u00f8bsydelse under jobafklaringsforl\u00f8b efter \u00a7 69 t i lov om aktiv socialpolitik. Dette g\u00e6lder dog ikke, hvis afg\u00f8rende hensyn til l\u00f8nmodtagers interesse i hemmeligholdelse af helbredsm\u00e6ssige eller l\u00e6gelige oplysninger efter forholdets s\u00e6rlige karakter er p\u00e5kr\u00e6vet.\nFor \u00f8vrige oplysninger i sager om refusion af sygedagpenge eller ressourceforl\u00f8bsydelse under jobafklaring g\u00e6lder forvaltningslovens regler om ret til indsigt i oplysninger og dokumenter derimod fortsat. Det kan f.eks. v\u00e6re oplysninger om kommunens opf\u00f8lgning, herunder oplysninger om l\u00f8nmodtagerens deltagelse i forl\u00f8b, som har til form\u00e5l at f\u00e5 den sygemeldte tilbage p\u00e5 arbejdsmarkedet.",
+        "2c21c9d8-17d0-49d4-afc5-746c042035aa": "I vejledningens afsnit 2 beskrives i hovedtr\u00e6k de almindelige forvaltningsretlige regler om partsindsigt, herunder hvorn\u00e5r en arbejdsgiver er part i refusionssagen.\nI vejledningens afsnit 3 gennemg\u00e5s, hvad der skal forst\u00e5s ved helbredsm\u00e6ssige og l\u00e6gelige oplysninger, og begr\u00e6nsningen i forhold til arbejdsgiverens ret til at blive gjort bekendt med s\u00e5danne oplysninger.\nI vejledningens afsnit 4 gennemg\u00e5s, hvorn\u00e5r arbejdsgiveren alligevel har ret til at blive gjort bekendt med de p\u00e5g\u00e6ldende oplysninger.\nI vejledningens afsnit 5 gennemg\u00e5s, hvorn\u00e5r afg\u00f8rende hensyn til l\u00f8nmodtagerens interesse i hemmeligholdelse af helbredsm\u00e6ssige eller l\u00e6gelige oplysninger g\u00f8r det p\u00e5kr\u00e6vet, at arbejdsgiveren ikke f\u00e5r oplysningerne, selvom de er v\u00e6sentlige for, at arbejdsgiveren kan varetage sine \u00f8konomiske interesser i en sag om helt eller delvis afslag p\u00e5 refusion.",
+        "d3c91f27-0595-45c1-86e7-5219cb2fbbf9": "Endelig beskrives i vejledningens afsnit 6 konkrete eksempler p\u00e5 situationer, hvor det skal vurderes, om arbejdsgiveren har ret til at blive gjort bekendt med l\u00e6gelige eller helbredsm\u00e6ssige oplysninger i forbindelse med, at kommunen tr\u00e6ffer afg\u00f8relse om helt eller delvis afslag p\u00e5 refusion.\n\n2.Generelt om arbejdsgivers ret til indsigt efter forvaltningsloven\nArbejdsgivers partstatus\nEn arbejdsgiver, som udbetaler l\u00f8n under sygefrav\u00e6ret til en l\u00f8nmodtager, er part i refusionssagen om sygedagpenge. Det skyldes, at arbejdsgiveren har ret til refusion for de sygedagpenge, som l\u00f8nmodtageren ellers ville have ret til. At arbejdsgiveren har partsstatus i refusionssagen, er desuden lagt til grund i flere af Ankestyrelsens principafg\u00f8relser, herunder principafg\u00f8relse D-15-94 og senest i principafg\u00f8relse 39-16. Det samme foruds\u00e6ttes ogs\u00e5 at finde anvendelse for arbejdsgivere, som modtager refusion for l\u00f8n udbetalt under et jobafklaringsforl\u00f8b.\nDette g\u00e6lder b\u00e5de for offentlige og private arbejdsgivere.",
+        "26f08257-5310-4a2a-89f6-ccf5ad8f224f": "For s\u00e5 vidt ang\u00e5r jobafklaringsforl\u00f8b, er det kun arbejdsgivere, hvor l\u00f8nmodtageren var ansat p\u00e5 tidspunktet for overgangen til jobafklaringsforl\u00f8b, som er part i refusionssagen og dermed har ret til refusion. Hvis l\u00f8nmodtageren efter overgang til jobafklaringsforl\u00f8b ans\u00e6ttes hos en ny arbejdsgiver, f.eks. i forbindelse med en praktik, der etableres som led i jobafklaringsforl\u00f8bet, vil denne arbejdsgiver ikke have ret til refusion, hvis l\u00f8nmodtageren sygemeldes under ans\u00e6ttelsen.\n\nPartsaktindsigt\nDet f\u00f8lger af forvaltningslovens \u00a7 9 om partsaktindsigt, at en part i en afg\u00f8relsessag kan forlange at blive gjort bekendt med sagens dokumenter, herunder indf\u00f8relser i journaler, registre og andre fortegnelser vedr\u00f8rende den p\u00e5g\u00e6ldende sags dokumenter.",
+        "4054d55f-fd7a-4175-97e3-ea8dd956efe8": "Partsh\u00f8ring\nDet f\u00f8lger videre af forvaltningslovens \u00a7 19 om partsh\u00f8ring, at s\u00e5fremt en part ikke kan antages at v\u00e6re bekendt med, at myndigheden er i besiddelse af bestemte oplysninger om en sags faktiske grundlag eller eksterne faglige vurderinger, m\u00e5 der ikke tr\u00e6ffes afg\u00f8relse, f\u00f8r myndigheden har gjort parten bekendt med oplysningerne eller vurderingerne og givet denne lejlighed til at fremkomme med en udtalelse. Det g\u00e6lder dog kun, hvis oplysningerne eller vurderingerne er til ugunst for den p\u00e5g\u00e6ldende part, og er af v\u00e6sentlig betydning for sagens afg\u00f8relse.\n\nBegrundelse for en afg\u00f8relse\nDet fremg\u00e5r af forvaltningslovens \u00a7 24, at en begrundelse for en afg\u00f8relse udover henvisning til de retsregler, hvorefter afg\u00f8relsen er truffet, ogs\u00e5 skal angive de hovedhensyn, der har v\u00e6ret for en evt. sk\u00f8nsud\u00f8velse. Dette betyder, at hvis en afg\u00f8relse er baseret p\u00e5 kommunens eller Ankestyrelsens sk\u00f8nsud\u00f8velse, vil relevante oplysninger, som er indg\u00e5et i afg\u00f8relsen ogs\u00e5 kunne tilg\u00e5 arbejdsgiveren.",
+        "4116cc2b-2eb9-482f-9f07-f23142930cbb": "Herudover skal begrundelsen om forn\u00f8dent indeholde en kort redeg\u00f8relse for sagens faktiske omst\u00e6ndigheder, der er tillagt v\u00e6sentlig betydning for afg\u00f8relsen. Det betyder, at arbejdsgiver som modtager af en afg\u00f8relse om f.eks. afslag p\u00e5 refusion ogs\u00e5 herigennem kan blive bekendt med relevante oplysninger, der indg\u00e5r i sagen.\n\nUndtagelse til arbejdsgivers ret til indsigt\nEfter forvaltningslovens \u00a7 15 b, nr. 5, kan retten til aktindsigt begr\u00e6nses, i det omfang partens interesse i at kunne benytte kendskab til sagens dokumenter til varetagelse af sit tarv findes at burde vige for afg\u00f8rende hensyn til private og offentlige interesser, hvor hemmeligholdelse efter forholdets s\u00e6rlige karakter er p\u00e5kr\u00e6vet. Forvaltningslovens \u00a7 15 b, nr. 5, g\u00e6lder ogs\u00e5 for partsh\u00f8ring og begrundelser, hvilket betyder, at indholdet af partsh\u00f8ringen og begrundelsen kan begr\u00e6nses i det omfang, oplysninger kan undtages fra aktindsigt.",
+        "3cd540b0-33cf-489e-adfd-87d4d145291d": "3.Begr\u00e6nsning i arbejdsgivers ret til at blive gjort bekendt med helbredsm\u00e6ssige og l\u00e6gelige oplysninger\n\nMed virkning fra 1. januar 2019 har en arbejdsgiver som udgangspunkt ikke ret til at blive gjort bekendt med helbredsm\u00e6ssige eller l\u00e6gelige oplysninger om l\u00f8nmodtageren efter forvaltningslovens \u00a7\u00a7 9, 19 og 24, der indg\u00e5r i en sag om refusion af sygedagpenge eller ressourceforl\u00f8bsydelse under jobafklaringsforl\u00f8b i kommunen eller Ankestyrelsen, selv om arbejdsgiveren er part i sagen.\n\n\u00a7 68 a i lov om sygedagpenge og \u00a7 69 v i lov om aktiv socialpolitik medf\u00f8rer, at arbejdsgiverens ret til at blive bekendt med oplysninger efter forvaltningslovens \u00a7\u00a7 9, 19 og 24 begr\u00e6nses for s\u00e5 vidt ang\u00e5r helbredsm\u00e6ssige og l\u00e6gelige oplysninger om l\u00f8nmodtageren. Bestemmelserne skal derfor ses som en undtagelse til forvaltningslovens regler om partsaktindsigt. Reglerne har virkning for sager, der behandles af kommunerne eller Ankestyrelsen fra den 1. januar 2019 og arbejdsgiveres anmodninger om aktindsigt, som modtages i kommunerne og Ankestyrelsen fra den 1. januar 2019.",
+        "89bd9473-2e8e-4ec0-bd1c-038a95d37de7": "Bestemmelserne har betydning b\u00e5de for kommunen, som i f\u00f8rste instans behandler og tr\u00e6ffer afg\u00f8relse om refusion til en arbejdsgiver, og for Ankestyrelsen, n\u00e5r denne behandler en klage over en afg\u00f8relse om refusion fra kommunen.\n\nDet er adgangen til to former for oplysninger, som arbejdsgiveren som udgangspunkt ikke har ret til at blive gjort bekendt med \u2013 helbredsm\u00e6ssige oplysninger og l\u00e6gelige oplysninger om l\u00f8nmodtageren. Der er alene tale om oplysninger, der indg\u00e5r i en sag om refusion af sygedagpenge eller ressourceforl\u00f8bsydelse under jobafklaring i kommunen eller i Ankestyrelsen. For \u00f8vrige oplysninger i sager om refusion af sygedagpenge eller ressourceforl\u00f8bsydelse under jobafklaring g\u00e6lder forvaltningslovens regler om ret til indsigt i oplysninger og dokumenter derimod fortsat. Det kan f.eks. v\u00e6re oplysninger om kommunens opf\u00f8lgning, herunder oplysninger om l\u00f8nmodtagerens deltagelse i forl\u00f8b, som har til form\u00e5l at f\u00e5 den sygemeldte tilbage p\u00e5 arbejdsmarkedet.",
+        "bafb3b5d-4f96-43e5-b86f-489d19d4487b": "Reglerne i lov om sygedagpenge og lov om aktiv socialpolitik indskr\u00e6nker ikke arbejdsgiverens mulighed for at forlange en friattest eller mulighedserkl\u00e6ring eller oplysningerne heri efter \u00a7\u00a7 36 og 36 a i lov om sygedagpenge, eller arbejdsgiverens ret til indsigt i helbredsm\u00e6ssige og l\u00e6gelige oplysninger efter anden lovgivning.\n\n3.1.Helbredsm\u00e6ssige oplysninger\n\nVed helbredsm\u00e6ssige oplysninger forst\u00e5s personoplysninger, der vedr\u00f8rer en persons fysiske eller mentale helbred, herunder levering af sundhedsydelser, og som giver information om vedkommendes helbredstilstand.\n\nDefinitionen p\u00e5 helbredsm\u00e6ssige oplysninger svarer til definitionen af \u201dhelbredsoplysninger\u201d i artikel 4, nr. 15, i Europa-Parlamentet og R\u00e5dets forordning (EU) 2016/679 af 27. april 2016 om beskyttelse af fysiske personer i forbindelse med behandling af personoplysninger og om fri udveksling af s\u00e5danne oplysninger m.v. (databeskyttelsesforordningen), og skal forst\u00e5s i overensstemmelse hermed.\n\nHelbredsm\u00e6ssige oplysninger omfatter herefter enhver oplysning om f.eks.",
+        "48b828f2-9641-42d5-8426-19ed84feab33": "en sygdom, et handicap, en sygdomsrisiko, en sygehistorie, en sundhedsfaglig behandling eller den registreredes fysiologiske eller biomedicinske tilstand uafh\u00e6ngigt af kilden hertil, f.eks. fra en l\u00e6ge eller anden sundhedsperson, et hospital, medicinsk udstyr eller in vitrodiagnostik. Omfattet af begrebet er endvidere oplysninger om medicinmisbrug og misbrug af narkotika, alkohol og lignende rusmidler.\n\nDet er et krav, at oplysningen i et vist omfang er konkretiseret. En oplysning om, at en person er syg uden angivelse af, hvori sygdommen best\u00e5r, kan eksempelvis ikke anses for at v\u00e6re en helbredsoplysning.\n\nB\u00e5de den tidligere, nuv\u00e6rende og fremtidige fysiske og mentale helbredstilstand er omfattet af begrebet.\nHelbredsm\u00e6ssige oplysninger er som udgangspunkt helt generelt undtaget fra arbejdsgiverens ret til at blive gjort bekendt med oplysninger, uanset i hvilken sammenh\u00e6ng de optr\u00e6der. Dette betyder, at helbredsm\u00e6ssige oplysninger, der er afgivet til andre, herunder til kommunen, ogs\u00e5 er undtaget. En helbredsm\u00e6ssig oplysning i en samtalerapport eller et m\u00f8dereferat kan arbejdsgiveren derfor som udgangspunkt ikke blive gjort bekendt med. Se dog afsnit 4.",
+        "f22539e0-b212-4def-93ca-e07436e04792": "Se dog afsnit 4.\n\n3.2.L\u00e6gelige oplysninger\n\nVed l\u00e6gelige oplysninger forst\u00e5s \u00f8vrige oplysninger, som ikke er helbredsm\u00e6ssige oplysninger, der udveksles mellem en l\u00e6ge, psykolog eller andet sundhedspersonale og l\u00f8nmodtageren i forbindelse med det p\u00e5g\u00e6ldende sygdomsforl\u00f8b.\n\nAndet sundhedspersonale er i denne sammenh\u00e6ng for det f\u00f8rste enhver, der er autoriseret i henhold til s\u00e6rlig lovgivning til at varetage sundhedsfaglige opgaver, og personer, der handler p\u00e5 disses ansvar. Denne autorisation gives typisk igennem reglerne i autorisationsloven og omfatter bl.a. l\u00e6ger, tandl\u00e6ger, kiropraktorer, fysioterapeuter, sygeplejersker og social \u2013 og sundhedsassistenter.\n\nAndet sundhedspersonale d\u00e6kker ogs\u00e5 personer, som udf\u00f8rer opgaver, der ikke hviler p\u00e5 en autorisation, men hvis virke har samme form\u00e5l som de n\u00e6vnte sundhedspersoner. Dette g\u00e6lder f.eks. psykoterapeuter.\n\nDer kan v\u00e6re tale om forskellige typer oplysninger, herunder oplysninger om private, sociale, religi\u00f8se, eller arbejdsm\u00e6ssige forhold, som gives til en l\u00e6ge, psykolog eller andet sundhedspersonale inden for rammerne af det tillidsforhold, der n\u00f8dvendigvis m\u00e5 v\u00e6re i relationen mellem sundhedspersoner og patienter.",
+        "8d251deb-c7a2-49ab-b2a9-656c35650ed6": "Det afg\u00f8rende for om oplysningerne er omfattet af begrebet \u201dl\u00e6gelige oplysninger\u201d er, at oplysningerne er afgivet i den s\u00e6rlige fortrolige relation mellem l\u00e6ge, psykolog eller anden sundhedsperson og patient. S\u00e5danne oplysninger er ofte n\u00f8dvendige som led i l\u00e6gens, psykologens eller sundhedspersonens mulighed for at f\u00e5 et samlet billede af den sygemeldte l\u00f8nmodtagers livssituation og iv\u00e6rks\u00e6ttelse af den rette behandling. Hensigten er s\u00e5ledes, at l\u00f8nmodtageren ikke skal v\u00e6re tilbageholdende med at betro sig til l\u00e6ge, psykolog eller anden sundhedsperson, for at undg\u00e5, at disse oplysninger un\u00f8digt tilg\u00e5r arbejdsgiveren, hvilket kan v\u00e6re til skade for behandlingsmulighederne og derved eventuelt forhale en helbredelse.\n\nDet indeb\u00e6rer, at f.eks. en oplysning om, at l\u00f8nmodtageren ikke trives p\u00e5 arbejdet, ikke skal tilg\u00e5 arbejdsgiveren i en refusionssag, hvis oplysningen er udvekslet i det fortrolige rum mellem l\u00e6ge, psykolog eller anden sundhedsperson og l\u00f8nmodtageren, mens en s\u00e5dan oplysning kan tilg\u00e5 arbejdsgiveren, hvis den f.eks. er givet til en kommunal medarbejder i forbindelse med kommunens opf\u00f8lgningsindsats.",
+        "2c0c8148-b446-4eca-a9da-82f135b88e1d": "Der er ikke tale om et fortroligt forhold af samme karakter i forbindelse med kommunens opf\u00f8lgning, som der er i relationen mellem l\u00e6ge, psykolog og andet sundhedspersonale og l\u00f8nmodtager. Oplysninger afgivet til kommunen om l\u00f8nmodtagerens private forhold har arbejdsgiveren derfor ret til at blive gjort bekendt med som part i refusionssagen efter de almindelige forvaltningsretlige regler, hvorimod arbejdsgiveren ikke har ret til at f\u00e5 indsigt i helbredsm\u00e6ssige oplysninger om f.eks. diagnose, symptomer og medicinering.\n\n3.3.S\u00e6rligt om notatpligt\n\nDet f\u00f8lger af offentlighedslovens \u00a7 13, at en myndighed har notatpligt. Det betyder, at en myndighed skal g\u00f8re notat om oplysninger om en sags faktiske grundlag eller eksterne faglige vurderinger, der er af betydning for sagens afg\u00f8relse, medmindre oplysningerne eller vurderingerne i \u00f8vrigt fremg\u00e5r af sagens dokumenter. En arbejdsgivers ret til at blive gjort bekendt med oplysninger, der har betydning for vedkommendes interessevaretagelse i forbindelse med en sag om refusion, omfatter ogs\u00e5 oplysninger, der fremg\u00e5r af et notat.\n\nVedl\u00e6gelige oplysninger, jf. \u00a7 68 a, stk. 3, i lov om sygedagpenge og \u00a7 69 v, stk.",
+        "c29d2276-1c16-499f-8d79-f034557ec12a": "3, i lov om sygedagpenge og \u00a7 69 v, stk. 3, i lov om aktiv socialpolitik, skal en sagsbehandler v\u00e6re opm\u00e6rksom p\u00e5, hvor de l\u00e6gelige oplysninger kommer fra, da det er af betydning for, om arbejdsgiveren har ret til at blive gjort bekendt med oplysningerne. Hvis oplysningen fremg\u00e5r af f.eks. en l\u00e6geattest, har arbejdsgiveren som udgangspunkt ikke ret til at blive gjort bekendt med oplysningen, mens dette ikke er tilf\u00e6ldet, hvis samme oplysning fremg\u00e5r af et journalnotat, der er udarbejdet p\u00e5 baggrund af den sygemeldtes oplysninger til sagsbehandleren.\n\nHelbredsm\u00e6ssige oplysninger,som defineret i \u00a7 68 a, stk. 2, i lov om sygedagpenge og \u00a7 69 v, stk. 2, i lov om aktiv socialpolitik, er helt generelt undtaget fra arbejdsgiverens ret til indsigt, uanset i hvilken sammenh\u00e6ng de optr\u00e6der, medmindre arbejdsgiveren har ret til at blive gjort bekendt med oplysningerne efter \u00a7 68 a, stk. 4, i lov om sygedagpenge eller \u00a7 69 v, stk. 4, i lov om aktiv socialpolitik. En helbredsoplysning i en samtalerapport eller et m\u00f8dereferat kan arbejdsgiveren derfor som udgangspunkt ikke f\u00e5 indsigt i.",
+        "b9e5ac3c-e1dd-4bf8-aa05-3141b2a5894a": "4.Arbejdsgiverens ret til at blive gjort bekendt med helbredsm\u00e6ssige og l\u00e6gelige oplysninger om l\u00f8nmodtageren\n\nArbejdsgiverens adgang til at blive gjort bekendt med helbredsm\u00e6ssige og l\u00e6gelige oplysninger om l\u00f8nmodtageren i sager om refusion af sygedagpenge eller ressourceforl\u00f8bsydelse under jobafklaring er med \u00a7 68 a i lov om sygedagpenge og \u00a7 69 v i lov om aktiv socialpolitik begr\u00e6nset s\u00e5dan, at arbejdsgiveren alene skal g\u00f8res bekendt med s\u00e5danne oplysninger, hvis de er af v\u00e6sentlig betydning for, at arbejdsgiveren kan varetage sine \u00f8konomiske interesser i en sag om helt eller delvist afslag p\u00e5 refusion. Dette g\u00e6lder dog ikke, hvis afg\u00f8rende hensyn til l\u00f8nmodtagerens interesse i hemmeligholdelse efter forholdets s\u00e6rlige karakter er p\u00e5kr\u00e6vet. Se afsnit 5.\n\nArbejdsgiveren har kun adgang til helbredsm\u00e6ssige eller l\u00e6gelige oplysninger om l\u00f8nmodtageren i forbindelse med en sag om at stoppe eller neds\u00e6tte arbejdsgiverens ret til refusion. S\u00e5 l\u00e6nge arbejdsgiveren f\u00e5r refusion i samme omfang som hidtil, er oplysningerne ikke af v\u00e6sentlig betydning for arbejdsgiverens mulighed for at varetage sine \u00f8konomiske interesser.",
+        "0f3cfe58-93d9-4b40-a985-ff4ce6f3b44a": "Det forhold, at oplysningen skal v\u00e6re v\u00e6sentlig for arbejdsgiverens ret til refusion betyder, at s\u00e5fremt p\u00e5g\u00e6ldende oplysning har betydning for afg\u00f8relsen om helt eller delvist afslag p\u00e5 refusion, har arbejdsgiveren ret til at blive gjort bekendt med oplysningen. Hvis neds\u00e6ttelsen af refusion sker som f\u00f8lge af, at l\u00f8nmodtageren ikke kan f\u00e5 forl\u00e6nget sin ret til sygedagpenge efter \u00a7 27, stk. 1, og derfor overg\u00e5r til ressourceforl\u00f8bsydelse under jobafklaring, vil oplysningerne ogs\u00e5 kunne v\u00e6re af v\u00e6sentlig betydning for, at arbejdsgiveren kan varetage sine \u00f8konomiske interesser i refusionssagen.\n\nEksempel 1\nEn l\u00f8nmodtager sygemeldes fra sit arbejde som l\u00e6rer, efter hun er blevet opsagt fra sit arbejde.\nAf l\u00e6geattesten fremg\u00e5r, at l\u00f8nmodtageren er sygemeldt p\u00e5 grund af en belastningsreaktion (stressreaktion) efter en fyring.L\u00f8nmodtageren oplyser ved samtale med kommunen, at hun ikke er i stand til at arbejde hos den nuv\u00e6rende arbejdsgiver i opsigelsesperioden, men at hun ser sig i stand til at arbejde p\u00e5 en anden arbejdsplads.",
+        "b521ed0f-b9fc-4b61-8f4f-c1a91d665de2": "Kommunen agter i den konkrete situation at tr\u00e6ffe afg\u00f8relse om oph\u00f8r af udbetaling af sygedagpengerefusionen med begrundelse i l\u00f8nmodtagerens oplysninger i sagen.\n\nKommunen skal partsh\u00f8re arbejdsgiveren, inden den tr\u00e6ffer afg\u00f8relse om at stoppe for udbetaling af sygedagpengerefusionen.I forbindelse med partsh\u00f8ringen skal kommunen vurdere, hvilke oplysninger der kan videregives til arbejdsgiveren.Hvis kommunen p\u00e5t\u00e6nker at tr\u00e6ffe afg\u00f8relse om at stoppe for udbetaling af sygedagpengerefusion alene p\u00e5 baggrund af l\u00f8nmodtagerens oplysninger, vil l\u00f8nmodtagerens oplysninger til kommunen som udgangspunkt kunne videregives til arbejdsgiveren, hvorimod det efter en konkret vurdering ikke vil v\u00e6re n\u00f8dvendigt at videregive oplysningerne fra l\u00e6geattesten til arbejdsgiveren.",
+        "61f0f051-ffc8-454d-a92b-c74f7c14cbb4": "I de tilf\u00e6lde, hvor arbejdsgiveren har ret til at blive gjort bekendt med helbredsm\u00e6ssige eller l\u00e6gelige oplysninger, fordi oplysningerne er af v\u00e6sentlig betydning for arbejdsgiverens varetagelse af sine \u00f8konomiske interesser i refusionssagen, har arbejdsgiveren alene ret til at blive gjort bekendt med oplysningerne, og arbejdsgiveren har ikke ret til at f\u00e5 adgang til de underliggende l\u00e6geerkl\u00e6ringer og journaler. Dette er en undtagelse til forvaltningslovens regler, hvor en part f.eks. i forbindelse med en partsh\u00f8ring efter forvaltningslovens \u00a7 19, har adgang til sagens dokumenter \u2013 og ikke kun til oplysningerne i sagen.\n\nSelve dokumenterne (l\u00e6geerkl\u00e6ringer, journalnotater m.v.), hvoraf de helbredsm\u00e6ssige eller l\u00e6gelige oplysninger fremg\u00e5r, kan s\u00e5ledes ikke videregives til arbejdsgiveren. Kommunen eller Ankestyrelsen skal derfor gengive oplysningerne s\u00e5 n\u00f8jagtigt som muligt i et s\u00e6rskilt dokument til arbejdsgiveren, hvor de l\u00e6gelige eller helbredsm\u00e6ssige oplysninger indg\u00e5r, f.eks. i et h\u00f8ringsbrev eller som en del af begrundelsen for afg\u00f8relsen.",
+        "48fda286-16c7-412f-9f14-cc257d701ff7": "Eksempel 2\nI en sag, hvor kommunen agter at tr\u00e6ffe afg\u00f8relse om at stoppe for udbetaling af sygedagpenge, fordi ingen af forl\u00e6ngelsesreglerne i \u00a7 27, stk. 1, i lov om sygedagpenge er opfyldt, og l\u00f8nmodtageren skal overg\u00e5 til ressourceforl\u00f8bsydelse under jobafklaring, vil arbejdsgiveren delvist miste refusion, da ydelsen som udgangspunkt vil blive nedsat.Kommunen vil i begrundelsen for afg\u00f8relsen l\u00e6gge v\u00e6gt p\u00e5 de helbredsm\u00e6ssige oplysninger, der fremg\u00e5r af sagen.De helbredsm\u00e6ssige oplysninger fremg\u00e5r af  l\u00e6gejournaler.\n\nI dette tilf\u00e6lde gengives de relevante l\u00e6gelige eller helbredsm\u00e6ssige oplysninger fra journalerne til arbejdsgiveren i et h\u00f8ringsbrev med frist for arbejdsgiverens bem\u00e6rkninger, inden der tr\u00e6ffes afg\u00f8relse i sagen.Oplysningerne skal gengives s\u00e5 n\u00f8jagtigt som muligt i forhold til det oplyste.\n\nKommunen vil dog ikke skulle videregive oplysningerne, hvis afg\u00f8rende hensyn til l\u00f8nmodtagers interesse i hemmeligholdelse efter forholdets s\u00e6rlige karakter er p\u00e5kr\u00e6vet.Se afsnit 5.",
+        "7d420dbe-2d96-4109-9702-2f6e84084a5e": "En arbejdsgiver vil kunne blive gjort bekendt med helbredsm\u00e6ssige eller l\u00e6gelige oplysninger i tre situationer:\n\n\u2013i forbindelse med en partsh\u00f8ring, jf. forvaltningslovens \u00a7 19 (se afsnit 4.1)\n\u2013i forbindelse med arbejdsgiverens anmodning om aktindsigt, jf. forvaltningslovens \u00a7 9 (afsnit 4.2).\n\u2013i forbindelse med, at der tr\u00e6ffes afg\u00f8relse om fradrag, neds\u00e6ttelse eller oph\u00f8r af sygedagpenge eller ressourceforl\u00f8bsydelse, som en del af begrundelsen, jf. forvaltningslovens \u00a7 24 (se afsnit 4.3)\n\n4.1.Partsh\u00f8ring\n\nI det omfang kommunen eller Ankestyrelsen efter forvaltningslovens \u00a7 19 skal h\u00f8re arbejdsgiveren, f\u00f8r kommunen eller Ankestyrelsen tr\u00e6ffer afg\u00f8relse, skal helbredsm\u00e6ssige og l\u00e6gelige oplysninger om l\u00f8nmodtageren tilg\u00e5 arbejdsgiveren, hvis oplysningerne vurderes at have v\u00e6sentlig betydning for afg\u00f8relsen om helt eller delvist afslag p\u00e5 refusion. Dette g\u00e6lder dog ikke, hvis afg\u00f8rende hensyn til l\u00f8nmodtagerens interesse i hemmeligholdelse af helbredsm\u00e6ssige eller l\u00e6gelige oplysninger om l\u00f8nmodtageren efter forholdets s\u00e6rlige karakter er p\u00e5kr\u00e6vet, se afsnit 5.",
+        "6fb69136-ebd5-4260-a94a-9af7e1d78daa": "Arbejdsgiveren har i forbindelse med en partsh\u00f8ring ret til at blive gjort bekendt med de helbredsm\u00e6ssige og l\u00e6gelige oplysninger om l\u00f8nmodtageren, fordi oplysningerne er af v\u00e6sentlig betydning for arbejdsgiverens varetagelse af sine \u00f8konomiske interesser i refusionssagen.\n\nArbejdsgiverens ret til partsh\u00f8ring i andre oplysninger end l\u00e6gelige og helbredsm\u00e6ssige oplysninger er derimod ikke begr\u00e6nset, og det samme g\u00e6lder adgangen til sagsdokumenterne. Dette g\u00e6lder dog ikke, hvis der er tale om oplysninger, som kan/skal undtages fra retten til aktindsigt efter forvaltningsloven eller persondataloven, og som derfor ikke kan videregives uden l\u00f8nmodtagerens samtykke. N\u00e5r der er tale om andre oplysninger end l\u00e6gelige og helbredsm\u00e6ssige oplysninger, som defineret i \u00a7 68 a, stk. 2 og 3, i lov om sygedagpenge og \u00a7 69 v, stk. 2 og 3, i lov om aktiv socialpolitik kan arbejdsgiveren blive gjort bekendt med disse oplysninger, i det omfang disse oplysninger indg\u00e5r i refusionssagen. Dette kan f.eks.",
+        "999df6dd-ce33-4611-87b9-4dd37dac61c8": "Dette kan f.eks. v\u00e6re oplysninger om kommunens opf\u00f8lgning, herunder oplysninger om den sygemeldtes deltagelse i forl\u00f8b, som har til form\u00e5l at f\u00e5 den sygemeldte hurtigt tilbage p\u00e5 arbejdsmarkedet.\n\n4.2.Aktindsigt\n\nI det omfang kommunen eller Ankestyrelsen efter forvaltningslovens \u00a7 9 skal give arbejdsgiveren aktindsigt i sagens oplysninger, skal helbredsm\u00e6ssige og l\u00e6gelige oplysninger om l\u00f8nmodtageren tilg\u00e5 arbejdsgiveren, hvis oplysningerne vurderes at have v\u00e6sentlig betydning for arbejdsgiverens varetagelse af sine \u00f8konomiske interesser i en sag om helt eller delvist afslag p\u00e5 refusion. Dette g\u00e6lder dog ikke, hvis afg\u00f8rende hensyn til l\u00f8nmodtagerens interesse i hemmeligholdelse af helbredsm\u00e6ssige eller l\u00e6gelige oplysninger om l\u00f8nmodtageren efter forholdets s\u00e6rlige karakter er p\u00e5kr\u00e6vet, se afsnit 5.\n\nArbejdsgiverens ret til aktindsigt er alene begr\u00e6nset i relation til helbredsm\u00e6ssige og l\u00e6gelige oplysninger om l\u00f8nmodtageren, ikke i andre oplysninger eller dokumenter. Dette g\u00e6lder f.eks. oplysninger om en l\u00f8nmodtagers deltagelse i kommunens opf\u00f8lgningssamtaler.",
+        "aa7d5258-26b5-49fe-8386-1569d4c416e0": "Da oplysningerne om l\u00f8nmodtagerens helbredsm\u00e6ssige og l\u00e6gelige forhold skal v\u00e6re af v\u00e6sentlig betydning for, at arbejdsgiveren kan varetage sine \u00f8konomiske interesser i en sag om helt eller delvist afslag p\u00e5 refusion, kan en arbejdsgivers anmodning om aktindsigt i helbredsm\u00e6ssige eller l\u00e6gelige oplysninger p\u00e5 et tidspunkt, hvor arbejdsgiverens adgang til refusion ikke er ber\u00f8rt, ikke im\u00f8dekommes.\n\n4.3.Begrundelse\n\nHelbredsm\u00e6ssige og l\u00e6gelige oplysninger om l\u00f8nmodtageren skal indg\u00e5 som en del af begrundelsen for en afg\u00f8relse, hvis de er tillagt v\u00e6sentlig betydning for afg\u00f8relsen om helt eller delvist afslag p\u00e5 refusion. S\u00e5danne oplysninger skal tilg\u00e5 arbejdsgiveren, da de er af v\u00e6sentlig betydning for, at arbejdsgiveren kan varetage sine \u00f8konomiske interesser i refusionssagen. Dette g\u00e6lder dog ikke, hvis afg\u00f8rende hensyn til l\u00f8nmodtagerens interesse i hemmeligholdelse af helbredsm\u00e6ssige eller l\u00e6gelige oplysninger om l\u00f8nmodtageren efter forholdets s\u00e6rlige karakter er p\u00e5kr\u00e6vet, se afsnit 5.",
+        "02e964de-a4a4-435c-bb61-45fbe293c71b": "Det er kun n\u00f8dvendige helbredsm\u00e6ssige og l\u00e6gelige oplysninger, som har betydning for arbejdsgiverens ret til refusion, som arbejdsgiveren har ret til at blive gjort bekendt med. Heri ligger bl.a., at hvis en afg\u00f8relse kan begrundes og samtidig leve op til forvaltningslovens krav til en begrundelse alene ud fra oplysninger om f.eks. l\u00f8nmodtagerens funktionsneds\u00e6ttelse uden brug af diagnoser, skal kommunen ikke oplyse arbejdsgiveren om diagnosen.\n\nEksempel 3\nEn l\u00f8nmodtager er sygemeldt fra sit arbejde som lagermedarbejder p\u00e5 grund af en br\u00e6kket skulder.\nAf de l\u00e6gelige oplysninger (l\u00e6geattest og journaler fra sygehus) i sagen fremg\u00e5r - udover, at h\u00f8jre skulder er br\u00e6kket, og at prognose for en bedring af funktionsniveauet er usikker - at l\u00f8nmodtageren tidligere har haft et alkoholmisbrug, og at han derfor fortsat er p\u00e5 antabus.P\u00e5 revurderingstidspunktet vurderer kommunen, at betingelserne for at forl\u00e6nge sygedagpengeudbetalingen ikke er opfyldt efter \u00a7 27, stk.",
+        "5ea7f658-41e2-44cf-99a7-c0cc61e03181": "1, og l\u00f8nmodtageren overg\u00e5r til jobafklaringsforl\u00f8b.Kommunen vurderer i den konkrete situation, at l\u00f8nmodtagerens tidligere alkoholmisbrug ikke har betydning for afg\u00f8relsen.Kommunen skal partsh\u00f8re arbejdsgiveren over oplysningerne om skulderen og den usikre prognose for raskmelding.Arbejdsgiveren har ikke ret til at blive gjort bekendt med oplysningerne om l\u00f8nmodtagerens tidligere alkoholmisbrug.\n\nKommunen vil dog ikke skulle videregive oplysningerne, hvis afg\u00f8rende hensyn til l\u00f8nmodtagers interesse i hemmeligholdelse efter forholdets s\u00e6rlige karakter er p\u00e5kr\u00e6vet.Se afsnit 5.\n\nAnkestyrelsen har i vejledningenAt skrive en afg\u00f8relseuddybet kravene til begrundelsen for afg\u00f8relsen, som g\u00e6lder for afg\u00f8relser, der er rettet b\u00e5de mod borgere og arbejdsgivere, der er part i en sag om refusion af sygedagpenge eller ressourceforl\u00f8bsydelse i et jobafklaringsforl\u00f8b. Se n\u00e6rmere Ankestyrelsens vejledning, som findes p\u00e5 ast.dk.",
+        "4b2e4d7f-55a9-4d53-a410-c0dd6eee2b30": "5.Hensynet til l\u00f8nmodtagerens interesse i at hemmeligholde helbredsm\u00e6ssige eller l\u00e6gelige oplysninger p\u00e5 grund af forholdets s\u00e6rlige karakter\n\nI vurderingen af, om arbejdsgiveren har ret til at blive gjort bekendt med helbredsm\u00e6ssige eller l\u00e6gelige oplysninger om l\u00f8nmodtageren efter \u00a7 68 a, stk. 4, i lov om sygedagpenge og \u00a7 69 v, stk. 4, i lov om aktiv socialpolitik, skal der altid foretages en afvejning af p\u00e5 den ene side l\u00f8nmodtagerens interesse i hemmeligholdelse og p\u00e5 den anden side arbejdsgiverens interesse i at blive gjort bekendt med de helbredsm\u00e6ssige og l\u00e6gelige oplysninger om l\u00f8nmodtageren med henblik p\u00e5 at kunne varetage sine \u00f8konomiske interesser i refusionssagen. Afvejningen kan s\u00e5ledes medf\u00f8re, at hensynet til l\u00f8nmodtagerens interesse i hemmeligholdelse vejer tungest, og at arbejdsgiverens ret til at blive gjort bekendt med oplysningerne afsk\u00e6res.\n\nAfg\u00f8rende hensyn til l\u00f8nmodtagerens interesse i hemmeligholdelse af oplysningerne er de samme hensyn, som g\u00e6lder i forhold til \u00a7 15 b, nr. 5, i forvaltningsloven, om partsaktindsigt.",
+        "ed4d95d6-c8ef-40fc-a662-db24439f4a43": "5, i forvaltningsloven, om partsaktindsigt.\n\nDet fremg\u00e5r af forarbejderne til forvaltningsloven, at bestemmelsen skal anvendes med tilbageholdenhed. Der skal derfor foreligge meget tungtvejende grunde til, at arbejdsgiveren kan n\u00e6gtes partsaktindsigt.\n\nI forhold til anvendelsen af \u00a7 68 a, stk. 4, i lov om sygedagpenge og \u00a7 69 v, stk. 4, i lov om aktiv socialpolitik, skal der derfor foreligge meget tungtvejende grunde til, at arbejdsgiveren ikke har ret til at blive gjort bekendt med helbredsm\u00e6ssige og l\u00e6gelige oplysninger om l\u00f8nmodtageren, hvis oplysningerne er af v\u00e6sentlig betydning for, at arbejdsgiveren kan varetage sine \u00f8konomiske interesser i en sag om helt eller delvis afslag p\u00e5 refusion.\n\n\u201dAfg\u00f8rende hensyn\u201d til l\u00f8nmodtagerens interesse i hemmeligholdelse betyder, at oplysningerne kun kan undtages fra arbejdsgiverens ret til at blive gjort bekendt med oplysningerne, hvis der er n\u00e6rliggende fare for, at privates eller det offentliges interesser vil lide skade af v\u00e6sentlig betydning, hvis arbejdsgiveren bliver gjort bekendt med oplysningerne.",
+        "1a73c694-1564-42e8-b2cf-f91a076eb094": "Der skal foreligge en n\u00e6rmere konkretiseret risiko for, at l\u00f8nmodtagerens interesser vil lide skade af v\u00e6sentlig betydning. Afvejningen skal foretages for hver enkelt oplysning i et dokument. Afvejningen foretages af den myndighed, der i \u00f8vrigt skal eller har truffet afg\u00f8relsen i den aktuelle sag.\n\nVed vurderingen af, om en oplysning skal undtages fra partens adgang til aktindsigt, er det ofte n\u00f8dvendigt at indhente en erkl\u00e6ring fra den, oplysningen vedr\u00f8rer, om karakteren og v\u00e6gten af de interesser, som vedkommende m\u00e5tte have i, at der ikke meddeles aktindsigt i det p\u00e5g\u00e6ldende materiale, jf. FOB 1993.241.\n\nAfvejningen kan s\u00e5ledes medf\u00f8re, at hensynet til l\u00f8nmodtagerens interesse i hemmeligholdelse vejer tungest, og at arbejdsgiverens indsigt i oplysningerne afsk\u00e6res.\n\nEt eksempel p\u00e5 denne interesseafvejning er enafg\u00f8relse af 13. november 2015 fra Ankestyrelsen, hvor kommunen fik medhold i, at oplysningerne ikke kunne undtages fra arbejdsgiverens ret til indsigt.",
+        "d9fe6665-1cca-491d-a6f1-0a53905d9f2d": "Kommunen havde forud for afg\u00f8relsen om at give arbejdsgiveren aktindsigt foretaget en konkret, individuel v\u00e6sentlighedsvurdering af, om der var grundlag for at undtage oplysninger om l\u00f8nmodtagerens rent helbredsm\u00e6ssige og sociale forhold. Ankestyrelsen var enig med kommunen i, at der ikke i det konkrete tilf\u00e6lde var n\u00e6rliggende fare for, at private interesser ville lide skade af v\u00e6sentlig betydning og henviste i den forbindelse til, at det f\u00f8lger af ordlyden i bestemmelsen i forvaltningsloven og forarbejderne hertil, at undtagelsen skal anvendes med tilbageholdenhed.\n\nAnkestyrelsen lagde i den forbindelse v\u00e6gt p\u00e5, at b\u00e5de statusattest fra egen l\u00e6ge og beskrivelse af aktuel situation fra psykolog omhandlede oplysninger om l\u00f8nmodtagerens sk\u00e5nehensyn, og hvordan delvis genoptagelse af arbejdet havde v\u00e6ret af betydning for l\u00f8nmodtagerens helbredssituation, hvilket var vigtigt for arbejdsgiveren at vide.",
+        "279d4344-50d0-4e41-9556-0dd4e84ef004": "Ankestyrelsen lagde endvidere v\u00e6gt p\u00e5, at l\u00f8nmodtageren ikke havde oplyst eller konkretiseret, hvilke skadevirkninger, der ville v\u00e6re forbundet med aktindsigten, udover den generelle betragtning om, at arbejdsgiveren ikke har adgang til oplysninger om diagnoser og helbredsm\u00e6ssige oplysninger.\n\nI forbindelse med, at kommunen eller Ankestyrelsen indhenter l\u00f8nmodtagerens udtalelse om evt. skadevirkninger af, at arbejdsgiveren bliver gjort bekendt med helbredsm\u00e6ssige og l\u00e6gelige oplysninger, b\u00f8r l\u00f8nmodtageren samtidig vejledes om, at konsekvensen af, at l\u00f8nmodtageren ikke svarer eller undlader at komme med en n\u00e6rmere beskrivelse af, hvilke eventuelle skadevirkninger, l\u00f8nmodtageren mener, at der kan opst\u00e5 ved, at oplysningerne udleveres, er, at oplysningerne vil blive udleveret til arbejdsgiveren, hvis oplysningerne er af v\u00e6sentlig betydning for, at arbejdsgiveren kan varetage sine \u00f8konomiske interesser i en sag om helt eller delvis afslag p\u00e5 refusion.",
+        "ac7e9687-c16f-4b83-92a4-2e6a5cc845d3": "6.Eksempler p\u00e5 situationer, hvor det konkret skal vurderes, om arbejdsgiveren har ret til at blive gjort bekendt med helbredsm\u00e6ssige eller l\u00e6gelige oplysninger\n\n6.1.Stop af sygedagpenge p\u00e5 grund af, at l\u00f8nmodtageren ikke anses for uarbejdsdygtig (sygedagpengelovens \u00a7 7, stk. 3)\n\nDet er en betingelse for ret til sygedagpenge, at en person er uarbejdsdygtig p\u00e5 grund af egen sygdom, jf. \u00a7 7, stk. 1, i lov om sygedagpenge.\n\nVurderingen af en persons uarbejdsdygtighed skal som udgangspunkt foretages i forhold til besk\u00e6ftigelsen f\u00f8r sygemeldingen. Efter 3 m\u00e5neders sygefrav\u00e6r skal vurderingen ske p\u00e5 grundlag af den sygemeldtes uddannelses- og besk\u00e6ftigelsesomr\u00e5de, jf. \u00a7 7, stk. 3, i lov om sygedagpenge.",
+        "53d37ed3-2950-4387-ba76-38972aa40ce8": "\u00a7 7, stk. 3, i lov om sygedagpenge.\n\nEksempel 4\nEn butiksmedarbejder i en dagligvarebutik sygemeldes med en skade i skulderen.Medarbejderens arbejdsfunktion i butikken er at fylde varer op samt betjene kassen.Efter 3 m\u00e5neder har smerterne fortaget sig lidt, men medarbejderen har fortsat smerter i skulderen og er derfor fortsat uarbejdsdygtig i forhold til sin konkrete besk\u00e6ftigelse.Medarbejderen afskediges herefter med 3 m\u00e5neders l\u00f8n, da virksomheden ikke regner med, at p\u00e5g\u00e6ldende kommer tilbage p\u00e5 arbejdspladsen.\nDa sygefrav\u00e6ret har varet mere end 3 m\u00e5neder, skal kommunen efter \u00a7 7, stk. 3, i lov om sygedagpenge, foretage en vurdering af, om den sygemeldte er uarbejdsdygtig i forhold til anden besk\u00e6ftigelse.\n\nAf en l\u00e6geattest i sagen fremg\u00e5r, at l\u00e6gen vurderer, at medarbejderen ikke kan genoptage arbejdet som butiksmedarbejder uden risiko for en forv\u00e6rring af skaden i skulderen, men at medarbejderen kan varetage andet arbejde, som ikke belaster skulderen.",
+        "98c4851e-d6fb-4cec-acbe-65e411ee02be": "Kommunen vurderer, at den sygemeldte med tilstr\u00e6kkelige sk\u00e5nehensyn vil kunne arbejde p\u00e5 kontor, hvilket p\u00e5g\u00e6ldende tidligere har gjort i en periode, og p\u00e5 den baggrund opfylder den sygemeldte ikke l\u00e6ngere betingelsen om at v\u00e6re uarbejdsdygtig.Kommunen agter herefter at stoppe for udbetaling af sygedagpenge og hermed for arbejdsgiverens sygedagpengerefusion.\nKommunen skal partsh\u00f8re arbejdsgiveren, inden afg\u00f8relsen tr\u00e6ffes, da arbejdsgiveren udbetaler l\u00f8n i opsigelsesperioden og dermed er part i refusionssagen.Kommunen skal i den forbindelse g\u00f8re arbejdsgiveren bekendt med de helbredsm\u00e6ssige og l\u00e6gelige oplysninger, som kommunen st\u00f8tter sin vurdering p\u00e5.\nKommunen vil dog ikke skulle videregive oplysningerne, hvis afg\u00f8rende hensyn til l\u00f8nmodtagers interesse i hemmeligholdelse efter forholdets s\u00e6rlige karakter er p\u00e5kr\u00e6vet.Se afsnit 5.\n\n6.2.Afslag p\u00e5 forl\u00e6ngelse af sygedagpenge (sygedagpengelovens \u00a7 27)\n\nVed en borgers overgang til jobafklaring med ressourceforl\u00f8bsydelse vil der som udgangspunkt ske en reduktion af arbejdsgiverens refusion.",
+        "6250f6f3-e15f-4126-b35a-05243ded3a5e": "Arbejdsgiveren vil derfor have en v\u00e6sentlig \u00f8konomisk interesse i sagen, som han skal have mulighed for at varetage ved at blive gjort bekendt med de oplysninger, der er afg\u00f8rende for afg\u00f8relsen om, at borgeren ikke opfylder betingelserne for at forl\u00e6nge sygedagpengene efter nogen af forl\u00e6ngelsesreglerne, jf. \u00a7 27, stk. 1.\n\nFor s\u00e5 vidt ang\u00e5r oph\u00f8r af sygedagpenge, jf. \u00a7 24, stk. 1, i lov om sygedagpenge, vil en afg\u00f8relse ofte handle om, hvorvidt de i lovens \u00a7 27, stk. 1, anf\u00f8rte forl\u00e6ngelsesregler finder anvendelse. Hvis kommunen har truffet afg\u00f8relse om, at ingen af de i \u00a7 27, stk. 1, oplistede forl\u00e6ngelsesregler finder anvendelse, men dog har foretaget en n\u00e6rmere pr\u00f8velse i relation til en eller flere af disse forl\u00e6ngelsesregler, vil arbejdsgiveren som en del af begrundelsen for afg\u00f8relsen kunne blive gjort bekendt med oplysninger af l\u00e6gelig eller helbredsm\u00e6ssig karakter, der g\u00f8r det muligt for arbejdsgiveren at tage stilling til, om der skal klages over kommunens afg\u00f8relse.",
+        "a34f30d3-ca79-4361-92bc-da38f75ffa9a": "Eksempel 5\nKommunen p\u00e5t\u00e6nker at tr\u00e6ffe afg\u00f8relse om at stoppe for udbetaling af sygedagpenge, da kommunen p\u00e5 revurderingstidspunktet, jf. \u00a7 24, stk. 1, i lov om sygedagpenge, vurderer, at betingelserne for at forl\u00e6nge sygedagpengeperioden ikke er opfyldt efter nogen af forl\u00e6ngelsesreglerne i \u00a7 27, stk. 1.\nDe helbredsm\u00e6ssige og l\u00e6gelige oplysninger, der foreligger i sagen, er dels en statusattest vedr\u00f8rende l\u00f8nmodtagerens helbredsproblemer med ryggen - der ikke vurderes at v\u00e6re i en station\u00e6r tilstand\u2013 og dels en statusattest fra en psykolog, hvoraf det fremg\u00e5r, at l\u00f8nmodtageren har personlighedsm\u00e6ssige og sociale problemer, som - sammenholdt med et alkoholmisbrug - er en v\u00e6sentlig udfordring i forhold til vedkommendes arbejdsm\u00e6ssige fremtid.\n\nI kommunens p\u00e5t\u00e6nkte afg\u00f8relse indg\u00e5r en konkret vurdering af muligheden for forl\u00e6ngelse efter samtlige forl\u00e6ngelsesmuligheder i \u00a7 27, stk. 1, i lov om sygedagpenge.\n\nI vurderingen efter stk. 1, nr.",
+        "ea2bad80-ef66-41de-8c81-a32004cf90b3": "I vurderingen efter stk. 1, nr. 1, (om hvorvidt det anses for overvejende sandsynligt, at der kan iv\u00e6rks\u00e6ttes en revalidering, der kan f\u00f8re til, at den sygemeldte kan vende tilbage til det ordin\u00e6re arbejdsmarked) indg\u00e5r oplysninger fra statusattesten vedr\u00f8rende l\u00f8nmodtagerens helbredsproblemer med ryggen, hvoraf det fremg\u00e5r, at ryglidelsen ikke er stabil eller station\u00e6r, hvilket betyder, at det ikke kan vurderes, om der kan iv\u00e6rks\u00e6ttes en revalidering med henblik p\u00e5 at vende tilbage til det ordin\u00e6re arbejdsmarked.De samme helbredsoplysninger vil indg\u00e5 i forhold til vurderingen efter stk. 1, nr. 2, (om hvorvidt det anses for n\u00f8dvendigt at gennemf\u00f8re afklarende foranstaltninger med henblik p\u00e5 at klarl\u00e6gge den sygemeldtes arbejdsevne).P\u00e5 baggrund af de helbredsm\u00e6ssige oplysninger om rygproblemerne, som ikke er station\u00e6re, kan det ikke vurderes, om der er behov for at gennemf\u00f8re afklarende foranstaltninger for at klarl\u00e6gge den sygemeldtes arbejdsevne.\n\nI vurderingen efter stk. 1, nr.",
+        "477556a7-d234-4651-9ff2-82e83636bb58": "I vurderingen efter stk. 1, nr. 3, (den sygmeldte er under eller venter p\u00e5 l\u00e6gebehandling, og det skal vurderes, om der foreligger en sikker l\u00e6gelig vurdering af, om vedkommende kan genoptage erhvervsm\u00e6ssig besk\u00e6ftigelse inden for 134 uger fra revurderingstidspunktet), hvor der skal foretages en helhedsvurdering af sagens oplysninger, herunder om det er muligt for l\u00f8nmodtageren at genoptage arbejdet p\u00e5 samme niveau som f\u00f8r sygemeldingen, indg\u00e5r oplysninger fra statusattesten fra psykologen om l\u00f8nmodtagerens alkoholmisbrug og de personlighedsm\u00e6ssige og sociale problemer.",
+        "a4baac47-2db3-4db4-9298-335a263542de": "Inden kommunen tr\u00e6ffer afg\u00f8relse, skal arbejdsgiveren partsh\u00f8res.Arbejdsgiveren vil have ret til at blive gjort bekendt med de helbredsm\u00e6ssige og l\u00e6gelige oplysninger om l\u00f8nmodtageren, som kommunen till\u00e6gger v\u00e6gt ved afg\u00f8relsen om at stoppe for udbetalingen af sygedagpenge.Som udgangspunkt vil arbejdsgiveren have ret til at blive gjort bekendt med oplysninger, som fremg\u00e5r af s\u00e5vel statusattesten vedr\u00f8rende de helbredsm\u00e6ssige rygproblemer som af statusattesten om de personlighedsm\u00e6ssige og sociale problemer, herunder oplysninger om alkoholmisbruget, f\u00f8r afg\u00f8relsen tr\u00e6ffes, medmindre afg\u00f8rende hensyn til l\u00f8nmodtagers interesse i hemmeligholdelse efter forholdets s\u00e6rlige karakter er p\u00e5kr\u00e6vet.Se afsnit 5.\n\n6.3.Bortfald af sygedagpenge som f\u00f8lge af manglende medvirken (sygedagpengelovens \u00a7 21)\n\nKommunen kan standse sygedagpengene \u2013 og dermed refusionen til arbejdsgiveren - efter \u00a7 21, stk. 1, nr. 1, i lov om sygedagpenge som f\u00f8lge af den sygemeldtes manglende deltagelse i kommunens opf\u00f8lgning, herunder udeblivelse fra en opf\u00f8lgningssamtale.",
+        "8950ffff-3d81-4c3c-98ea-c0c3e41fbacf": "Manglende medvirken i kommunens opf\u00f8lgning\n\nHvis den sygemeldte klart tilkendegiver, at den p\u00e5g\u00e6ldende ikke vil medvirke i kommunens opf\u00f8lgningsindsats eller afviser at fremskaffe dokumentation, m\u00e5 kommunen oplyse dette som begrundelse for, at der stoppes for udbetalingen af sygedagpenge og dermed for sygedagpengerefusionen. Arbejdsgiveren vil i s\u00e5danne situationer ikke have brug for helbredsm\u00e6ssige eller l\u00e6gelige oplysninger for at kunne varetage sine interesser i refusionssagen, og arbejdsgiveren har derfor ikke ret til at blive gjort bekendt med s\u00e5danne oplysninger, selvom der i sagen foreligger oplysninger om dette. Det er alene relevant for arbejdsgiveren at f\u00e5 oplyst, at grunden til, at der ikke kan gives refusion, er, at l\u00f8nmodtageren ikke medvirker i kommunens opf\u00f8lgning.\n\nUdeblivelse fra en opf\u00f8lgningssamtale\n\nEn psykisk lidelse kan efter omst\u00e6ndighederne begrunde en udeblivelse fra en opf\u00f8lgningssamtale.",
+        "c19b0cfd-c5a9-4fc2-912d-58d300d3c2da": "Har kommunen oplysninger om den sygemeldtes lidelse, men vurderer kommunen, at lidelsen ikke har kunnet afholde p\u00e5g\u00e6ldende fra at deltage i opf\u00f8lgningssamtalen, vil kommunen skulle tr\u00e6ffe afg\u00f8relse om at stoppe for udbetaling af sygedagpenge p\u00e5 grund af den sygemeldtes udeblivelse. I denne situation vil arbejdsgiveren have ret til at blive gjort bekendt med de relevante oplysninger om l\u00f8nmodtagerens psykiske lidelse.\n\nAfviser at deltage i genoptr\u00e6ning\n\nHvis retten til sygedagpenge bortfalder, fordi den sygemeldte f.eks. afviser at deltage i genoptr\u00e6ning for at genvinde arbejdsevnen eller i \u00f8vrigt ved sin adf\u00e6rd forhaler helbredelsen, har arbejdsgiveren brug for at vide, hvad den konkrete \u00e5rsag er til, at sygedagpengerefusionen bortfalder for at kunne varetage sine \u00f8konomiske interesser i refusionssagen. Oplysning om, hvilken form for genoptr\u00e6ning, som den sygemeldte ikke vil deltage i, eller hvilken adf\u00e6rd der forhaler helbredelsen, kan have l\u00e6gelig eller helbredsm\u00e6ssig karakter, og s\u00e5danne oplysninger kan f.eks.",
+        "aae005a6-1ddd-4af5-bb74-3972c6f2a849": "bruges af arbejdsgiveren i forbindelse med overvejelser om, hvorvidt kommunens afg\u00f8relse skal ankes, eller i en dr\u00f8ftelse mellem arbejdsgiver og den sygemeldte om f.eks. at \u00e6ndre adf\u00e6rd eller genoverveje beslutningen om ikke at deltage i genoptr\u00e6ning.\nArbejdsgiveren skal i disse situationer som udgangspunkt have adgang til de l\u00e6gelige eller helbredsm\u00e6ssige oplysninger om l\u00f8nmodtageren for at kunne varetage sine interesser i refusionssagen. Det vil dog stadig alene v\u00e6re de helbredsm\u00e6ssige eller l\u00e6gelige oplysninger, som konkret er af betydning for den p\u00e5g\u00e6ldende refusionssag, som arbejdsgiveren skal have. \u00d8vrige oplysninger, der f.eks. findes i en l\u00e6gejournal, skal arbejdsgiveren ikke g\u00f8res bekendt med.\n\nKommunen vil dog ikke skulle videregive oplysningerne, hvis afg\u00f8rende hensyn til l\u00f8nmodtagers interesse i hemmeligholdelse efter forholdets s\u00e6rlige karakter er p\u00e5kr\u00e6vet. Se afsnit 5.\n\nStyrelsen for Arbejdsmarked og Rekruttering, den 19. december 2018\nMie Skovb\u00e6k Mortensen\n/ Jan Vinge Rasmussen",
+        "b694b674-3fe1-49cc-8169-97903d33432a": "Vejledning om overenskomst mellem Danmark og Indien om social sikring\n\nINDLEDNING\n1.Der er den 17. februar 2010 indg\u00e5et en overenskomst om social sikring mellem Danmark og Indien. Overenskomsten tr\u00e6der i kraft den 1. maj 2011.\nVed overenskomsten er der indg\u00e5et en aftale om koordinering af anvendelsen af de to landes lovgivning indenfor pensionsomr\u00e5det.\nOverenskomsten sikrer, at statsborgere i de to lande bliver omfattet af pensionslovgivningen p\u00e5 lige fod, medmindre andet er fastsat i s\u00e6rlige bestemmelser i overenskomsten. Desuden medf\u00f8rer overenskomsten bedre muligheder for tilkendelse og udbetaling af pension optjent i de to lande.\nDer er til overenskomsten indg\u00e5et en administrativ aftale om gennemf\u00f8relse af overenskomsten. Den administrative aftale tr\u00e6der i kraft samtidig med overenskomsten. Overenskomsten og den administrative aftale er optrykt som bilag til denne vejledning.\nDer bliver udarbejdet blanketter, som skal anvendes ved administration af overenskomsten.\nALMINDELIGE BESTEMMELSER \u2013 DEFINITIONER \u2013 OVERENSKOMSTENS\nAFSNIT I\nOmr\u00e5de \u2013 Overenskomstens artikel 1, bogstav a)\n2.Overenskomsten anvendes indenfor dansk og indisk omr\u00e5de.\nVed dansk omr\u00e5de forst\u00e5s efter overenskomsten Danmark med undtagelse af Gr\u00f8nland og F\u00e6r\u00f8erne.",
+        "6c8e618b-c72f-482e-98c9-575d9c409443": "Ved indisk omr\u00e5de forst\u00e5s Republikken Indien.\nOm udbetaling af pension i andre lande, se pkt. 7\nForsikringsperiode \u2013 Overenskomstens artikel 1, bogstav f)\n3.En forsikringsperiode er en periode, hvori der er betalt bidrag til en indisk pensionsordning, som er omfattet af overenskomsten, eller til ATP, samt bop\u00e6lsperioder hvori der er optjent ret til dansk social pension.\nSagligt anvendelsesomr\u00e5de \u2013 Overenskomstens artikel 2\n4.Overenskomsten finder for Danmarks vedkommende anvendelse p\u00e5:\na. Lov om social pension og de administrative bestemmelser, der vedr\u00f8rer denne lov.\nb. Lov om h\u00f8jeste, mellemste, forh\u00f8jet almindelig og almindelig f\u00f8rtidspension og administrative bestemmelser, der vedr\u00f8rer denne lov.\nc. Lov om Arbejdsmarkedets Till\u00e6gspension (ATP) og administrative bestemmelser hertil.\nFor Indiens vedkommende anvendes overenskomsten indenfor den lovgivning, der vedr\u00f8rer alderspension, efterlevelsespension og invalidepension for arbejdstagere.\nOverenskomsten g\u00e6lder for lovgivning, som \u00e6ndrer eller supplerer den lovgivning, der er n\u00e6vnt i artikel 2.",
+        "f5ee60a2-0bc2-48e1-915d-f9e0aed2c927": "Overenskomsten skal ligeledes anvendes p\u00e5 fremtidig lovgivning, som inddrager nye grupper af modtagere eller nye ydelser, med mindre den kompetente myndighed underretter myndigheden i det andet land om, at det ikke er hensigten at udvide overenskomstens anvendelsesomr\u00e5de.\nPersonkredsen \u2013 Overenskomstens artikel 3\n5.Overenskomsten g\u00e6lder \u2013 med mindre andet er bestemt \u2013 for personer, der er eller har v\u00e6ret omfattet af pensionslovgivningen i Danmark eller Indien, og som er statsborgere i Danmark eller Indien.\nFamiliemedlemmer og efterladte til danske og indiske statsborgere er omfattet, n\u00e5r de kan aflede en ret til pension fra de n\u00e6vnte person. Det g\u00e6lder uanset familiemedlemmernes og de efterladtes statsborgerskab.\nAndre personer, det vil typisk v\u00e6re \u00f8vrige tredjelandes statsborgere, er i begr\u00e6nset omfang omfattet af overenskomsten. I forhold til ret til dansk social pension betyder det som udgangspunkt udelukkende, at de p\u00e5g\u00e6ldende har mulighed for at forblive omfattet af dansk lovgivning om pension i udsendelsessituationer. Derimod er der ikke nogen direkte adgang til at f\u00e5 dansk social pension i Indien for personer, der ikke er indiske eller danske statsborgere. Se dog pkt. 7 om EU-borgere.",
+        "565798f9-16a6-42af-b698-5a0ca555066d": "Se dog pkt. 7 om EU-borgere.\nLigebehandling \u2013 Overenskomstens artikel 4\n6.Efter overenskomsten g\u00e6lder et almindeligt princip om ligebehandling af personer, der har bop\u00e6l i et af de to lande, ved anvendelse af den del af landenes lovgivning, som er omfattet af overenskomsten.\nDette princip er fraveget ved visse af de \u00f8vrige bestemmelser i overenskomsten.\nEksport af ydelser \u2013 Overenskomstens artikel 5\n7.I artikel 5, stk. 1, er udgangspunktet, at for statsborgere i Danmark eller Indien, ikke m\u00e5 v\u00e6re begr\u00e6nsninger i retten til at f\u00e5 udbetalt pension fra det ene land, selv om personen er bosat i det andet land. Der er dog undtagelser herfra i enkelte af overenskomstens artikler.\nOpm\u00e6rksomheden henledes p\u00e5, at en person, der er statsborger i et andet EU-land, og som p\u00e5 grundlag af bop\u00e6l eller besk\u00e6ftigelse i Danmark har optjent ret til dansk social pension, skal ligebehandles med en dansk statsborger. Personen har samme rettigheder som en dansk statsborger p\u00e5 omr\u00e5det for social pension i de bilaterale overenskomster om social sikring, som Danmark har indg\u00e5et med andre lande.",
+        "01a24e38-3494-4553-9ca8-1d7bd37d7b8e": "Det betyder, at den ret til at f\u00e5 udbetalt dansk social pension under bop\u00e6l i Indien, som g\u00e6lder for en dansk statsborger, p\u00e5 grundlag af overenskomsten mellem Danmark og Indien ogs\u00e5 g\u00e6lder for en statsborger i et andet EU-land og eventuelle familiemedlemmer, som har optjent ret til dansk social pension, jf. artikel 4 i EF-forordning nr. 883/2004.\nI artikel 5, stk. 2, er fastlagt adgang for indiske statsborgere til at f\u00e5 dansk pension i tredjelande (dvs. udenfor Danmark og Indien), og omvendt adgang for danske statsborgere til at modtage indisk pension i tredjelande.\nBetingelserne er de samme, som g\u00e6lder for landets egne statsborgere. Dvs. for ret til dansk pension g\u00e6lder pensionslovens regler for udbetaling af pension i udlandet (bortset fra kravet om dansk indf\u00f8dsret).\nHVILKET LANDS LOVGIVNING FINDER ANVENDELSE \u2013 OVERENSKOMSTENS\nAFSNIT II \u2013 ADMINISTRATIV AFTALES KAPITEL II\n8.Overenskomstens afsnit II indeholder bestemmelser om, hvilken af de to landes lovgivning en person skal v\u00e6re omfattet af i en given situation, de s\u00e5kaldte lovvalgsregler.\nValget af hvilket lands lovgivning, der finder anvendelse, g\u00e6lder kun for de lovomr\u00e5der, der er omfattet af overenskomsten.",
+        "7c75d96b-8b60-4e64-81f3-ae6e3afc9e44": "Sp\u00f8rgsm\u00e5let om rettigheder efter den \u00f8vrige sociale lovgivning i de to lande afg\u00f8res som hidtil udelukkende efter reglerne i den nationale lovgivning.\nDer bliver udarbejdet blanket, som skal anvendes til dokumentation af hvilket lands lovgivning skal anvendes. En midlertidig blanket om anvendelse af dansk lovgivning findes p\u00e5 Pensionsstyrelsens hjemmeside.\nHovedregel \u2013 Overenskomstens artikel 7, stk. 1\n9.Bestemmelsen fasts\u00e6tter hovedregler for lovvalget.\na) Udgangspunktet er, at en person er omfattet af lovgivningen i bop\u00e6lslandet\nb) Personer, der bor i \u00e9t af landene og arbejder i det andet, er omfattet af arbejdslandets lovgivning. Det g\u00e6lder b\u00e5de l\u00f8nmodtagere og selvst\u00e6ndige.\nc) Internationale transportarbejdere er omfattet af lovgivningen i det land, hvor transportvirksomheden er registreret.\nd) Personer, der arbejder som l\u00f8nmodtagere om bord p\u00e5 et skib, er omfattet af flaglandets lovgivning.\nUdsendte arbejdstagere \u2013 Overenskomstens artikel 8, stk. 1, stk. 2 og stk.",
+        "09097f3c-abd6-4c12-bffd-f2504d15087c": "1, stk. 2 og stk. 6 \u2013 Administrativ aftales artikel 4\n10.En arbejdstager, der p\u00e5 et tidspunkt, hvor p\u00e5g\u00e6ldende har bop\u00e6l i Danmark og derfor er omfattet af dansk lovgivning, og som af en arbejdsgiver med hjemsted i Danmark, bliver udsendt til midlertidigt at udf\u00f8re besk\u00e6ftigelse i Indien, forbliver omfattet af dansk lovgivning i indtil 3 \u00e5r efter udsendelsen, forudsat at den forventede varighed af udsendelsen ikke overstiger 3 \u00e5r.\nTilsvarende g\u00e6lder, at en arbejdstager, der har bop\u00e6l i Indien, kan udsendes til Danmark af sin indiske arbejdsgiver, og forblive omfattet af indisk pensionslovgivning. Denne udstationering kan ske i op til 5 \u00e5r.\nOverenskomstens bestemmelser om udsendte arbejdstagere g\u00e6lder for alle arbejdstagere, dvs. ogs\u00e5 tredjelandes statsborgere, og de kan s\u00e5ledes forblive omfattet af dansk lovgivning om social pension og ATP og dermed forsat optjene ret til dansk pension ved midlertidig besk\u00e6ftigelse i Indien, for en dansk arbejdsgiver.\nBestemmelsen om udsendte omfattet ikke selvst\u00e6ndige erhvervsdrivende.\nFamiliemedlemmer \u2013 Overenskomstens artikel 8, stk.",
+        "ee84b63b-e6fe-4132-8462-869aea4a97af": "3\n11.Medf\u00f8lgende familiemedlemmer til udsendte arbejdstagere er omfattet af lovgivningen i udsenderlandet, forudsat at de ikke selv er besk\u00e6ftiget eller driver selvst\u00e6ndig virksomhed i opholdslandet.\nOffentligt ansatte \u2013 Overenskomstens artikel 9, stk. 1\n12.Statsansatte mfl. Er omfattet af lovgivningen i det land, hvis myndighed besk\u00e6ftiger dem. I forhold til Danmark g\u00e6lder denne bestemmelse for alle offentlig ansatte, herunder ogs\u00e5 kommunalt ansatte.\nDiplomater mfl.\u2013 Overenskomstens artikel 9, stk. 2\n13.Overenskomsten ber\u00f8rer ikke bestemmelserne i Wienerkonventionen om diplomatiske og konsul\u00e6re forbindelser om s\u00e6rlige privilegier og immuniteter med hensyn til den lovgivning, som er omfattet af overenskomsten.\nDet betyder, at den fritagelse for at v\u00e6re omfattet af v\u00e6rtslandets lovgivning om social sikring, som g\u00e6lder efter Wienerkonventionen fortsat finder anvendelse for de diplomater mfl., der af Danmark eller Indien udsendes til disse landes repr\u00e6sentationer i det andet land.\nIndividuelle aftaler \u2013 Overenskomstens artikel 10, stk. 1\n14.Der kan indg\u00e5s aftaler mellem myndighederne i de to lande om at fravige de \u00f8vrige bestemmelser i artikel 7 \u2013 9. Aftale indg\u00e5s i Danmark af Pensionsstyrelsen.",
+        "4cf3c4e8-d5e6-4157-8a67-85e59c50de48": "Aftale indg\u00e5s i Danmark af Pensionsstyrelsen.\nAns\u00f8gning om aftale om at v\u00e6re under dansk lovgivning skal indgives til Pensionsstyrelsen, der indhenter samtykke fra de indiske myndigheder.\nFritagelse for ATP-bidrag \u2013 Overenskomstens artikel 10, stk. 2\n15.Der er tale om en s\u00e6rbestemmelse, hvorefter indiske statsborgere, der kortvarigt er besk\u00e6ftiget i Danmark, er undtaget fra ATP-pligten. Indiske statsborgere, der arbejder kortvarigt i Danmark, er derfor fritaget for at betale bidrag til ATP, selv om de efter overenskomsten er omfattet af dansk lovgivning.\nDisse perioder med kortvarig besk\u00e6ftigelse i Danmark kan dog medregnes til opfyldelse af besk\u00e6ftigelseskravet i overenskomstens artikel 11, stk. 1, forudsat at disse perioder kan dokumenteres p\u00e5 anden vis. Her kan fx dokumentation fra arbejdsforholdet i form af arbejdskontrakt, skatteopg\u00f8relse el. lign. anvendes.\nAttest om anvendelse af lovgivning \u2013 Administrativ aftales artikel 4\n16.Der udstedes altid blanket \u2013 se pkt. 8 - i udsendelsessituationer, og n\u00e5r der indg\u00e5s individuelle aftaler efter overenskomstens artikel 10, stk. 1.\nI andre tilf\u00e6lde udstedes blanketten kun, n\u00e5r der er et konkret behov."
+    },
+    "relevant_docs": {
+        "d61ae5cf-c632-4bee-9b55-489bfc4d5c1d": [
+            "03c49ab1-609f-4fe8-bdd3-62ab0c4182fc"
+        ],
+        "3d726de4-9a35-4f9c-a537-47333a94d967": [
+            "03c49ab1-609f-4fe8-bdd3-62ab0c4182fc"
+        ],
+        "5c9730a0-60ef-42ad-aa05-a29b9aeb1c8a": [
+            "4d905db2-bfed-4f81-a700-61fb69a35241"
+        ],
+        "fb4e4d5f-09a2-4096-a771-898ff88c019a": [
+            "4d905db2-bfed-4f81-a700-61fb69a35241"
+        ],
+        "28e572c3-8e24-4f40-85a8-c47bdc9b7d94": [
+            "5d1f1c84-b843-49d6-81c4-93b25d75cf47"
+        ],
+        "099884ef-cef4-421a-8cdd-8f314341bc08": [
+            "5d1f1c84-b843-49d6-81c4-93b25d75cf47"
+        ],
+        "36ed39a3-c395-4f93-915c-85f7e7f714c2": [
+            "3aacf457-2737-41bc-a770-29b0bad72720"
+        ],
+        "4784fd33-a7dd-4f9f-be25-3344ba94aca0": [
+            "3aacf457-2737-41bc-a770-29b0bad72720"
+        ],
+        "79bafe8c-7870-4167-b4b2-db70129c3b4f": [
+            "15434499-2223-4905-867d-d13d712faa39"
+        ],
+        "df4bdf19-a3a2-4946-87b0-00e79fd287ef": [
+            "15434499-2223-4905-867d-d13d712faa39"
+        ],
+        "333d8ba5-e46a-4af2-95b4-f3a0cbf8b412": [
+            "94b9fa70-2da2-4f2b-b41b-dcf1ad9353d8"
+        ],
+        "a1dc3a85-1602-4403-b90f-87f59086f96d": [
+            "94b9fa70-2da2-4f2b-b41b-dcf1ad9353d8"
+        ],
+        "785f7312-b806-45d1-b896-5b08b35366fd": [
+            "89a74290-f47d-4623-860c-6f1164681ae8"
+        ],
+        "5a5e052d-92d2-4fd2-9196-9fbf1dd6f00e": [
+            "89a74290-f47d-4623-860c-6f1164681ae8"
+        ],
+        "ac87a8ea-5b3b-4612-b34a-02616c25bfee": [
+            "189c5e70-12fc-4054-8f9f-197bafd087bf"
+        ],
+        "7706c346-0f15-421f-8e6c-3f3438a64dc8": [
+            "189c5e70-12fc-4054-8f9f-197bafd087bf"
+        ],
+        "015d4a2c-eb11-4239-bced-4ddd6c95cf9a": [
+            "e3180bff-4a7f-4510-bcca-da03dcbcf804"
+        ],
+        "a46ed53c-055d-40e6-bc9d-6941cc043ada": [
+            "e3180bff-4a7f-4510-bcca-da03dcbcf804"
+        ],
+        "604e48e7-5606-450a-801d-526bc0e45756": [
+            "c9112a99-5aca-43fd-9350-e8f2a6c85023"
+        ],
+        "1ebf2050-ad05-4f9a-b04a-1cb21aed90a0": [
+            "c9112a99-5aca-43fd-9350-e8f2a6c85023"
+        ],
+        "2ea2a310-5666-42ba-9908-25b2e9a50eb2": [
+            "a7fd88ad-2e38-43de-a96e-81bf6542cb26"
+        ],
+        "e20d599c-aa42-49ed-be26-c1684cf8c0b3": [
+            "a7fd88ad-2e38-43de-a96e-81bf6542cb26"
+        ],
+        "e60be730-2a61-4393-bb1f-22db589dd900": [
+            "2b02f79f-3328-416f-ba5a-31c2561f530c"
+        ],
+        "83b72cba-5dd1-455b-b56c-d682276306e8": [
+            "2b02f79f-3328-416f-ba5a-31c2561f530c"
+        ],
+        "38cf65d9-d07e-4ac0-badc-ed1ac3828d90": [
+            "e903228e-bdbb-4f3d-9010-a97e2d68fdcf"
+        ],
+        "c2937e78-62e5-42ed-827b-5b5dd399e052": [
+            "e903228e-bdbb-4f3d-9010-a97e2d68fdcf"
+        ],
+        "7d923ba5-39e6-42a0-bd13-f796dd637700": [
+            "3f4fbb9c-cc49-429c-9d06-40982463bff1"
+        ],
+        "54243065-35cb-4e9c-9695-cfd359dca0d2": [
+            "3f4fbb9c-cc49-429c-9d06-40982463bff1"
+        ],
+        "3ec6868a-35f2-47b2-b0b0-ed9b59ad94ac": [
+            "0eb3a7ea-0267-4350-9f28-086b2c896363"
+        ],
+        "50dcac7b-f09e-4747-b6fb-29f57dd3e963": [
+            "0eb3a7ea-0267-4350-9f28-086b2c896363"
+        ],
+        "6a9b7bb7-2a9e-44a9-a627-135c3830dc4a": [
+            "0fad076d-b278-42e8-a989-2e5d3d2b0d4b"
+        ],
+        "f238fed2-5d81-49bf-84b0-dd4da79834c6": [
+            "0fad076d-b278-42e8-a989-2e5d3d2b0d4b"
+        ],
+        "03a0e91f-01b4-4c2a-8055-c0f8ed8695de": [
+            "e3320e89-1cbf-4b9f-ac21-c9ee9b71bfc4"
+        ],
+        "3df4a9db-26a7-4de8-99e3-82b7d8045c51": [
+            "e3320e89-1cbf-4b9f-ac21-c9ee9b71bfc4"
+        ],
+        "d2ef88e6-3f1d-4fcb-8057-02ff05ebfaa0": [
+            "36191ba3-a435-46f2-ac92-552b29104548"
+        ],
+        "e3a7ce2d-5e5e-42ca-b40b-f8c49511d27e": [
+            "36191ba3-a435-46f2-ac92-552b29104548"
+        ],
+        "734faa37-a739-433e-8e20-b848487ded8e": [
+            "731b58c9-2b8c-48b2-8104-0e8be748d386"
+        ],
+        "d0688401-441c-49fc-9e5b-7c6b78143af4": [
+            "731b58c9-2b8c-48b2-8104-0e8be748d386"
+        ],
+        "ccf3ce70-c75c-49b3-ab9b-259c69f17ce0": [
+            "c58695fa-5aef-4b86-af0b-9f954f4b68fc"
+        ],
+        "2b26e49f-33f5-45ba-ab8e-2c909093df73": [
+            "c58695fa-5aef-4b86-af0b-9f954f4b68fc"
+        ],
+        "576d5998-ebdf-4ab9-b96c-95fa56499607": [
+            "24c7080c-e093-4efe-ab5b-ed951f70e2af"
+        ],
+        "1c8f2dec-9b5d-4f31-973d-e18c35c75d32": [
+            "24c7080c-e093-4efe-ab5b-ed951f70e2af"
+        ],
+        "ae8094ca-94b1-49d9-bce3-dd361c5ac74c": [
+            "1ae3b5a2-a2da-40e9-9e92-a2c5a3db85a5"
+        ],
+        "62bd527f-17da-4a4b-8808-822d043ff791": [
+            "1ae3b5a2-a2da-40e9-9e92-a2c5a3db85a5"
+        ],
+        "642b78ae-af0d-4de2-bba9-ba19d383f61d": [
+            "5cf0e29f-5201-4b10-ac61-edf4740d9ff1"
+        ],
+        "e2800253-c795-4e05-ab0b-deca900aeaca": [
+            "5cf0e29f-5201-4b10-ac61-edf4740d9ff1"
+        ],
+        "e53246dd-0c65-42a3-94b5-cd007e1d00d5": [
+            "c0294fc7-7a94-451e-9f13-795d2e72f76b"
+        ],
+        "b7ea3bc9-6503-4860-ba37-b76e84d37ece": [
+            "c0294fc7-7a94-451e-9f13-795d2e72f76b"
+        ],
+        "efba7b7a-5b08-4466-a8e4-5e77074893cc": [
+            "1ceb482c-b3bf-4cb3-9ad4-657f81bd2ad7"
+        ],
+        "86eecac9-07dc-4eb9-8c51-556e27fbee53": [
+            "1ceb482c-b3bf-4cb3-9ad4-657f81bd2ad7"
+        ],
+        "beb5400f-5337-4513-ac54-1e3941e4c4e1": [
+            "a009ed0a-f566-4838-95bf-37416447924e"
+        ],
+        "287dbaba-f3c4-4f21-9896-5ea536f0d4e9": [
+            "a009ed0a-f566-4838-95bf-37416447924e"
+        ],
+        "41fb9d69-699c-4fa2-bb3a-3990eceda313": [
+            "f7f6787f-0d43-4247-8527-6642e48d52cc"
+        ],
+        "28d7bd3d-72cb-4d95-b045-5bfff1581911": [
+            "f7f6787f-0d43-4247-8527-6642e48d52cc"
+        ],
+        "ae021820-df34-4874-b992-e090027cb536": [
+            "767a249d-d1d2-478c-8ef4-1aa4f9b471f6"
+        ],
+        "038f1389-0fbe-4c06-9736-c8f43fd9f1b6": [
+            "767a249d-d1d2-478c-8ef4-1aa4f9b471f6"
+        ],
+        "21f47234-56af-4306-ba87-8f3f6494c371": [
+            "7b30faab-ccaa-4e18-87b9-e302755bb6c2"
+        ],
+        "4b9e2209-1a30-4ecc-a70b-355e5ea77f0f": [
+            "7b30faab-ccaa-4e18-87b9-e302755bb6c2"
+        ],
+        "159a4184-dfda-4888-85e6-5f19b2bcd2bc": [
+            "357cd28a-b58b-4c4f-8e70-ebfd35a63a93"
+        ],
+        "ac1b8b08-2715-47c5-aa98-5c0f168a44af": [
+            "357cd28a-b58b-4c4f-8e70-ebfd35a63a93"
+        ],
+        "77f08526-a0b5-46d2-9409-41c927434cea": [
+            "4b424777-ae07-4c2b-860d-a6ea57019b80"
+        ],
+        "7faa146e-affb-4d5b-acaf-bfc60c55ae47": [
+            "4b424777-ae07-4c2b-860d-a6ea57019b80"
+        ],
+        "bf48dd46-a00e-41a0-a3dd-1224f5d2bac4": [
+            "560545c6-62ff-420c-a09a-ae75e179d831"
+        ],
+        "4facffa6-c191-48fa-844c-a0c4e4258b99": [
+            "560545c6-62ff-420c-a09a-ae75e179d831"
+        ],
+        "c2185695-d70f-4939-91b5-b5925a340dbe": [
+            "2d523772-ae4d-43ad-a51f-1c63c6585693"
+        ],
+        "b4c10411-748d-4b7b-8b1d-51eb7c7f4c6c": [
+            "2d523772-ae4d-43ad-a51f-1c63c6585693"
+        ],
+        "93c12aec-95e9-4472-b10f-28d9b9e420a9": [
+            "81b84de0-0ffe-4b5c-b8c1-da690166fc6a"
+        ],
+        "f7abfae4-d0a0-42c9-9642-79b9133d665b": [
+            "81b84de0-0ffe-4b5c-b8c1-da690166fc6a"
+        ],
+        "bfec3199-e68a-43e7-ae53-9ba7d7488e77": [
+            "8f3d5a4f-9fa8-4bd8-ad67-6e44c9225add"
+        ],
+        "e55dabb6-c047-4080-a697-b9e5888193c5": [
+            "8f3d5a4f-9fa8-4bd8-ad67-6e44c9225add"
+        ],
+        "532204f5-f8b8-436b-a43f-6c40d3474877": [
+            "df32977e-f320-4c81-a8df-fa48f223b319"
+        ],
+        "cd473897-1206-4028-86e4-87cb794d710d": [
+            "df32977e-f320-4c81-a8df-fa48f223b319"
+        ],
+        "e61cbb00-149e-4838-bd9e-61eff4e1b3d2": [
+            "b34e0583-00d9-4e4d-b030-15aa3d5a2565"
+        ],
+        "1cadcff7-8201-4d1c-80e0-11c4c8def190": [
+            "b34e0583-00d9-4e4d-b030-15aa3d5a2565"
+        ],
+        "2d06c90a-679a-43b8-a821-012b34aefb9a": [
+            "a11c0277-a959-42a3-9ddc-0bbec3c9f0bf"
+        ],
+        "1a6f3efd-7384-461b-b34c-f7a61c63fb12": [
+            "a11c0277-a959-42a3-9ddc-0bbec3c9f0bf"
+        ],
+        "c9de9486-bc1f-4108-b787-2df307afd59b": [
+            "15b520a5-725b-4881-b166-d8df2293d3de"
+        ],
+        "632a4343-77be-4c10-bac4-393bd2ddeb16": [
+            "15b520a5-725b-4881-b166-d8df2293d3de"
+        ],
+        "6e539ad8-9c26-4297-b2fc-43c1facb04ae": [
+            "f0b9d1c0-c985-41ff-99ed-6920b831d457"
+        ],
+        "ad7c9a88-45c6-41c6-be40-bb66c2f3d942": [
+            "f0b9d1c0-c985-41ff-99ed-6920b831d457"
+        ],
+        "7e223967-9f27-446d-8a04-871639aeab31": [
+            "fb3544b1-e418-46ea-b0f4-83c2166afb27"
+        ],
+        "3469d908-c8e2-4ea5-b072-916e26a11584": [
+            "fb3544b1-e418-46ea-b0f4-83c2166afb27"
+        ],
+        "d1ea4277-478f-43a9-88db-4bbcc0e6ade3": [
+            "c3e3aaf0-77c5-47ec-92c2-9d987a5c62b7"
+        ],
+        "26cf11cc-563a-442b-9159-a360ee975f24": [
+            "c3e3aaf0-77c5-47ec-92c2-9d987a5c62b7"
+        ],
+        "7cacdc2a-4839-466b-bdf9-44057a4c3d6d": [
+            "af86ee9f-9254-4b23-a223-1696f33078ae"
+        ],
+        "998cedc6-8742-4d86-893e-4ede88804c19": [
+            "af86ee9f-9254-4b23-a223-1696f33078ae"
+        ],
+        "eecf2142-d92e-4af3-80c9-658e4cc32128": [
+            "4dfcb00b-9d73-4153-9389-b20dff850896"
+        ],
+        "5fbb3ab7-4b78-49ac-8535-e3270a2dc1c1": [
+            "4dfcb00b-9d73-4153-9389-b20dff850896"
+        ],
+        "df1c3b97-d674-4bda-a9bd-676ddbf0d838": [
+            "81badc9b-ebb4-48d1-a493-04734c73a4ed"
+        ],
+        "f9683814-2ec9-486f-b88d-ae807e99c3b7": [
+            "81badc9b-ebb4-48d1-a493-04734c73a4ed"
+        ],
+        "6afb36ba-3c4f-4dae-94bb-93f199f1c277": [
+            "12caa612-2ead-4321-b5d3-a50831b1db26"
+        ],
+        "1bddf02b-a3f6-480a-9584-655ffa8411ba": [
+            "12caa612-2ead-4321-b5d3-a50831b1db26"
+        ],
+        "27cffecb-0a91-482f-a874-7fcda00185a7": [
+            "853a197c-e154-4b04-98e8-b160b4003699"
+        ],
+        "cc0fe841-c01d-488a-8591-09eeffceb827": [
+            "853a197c-e154-4b04-98e8-b160b4003699"
+        ],
+        "d6453dae-511b-4a3a-a048-cac0b536f1be": [
+            "fdf5eeee-56c0-4777-806f-2eb14ee73e18"
+        ],
+        "603455a3-13bf-47d5-8f8a-b5e8127cb5f4": [
+            "fdf5eeee-56c0-4777-806f-2eb14ee73e18"
+        ],
+        "572d2ddb-4fdc-4076-9f77-b0d0bf805362": [
+            "953890dd-b3a9-4bf6-a9db-7c3b41ce5e1d"
+        ],
+        "dc5594b2-b82d-40b5-bbdf-cc8c43ac3db9": [
+            "953890dd-b3a9-4bf6-a9db-7c3b41ce5e1d"
+        ],
+        "78ef0133-85cc-4714-9e78-e732f083450d": [
+            "a0481927-cc50-405e-9c05-4bf129f3ebf9"
+        ],
+        "09f790bd-2684-4d2f-918a-c1d84332f54b": [
+            "a0481927-cc50-405e-9c05-4bf129f3ebf9"
+        ],
+        "36655037-36b4-4a7a-8a5a-5b6004e699c4": [
+            "041dbad1-de47-4d9b-8777-9b5b3443e43e"
+        ],
+        "d35f3cbc-70c3-4476-b383-5383ad277507": [
+            "041dbad1-de47-4d9b-8777-9b5b3443e43e"
+        ],
+        "f830892e-f46d-4691-9c22-412c9aa75b42": [
+            "2c21c9d8-17d0-49d4-afc5-746c042035aa"
+        ],
+        "5912f973-35e7-4154-a94a-21a319493d17": [
+            "2c21c9d8-17d0-49d4-afc5-746c042035aa"
+        ],
+        "943ee0f6-7b64-4659-976f-a9d292ab967b": [
+            "d3c91f27-0595-45c1-86e7-5219cb2fbbf9"
+        ],
+        "7431f3e9-b1c2-46eb-9e92-f1ddd052b3dc": [
+            "d3c91f27-0595-45c1-86e7-5219cb2fbbf9"
+        ],
+        "1ab0461c-7eb7-4fb5-996b-d9e99799fac7": [
+            "26f08257-5310-4a2a-89f6-ccf5ad8f224f"
+        ],
+        "2a006f78-74ce-4880-8587-91246da1c9a3": [
+            "26f08257-5310-4a2a-89f6-ccf5ad8f224f"
+        ],
+        "8e39405a-e7d3-40eb-bbae-451c346ccc3a": [
+            "4054d55f-fd7a-4175-97e3-ea8dd956efe8"
+        ],
+        "4fe4867e-6e87-415a-854e-ee084b231a6a": [
+            "4054d55f-fd7a-4175-97e3-ea8dd956efe8"
+        ],
+        "b2cddcb2-cf64-4db6-afc6-a417ace61fba": [
+            "4116cc2b-2eb9-482f-9f07-f23142930cbb"
+        ],
+        "fce91fdc-b2d0-4cbd-9eae-e282c9d8c072": [
+            "4116cc2b-2eb9-482f-9f07-f23142930cbb"
+        ],
+        "6a9d69ed-cd65-4ea1-9928-56cd4fbd3b4e": [
+            "3cd540b0-33cf-489e-adfd-87d4d145291d"
+        ],
+        "dedecc4d-8579-4303-8740-49213e4762be": [
+            "3cd540b0-33cf-489e-adfd-87d4d145291d"
+        ],
+        "94cc4ee2-3af4-4a02-8c27-07033aac91a3": [
+            "89bd9473-2e8e-4ec0-bd1c-038a95d37de7"
+        ],
+        "a5c5ec9d-ad32-4518-a83c-3e2492c19859": [
+            "89bd9473-2e8e-4ec0-bd1c-038a95d37de7"
+        ],
+        "b15a91b8-f5ac-4b9b-a64e-a41994ce6e78": [
+            "bafb3b5d-4f96-43e5-b86f-489d19d4487b"
+        ],
+        "ce66f090-486e-4ee5-9fc2-f3296d5476b5": [
+            "bafb3b5d-4f96-43e5-b86f-489d19d4487b"
+        ],
+        "1e279b14-9810-4422-ba6e-4c14cb030c76": [
+            "48b828f2-9641-42d5-8426-19ed84feab33"
+        ],
+        "3f003b6b-eb91-4c0a-a549-bbd03c9d5c5a": [
+            "48b828f2-9641-42d5-8426-19ed84feab33"
+        ],
+        "1227e6f7-6f42-46e8-bfd7-d97e1c142b77": [
+            "f22539e0-b212-4def-93ca-e07436e04792"
+        ],
+        "716e0913-1830-4cf4-a8cf-d7809554ad5a": [
+            "f22539e0-b212-4def-93ca-e07436e04792"
+        ],
+        "a41525c4-70d8-4fcb-a432-ab6d85dd0bdd": [
+            "8d251deb-c7a2-49ab-b2a9-656c35650ed6"
+        ],
+        "f8f370e9-0c39-4bad-bfa9-62dcb8e166c3": [
+            "8d251deb-c7a2-49ab-b2a9-656c35650ed6"
+        ],
+        "06793c0e-9c25-4e66-904a-6dadfdcde3c2": [
+            "2c0c8148-b446-4eca-a9da-82f135b88e1d"
+        ],
+        "b6aec577-5e5c-4a96-bfe8-9f83843e77c0": [
+            "2c0c8148-b446-4eca-a9da-82f135b88e1d"
+        ],
+        "62c1ebc2-fa36-40f5-a9b6-7cb9997c18fd": [
+            "c29d2276-1c16-499f-8d79-f034557ec12a"
+        ],
+        "32ee2a6b-6d96-42ae-a5f9-af8e4060fc72": [
+            "c29d2276-1c16-499f-8d79-f034557ec12a"
+        ],
+        "03f3601c-37f8-464a-a3c9-b474472573c3": [
+            "b9e5ac3c-e1dd-4bf8-aa05-3141b2a5894a"
+        ],
+        "88d17d5f-50c2-4018-abff-b1b924d410f3": [
+            "b9e5ac3c-e1dd-4bf8-aa05-3141b2a5894a"
+        ],
+        "a89734ad-5116-4ed1-8998-9e375fdf0ad0": [
+            "0f3cfe58-93d9-4b40-a985-ff4ce6f3b44a"
+        ],
+        "1bcc349e-c3b8-4e79-ab56-78864a95da07": [
+            "0f3cfe58-93d9-4b40-a985-ff4ce6f3b44a"
+        ],
+        "348f4ab3-2c62-488f-a995-c6cc1f7b3d9b": [
+            "b521ed0f-b9fc-4b61-8f4f-c1a91d665de2"
+        ],
+        "0b354bf5-32f8-46fc-a3b4-ca59598eac91": [
+            "b521ed0f-b9fc-4b61-8f4f-c1a91d665de2"
+        ],
+        "d4c5e478-74e9-4ed7-b2eb-7cd818834758": [
+            "61f0f051-ffc8-454d-a92b-c74f7c14cbb4"
+        ],
+        "effa2095-877c-4df9-9686-b4e9236ba6ed": [
+            "61f0f051-ffc8-454d-a92b-c74f7c14cbb4"
+        ],
+        "002e79d0-e126-4a35-b6a4-f312539c9c25": [
+            "48fda286-16c7-412f-9f14-cc257d701ff7"
+        ],
+        "e039682c-6ca7-4eb1-ac8b-7ae1832c2747": [
+            "48fda286-16c7-412f-9f14-cc257d701ff7"
+        ],
+        "e0152631-d7f3-40ff-8013-d8461e6e991d": [
+            "7d420dbe-2d96-4109-9702-2f6e84084a5e"
+        ],
+        "a2865a61-3d56-4445-a3d2-44db54a2b8e6": [
+            "7d420dbe-2d96-4109-9702-2f6e84084a5e"
+        ],
+        "fa131eb6-6ab8-4fc7-bdaa-316ad4ceaf60": [
+            "6fb69136-ebd5-4260-a94a-9af7e1d78daa"
+        ],
+        "59140028-6123-4a23-90ec-718072b3f2f9": [
+            "6fb69136-ebd5-4260-a94a-9af7e1d78daa"
+        ],
+        "b38dcb7c-5edb-4763-8e36-2e05698e3436": [
+            "999df6dd-ce33-4611-87b9-4dd37dac61c8"
+        ],
+        "428f4807-71e4-4c5e-b546-58b0b8de709f": [
+            "999df6dd-ce33-4611-87b9-4dd37dac61c8"
+        ],
+        "f947187e-cd35-496d-be0a-ff45214ce384": [
+            "aa7d5258-26b5-49fe-8386-1569d4c416e0"
+        ],
+        "1d87beb7-f2a0-46e9-aa5b-31ce61a7f04f": [
+            "aa7d5258-26b5-49fe-8386-1569d4c416e0"
+        ],
+        "80577bd9-a8be-4016-99b7-c22e217abab8": [
+            "02e964de-a4a4-435c-bb61-45fbe293c71b"
+        ],
+        "04cef516-17ec-4407-8764-fa5811a50baa": [
+            "02e964de-a4a4-435c-bb61-45fbe293c71b"
+        ],
+        "6c5307ff-cd8e-4a2e-b7bc-5f41ff7db63a": [
+            "5ea7f658-41e2-44cf-99a7-c0cc61e03181"
+        ],
+        "4521895b-1d53-4768-98ba-ef1a69384cd0": [
+            "5ea7f658-41e2-44cf-99a7-c0cc61e03181"
+        ],
+        "94c5741f-6bb6-472c-9740-223e31069bc4": [
+            "4b2e4d7f-55a9-4d53-a410-c0dd6eee2b30"
+        ],
+        "1695902d-3517-4b8e-81a7-efb782dc9351": [
+            "4b2e4d7f-55a9-4d53-a410-c0dd6eee2b30"
+        ],
+        "e6fc066c-cb98-47c2-af16-5c1e68bcfd86": [
+            "ed4d95d6-c8ef-40fc-a662-db24439f4a43"
+        ],
+        "135a32ad-42cb-4f96-9221-0553dad5b334": [
+            "ed4d95d6-c8ef-40fc-a662-db24439f4a43"
+        ],
+        "ec0cc3f5-8af6-4035-8067-26357879a005": [
+            "1a73c694-1564-42e8-b2cf-f91a076eb094"
+        ],
+        "84804ff4-73a4-4fff-8ac5-aca12a970bcd": [
+            "1a73c694-1564-42e8-b2cf-f91a076eb094"
+        ],
+        "17a7fb7a-2ae4-4010-be4e-cf90971146f2": [
+            "d9fe6665-1cca-491d-a6f1-0a53905d9f2d"
+        ],
+        "26c131a4-1f61-4e7b-8b8e-52347cf338a3": [
+            "d9fe6665-1cca-491d-a6f1-0a53905d9f2d"
+        ],
+        "f9658b8d-7dec-441f-9acc-54e0ff73734d": [
+            "279d4344-50d0-4e41-9556-0dd4e84ef004"
+        ],
+        "0d3b8dc0-9137-459a-a17d-5883ea608708": [
+            "279d4344-50d0-4e41-9556-0dd4e84ef004"
+        ],
+        "d4ac22a4-9b2d-4160-b7ec-5c63641712cd": [
+            "ac7e9687-c16f-4b83-92a4-2e6a5cc845d3"
+        ],
+        "405f39cc-bfab-4462-aa70-3b6faf1d6de6": [
+            "ac7e9687-c16f-4b83-92a4-2e6a5cc845d3"
+        ],
+        "76706f90-ba3d-4518-bd0f-7125ed8ace8c": [
+            "53d37ed3-2950-4387-ba76-38972aa40ce8"
+        ],
+        "def0ec92-6645-49c0-8a76-a8f5be6aa879": [
+            "53d37ed3-2950-4387-ba76-38972aa40ce8"
+        ],
+        "ff3a577e-f1ff-4ef8-b8c0-82a1b2d32b24": [
+            "98c4851e-d6fb-4cec-acbe-65e411ee02be"
+        ],
+        "3aa0ee5a-d8d6-4267-871d-823f94e7f882": [
+            "98c4851e-d6fb-4cec-acbe-65e411ee02be"
+        ],
+        "c59bcba8-5aed-4f32-9989-697c4230578a": [
+            "6250f6f3-e15f-4126-b35a-05243ded3a5e"
+        ],
+        "3755fcdf-a8f9-430a-b482-7e48a5b89501": [
+            "6250f6f3-e15f-4126-b35a-05243ded3a5e"
+        ],
+        "b70d55c8-9b30-4916-aace-0d981892c4af": [
+            "a34f30d3-ca79-4361-92bc-da38f75ffa9a"
+        ],
+        "ef7cbf50-31c5-479b-8211-d4175698350b": [
+            "a34f30d3-ca79-4361-92bc-da38f75ffa9a"
+        ],
+        "72fddb1b-ab29-4456-b1ea-867068ecbada": [
+            "ea2bad80-ef66-41de-8c81-a32004cf90b3"
+        ],
+        "06927691-b08b-425e-8f73-1607c721f01c": [
+            "ea2bad80-ef66-41de-8c81-a32004cf90b3"
+        ],
+        "d47adbb4-5729-45a7-ad85-8732ec361987": [
+            "477556a7-d234-4651-9ff2-82e83636bb58"
+        ],
+        "18921f36-2b78-4a85-8590-8a2cc4fc019c": [
+            "477556a7-d234-4651-9ff2-82e83636bb58"
+        ],
+        "e0fba12f-0262-48d2-b944-6fe6ffc84cac": [
+            "a4baac47-2db3-4db4-9298-335a263542de"
+        ],
+        "2c94366e-f575-490f-8639-2d491ec1117e": [
+            "a4baac47-2db3-4db4-9298-335a263542de"
+        ],
+        "81b60dbe-3176-4ec4-a8cb-9adfe98f7f56": [
+            "8950ffff-3d81-4c3c-98ea-c0c3e41fbacf"
+        ],
+        "cb508690-030c-436b-85e4-ce1d84c1ee1f": [
+            "8950ffff-3d81-4c3c-98ea-c0c3e41fbacf"
+        ],
+        "6b54b789-070a-4be3-8ff8-cd75446d8791": [
+            "c19b0cfd-c5a9-4fc2-912d-58d300d3c2da"
+        ],
+        "2c2afa06-bb42-4a93-ae8c-242f731874b4": [
+            "c19b0cfd-c5a9-4fc2-912d-58d300d3c2da"
+        ],
+        "e1d1a089-e02e-4bcd-a95e-8feb1cac7e21": [
+            "aae005a6-1ddd-4af5-bb74-3972c6f2a849"
+        ],
+        "6e9233c7-9de3-47e4-9b9a-e5cb46b18a16": [
+            "aae005a6-1ddd-4af5-bb74-3972c6f2a849"
+        ],
+        "d5526356-dbfe-43d7-afcb-487a5b5e9a1c": [
+            "b694b674-3fe1-49cc-8169-97903d33432a"
+        ],
+        "191d1412-4d09-442b-8521-3eca55fbba1b": [
+            "b694b674-3fe1-49cc-8169-97903d33432a"
+        ],
+        "ac1fa98a-2da0-4380-b071-4964fc772f7f": [
+            "6c8e618b-c72f-482e-98c9-575d9c409443"
+        ],
+        "7a8f45d6-1db3-4066-8cde-848dfe298fb5": [
+            "6c8e618b-c72f-482e-98c9-575d9c409443"
+        ],
+        "4a1420f8-d254-4e01-a11b-803809b709e4": [
+            "f5ee60a2-0bc2-48e1-915d-f9e0aed2c927"
+        ],
+        "680a4832-82a9-4d65-968f-9325d7a1fab2": [
+            "f5ee60a2-0bc2-48e1-915d-f9e0aed2c927"
+        ],
+        "c6504a44-7ec6-43cb-a59a-1c87188c32d1": [
+            "565798f9-16a6-42af-b698-5a0ca555066d"
+        ],
+        "04159dc1-5491-473a-9b6c-cb54b72b887b": [
+            "565798f9-16a6-42af-b698-5a0ca555066d"
+        ],
+        "5e9d792f-0c9b-47f8-80b1-82aa317259cf": [
+            "01a24e38-3494-4553-9ca8-1d7bd37d7b8e"
+        ],
+        "4afcca0c-0d08-4e32-88da-2250d678212a": [
+            "01a24e38-3494-4553-9ca8-1d7bd37d7b8e"
+        ],
+        "5ded1e5d-81a3-40bd-93be-bea1efb6cf0f": [
+            "7c75d96b-8b60-4e64-81f3-ae6e3afc9e44"
+        ],
+        "7e41c6d7-38a9-464e-b432-b8512bd77b98": [
+            "7c75d96b-8b60-4e64-81f3-ae6e3afc9e44"
+        ],
+        "f3b655d3-5314-4edd-b085-bb98135ce04a": [
+            "09097f3c-abd6-4c12-bffd-f2504d15087c"
+        ],
+        "c9e1ae6b-dc38-4100-ba8b-7d56fba7ea25": [
+            "09097f3c-abd6-4c12-bffd-f2504d15087c"
+        ],
+        "9595133a-e10d-49d5-879e-60d5d399c028": [
+            "ee84b63b-e6fe-4132-8462-869aea4a97af"
+        ],
+        "4e4acfeb-b576-45ef-ba34-2513cf43a15f": [
+            "ee84b63b-e6fe-4132-8462-869aea4a97af"
+        ],
+        "4cbca387-424a-4a52-a4b5-ea6bc076701c": [
+            "4cf3c4e8-d5e6-4157-8a67-85e59c50de48"
+        ],
+        "57d40521-9192-4797-a4c1-00e8a5010b00": [
+            "4cf3c4e8-d5e6-4157-8a67-85e59c50de48"
+        ]
+    }
+}
